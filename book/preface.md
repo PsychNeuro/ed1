@@ -1,4 +1,4 @@
 # Preface
 
-This is the fourth edition of this book.  Previous editions were posted on https://grey.colorado.edu/CompCogNeuro/index.php/CCNBook/Main
+This is an in-progress experiment -- feedback is more than welcome.  
 
