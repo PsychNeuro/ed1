@@ -141,7 +141,6 @@ HASKELL_OPTS = ''
 PANDOC_EXTENSIONS = (
     "line_blocks",
     "escaped_line_breaks",
-    "smart",
     "fenced_code_blocks",
     "fenced_code_attributes",
     "backtick_code_blocks",

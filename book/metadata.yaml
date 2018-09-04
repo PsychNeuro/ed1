@@ -1,8 +1,8 @@
 copyright:
-  owner: "Randall C. O'Reilly, Yuko Munakata, Michael J. Frank, Thomas E. Hazy, and Contributors"
+  owner: "Randall C. O'Reilly"
   year: 2018
 
-title: "Computational Cognitive Neuroscience"
+title: "Principles of Psychology and Neuroscience, First Edition"
 
 publisher: "Open Textbook, freely available"
 
@@ -24,10 +24,6 @@ use_weasyprint: false
 # Multiple authors are permitted.
 author:
 - "Randall C. O'Reilly"
-- Yuko Munakata
-- Michael J. Frank
-- Thomas E. Hazy
-- Contributors
 
 # Book identifier is optional.
 #identifier:
