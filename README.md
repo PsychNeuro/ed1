@@ -16,5 +16,5 @@ With just these three principles, we can understand a huge swath of Psychology a
 
 # Open publishing
 
-This book is open source, published under a Creative Commons license, and available in a wide range of formats.  It is formatted using the `markdown` format and rendered via `pandoc` using the ebook-template by Brian Clapper at https://github.com/bmc/ebook-template
+This book is open source, published under a Creative Commons license, and available in a wide range of formats.  It is formatted using the `markdown` format and rendered via `pandoc` https://pandoc.org/MANUAL.html using the ebook-template by Brian Clapper at https://github.com/bmc/ebook-template
 
