@@ -1,4 +1,4 @@
-# Chapter 3: Consciousness, Sleep, Arousal and Emotion
+# Chapter 3: Consciousness, Sleep, and Arousal
 
 Intro
 
@@ -24,11 +24,4 @@ todo: metacognition figure too.
 * neural basis of input consciousness in terms of bidirectional interactions: consciousness is a reflection of this mutual interdependence and interaction among neurons.  Neocortex is unique in having bidirectional excitatory connections, which come at cost of epilepsy.
 
 
-## Emotion and Arousal
-
-* extensive interconnected networks of areas devoted to emotion and arousal, at all levels of the brain.  thus, from the modern perspective, emotion is as much of an emergent, interactive process as anything else in the brain.  However, historically, people took rather extreme and somewhat strange and hard-to-understand perspectives. James-lange / Cannon-Baird etc.
-
-* is emotion really what makes humans unique?  hollywood clearly thinks so: evil robotic non-emotional beings...  part of this is that emotion is what keeps us from harming each other: psychopaths lack that basic emotional connection.  So, from a survival perspective, we really depend on everyone sharing these protective emotional responses, and anything that doesn't is immediately scary and foriegn.  
-
-* circumplex model.
 
