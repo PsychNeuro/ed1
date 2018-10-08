@@ -40,3 +40,6 @@ genre: reference
 # "A4" is also valid.
 
 #papersize: letter
+
+bibliography: "book/references.json"
+link-citations: true
