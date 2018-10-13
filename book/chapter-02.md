@@ -201,7 +201,7 @@ Thus, while there certainly are a few deep mysteries and major discoveries yet t
 
 ## Summary of Key Terms
 
-This is a checklist of key terms that you should know about from this chapter.
+This is a checklist of key terms / concepts that you should know about from this chapter.
 
 * Neuron: synapse, dendrite, cell body, axon
 	+ neurotransmitter, reuptake, receptor, channel, ion, membrane potential, threshold, spike / action potential
@@ -209,6 +209,39 @@ This is a checklist of key terms that you should know about from this chapter.
 	+ excitatory: glutamate, AMPA, Na+; inhibitory: GABA, Cl-
 	+ Tug-of-war creates *contrast* -- neurons respond *relative to average*
 
-* Brain: ...
+* Brain:
+	+ Cerebral cortex / Neocortex:
+		+ Occipital lobe: vision, V1
+		+ Temporal lobe: objects, auditory, A1, language, episodes, semantics
+		+ Parietal lobe: action, somatosensory, S1, homunculus, number, space, time, relations
+		+ Frontal lobe: motor, M1, control, planning, sequencing, decisions, motivation, affect
+		+ Hierarchy of compression
+	+ Thalamus: relay, thalamocortical system
+	+ Basal ganglia: decision making, control, dopamine
+	+ Amygdala: emotion
+	+ Hippocampus: episodic memory
+	+ Cerebellum: error-driven motor learning
+	+ Hypothalamus: core body functions, HPA axis, stress
+	+ Brainstem: reticular activating system, dopamine, serotonin, norepinepherine, acetylcholine
+	
+* Drugs:
+	+ Agonist: activates, enhances neurotransmitter / receptor function
+	+ Antagonist: inhibits, suppresses neurotransmitter / receptor function
+	+ Caffeiene: adenosine
+	+ Nicotine: ACh
+	+ Alcohol: GABA
+	+ Benzodiazepines: GABA
+	+ Amphetamine: norepinepherine
+	+ Cocaine: dopamine
+	+ SSRI: serotonin
+	+ Psychedelics: serotonin
+	+ Cannabis: cannabanoid
+	+ Narcotics: endogenous opioid
 
+* Methods:
+	+ PET: radioactivity, slow (bad temporal resolution)
+	+ fMRI: blood oxygen (BOLD), faster than PET but still slow, good spatial resolution
+	+ EEG: electric signals, fast (real time, good temporal resolution), but poor spatial resolution
+	+ MEG: magnetic signals, fast, better spatial resolution, expensive
+	
 
