@@ -50,7 +50,7 @@ If you run the Stroop task on kids, they don't show the same effects -- reading 
 
 The human brain is likely unique in having the ability to function like a Turing machine -- other animals have plenty of automatic parallel processing skills, but they just don't seem to be capable of solving novel, complex tasks by performing a sequence of mental processing steps.  The reason we can function like a computer is that we have some special capacities lacking in other types of brains, supplying the key ingredients of a Turing machine:
 
-* _Program:_  we use our *natural language* as a kind of programming language.  There is abundant evidence that we routinely use verbal self-instruction to remind ourselves of what we're supposed to do next in a complex, novel task [@MiyakeEmersonPadillaEtAl04].  We literally talk ourselves through the problem, and this capacity for stringing together different such verbal programs is an essential element of flexible, universal computation.  It is unclear how far we might be able to get at flexible controlled processing without language, but likely not very far.
+* _Program:_  we use our *natural language* (e.g., English) as a kind of programming language.  There is abundant evidence that we routinely use verbal self-instruction to remind ourselves of what we're supposed to do next in a complex, novel task [@MiyakeEmersonPadillaEtAl04].  We literally talk ourselves through the problem, and this capacity for stringing together different such verbal programs is an essential element of flexible, universal computation.  It is unclear how far we might be able to get at flexible controlled processing without language, but likely not very far.
 
 * _Active Memory_ (registers, cache memory): special properties of our *frontal cortex* and *basal ganglia* give us the ability to maintain a small amount of information in active, **working memory**, as mentioned in the previous chapter.  This is what you use when solving a mental arithmetic problem, by constantly juggling the digits around in your working memory.  Working memory replaces the piece of paper you would otherwise use in keeping track of all the *partial products* and *control state* needed to keep progressing through a complex problem.  It is also essential for maintaining the program itself, and in this way it much resembles the function of RAM in a computer, which maintains both the program and the *stack* and *heap* forms of active memory needed to carry out the program.
 
@@ -107,7 +107,7 @@ Many people avoid flying in airplanes due to fear of crashes, which inevitably g
 
 The real-world life-and-death implications of our reliance on the availability heuristic were starkly illustrated in an analysis by *Gerd Gigerenzer* of people's avoidance of flying after the September 11, 2001 terrorist attacks in the US [@Gigerenzer06].  He found that there were roughly 1,500 additional deaths caused by people choosing to drive instead of fly -- driving is much, much riskier than flying, and yet because it is so familiar and commonplace, people vastly underestimate the relative risks.
 
-Gigerenzer and colleagues have many other studies showing our general incompetance in dealing with statistical information, again with real-world implications.  For example, even highly-trained doctors make significant mistakes interpreting the statistical results of medical studies on health risks and probabilities.  One of the most important errors we make is known as **base rate neglect**.  For example, if you hear that drinking alcohol increases your risk of death by 12%, that sounds like a big effect.  But people routinely neglect to take into account that the base rate against which this percentage is measured is extremely low.  In practice, the difference amounts to just *4* additional deaths per 100,000 people per year: [NYT article: `https://www.nytimes.com/2018/08/28/upshot/alcohol-health-risks-study-worry.html`](https://www.nytimes.com/2018/08/28/upshot/alcohol-health-risks-study-worry.html). 
+Gigerenzer and colleagues have many other studies showing our general incompetance in dealing with statistical information, again with real-world implications.  For example, even highly-trained doctors make significant mistakes interpreting the statistical results of medical studies on health risks and probabilities.  One of the most important errors we make is known as **base rate neglect**.  For example, if you hear that drinking alcohol increases your risk of death by 12%, that sounds like a big effect.  But people routinely neglect to take into account that the base rate against which this percentage is measured is extremely low.  In practice, the difference amounts to just *4* additional deaths per 100,000 people per year: [NYT article: `https://www.nytimes.com/2018/08/28/upshot/alcohol-health-risks-study-worry.html`](https://www.nytimes.com/2018/08/28/upshot/alcohol-health-risks-study-worry.html). This is really an instance of the *contrast* effect -- we focus on differences but not on the raw values.
 
 ![Fig 7-6: Wason card selection task. Your job is to verify whether the following rule holds for these cards: If there is an even number on one side, then the other side is red.  Which cards would you turn over to test whether this rule holds?](figures/fig_wason_card_selection.png){ width=50% }
 
@@ -165,7 +165,7 @@ The amount of variance predicted by IQ scores on factors such as job performance
 
 Importantly, the predictive validity of IQ scores does *not* differ across different groups, such as women or minorities [@NeisserBoodooBouchardEtAl96].  This provides one way of assessing whether IQ tests are inherently biased, and the results suggest that they aren't biased at this level.  However, just looking at the test from a construct validity perspective, it definitely does test lots of knowledge that is typically learned in school, and must be expressed verbally.  Thus, an individual's prior schooling environment is undoubtedly going to have a significant impact on their IQ score.  Furthermore, as noted above, there are significant correlations between parental SES and IQ, at about .33 [@NeisserBoodooBouchardEtAl96].  Thus, there is no doubt that your raw IQ score reflects a strong contribution from various environmental factors that likely systematically vary among different groups.  Interestingly, the predictive validity factor is not directly affected by such overall mean differences -- it is only affected by the *variance* in scores across individuals.
 
-In summary, IQ is both a biased and fair test of intelligence!  It is biased at the mean level, and by the very fact that *any* test of complex task performance is likely to be affected by relevant SES-level factors.  But at the level of predictive validity, it is fair in that there aren't significant differences across groups for this property.
+In summary, IQ is both a biased and fair test of intelligence!  It is biased at the mean level, and by the very fact that *any* test of complex task performance is likely to be affected by relevant SES-level factors.  But at the level of predictive validity, it is fair in that there aren't significant differences across groups.  We'll consider the data on the genetics and heritability of intelligence in the chapter on genetics and development.
 
 ### Multiple intelligences
 
@@ -193,4 +193,32 @@ As we saw in the working memory capacity results discussed earlier [@AdamVogel16
 
 This is a checklist of key terms / concepts that you should know about from this chapter.
 
-
+* Fixed vs. growth mindset and the malleability of intelligence
+* Algorithm = program for solving a given problem (e.g., mental arithmetic)
+* Automatic vs. controlled processing
+* Stroop task: word reading is automatic compared to color naming that requires controlled processing
+* Neural CPU:
+	+ Working memory supported by prefrontal cortex = active memory / RAM in a computer
+	+ Basal ganglia = production system = sequentializing cognitive steps
+	+ Natural language (e.g., English) = program
+* Cognitive biases / heuristics: shortcuts that leverage strengths, avoid hard-to-compute optimal, rational solutions.
+	+ Representative heuristic: use similarity to prototypes / stereotypes instead of actual statistics.  Compression!
+	+ Availability heuristic: use familiarity instead of actual statistics.
+	+ Base-rate neglect: focus on percents instead of overall probability. Contrast!
+	+ Better at concrete vs. abstract reasoning: Wason card selection task
+	+ Transfer of learning: not much = situated learning: learning is specific to situations
+* Problem solving:
+	+ Strategies: trial-and-error, hill-climbing / gradient ascent, means-ends
+	+ Puzzles designed to frustrate obvious / hill-climbing solution
+	+ Insight problems: mental-set and functional fixedness
+* Intelligence tests:
+	+ Stanford-Binet
+	+ Wechsler Adult Intelligence Scale (WAIS) -- standardized scale (100 mean, 15 standard deviation)
+	+ reliability, construct validity, predictive validity -- importance of predictive validity for 
+* Multiple intelligences
+	+ Generalized intelligence factor *g*
+	+ Crystallized vs. fluid intelligence
+	+ Raven's progressive matricies as non-verbal test of fluid intelligence
+* Control:
+	+ Cognitive control in service of overall control
+	
