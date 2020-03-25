@@ -174,42 +174,41 @@ One final issue concerns the optimal level of arousal for driving motivated beha
 This is a checklist of key terms / concepts that you should know about from this chapter.
 
 * Synaptic Plasticity
-	+ Hebbian Learning
-	+ Long Term Potentiation (LTP)
-	+ Long Term Depression (LTD)
-	+ 5 Steps of NMDA / Ca++ synaptic plasticity
-	+ What determines LTP vs. LTD direction of synaptic plasticity?
-	+ Error backpropagation
+    + Hebbian Learning
+    + Long Term Potentiation (LTP)
+    + Long Term Depression (LTD)
+    + 5 Steps of NMDA / Ca++ synaptic plasticity
+    + What determines LTP vs. LTD direction of synaptic plasticity?
+    + Error backpropagation
 
 * Classical Conditioning
-	+ Conditioned stimulus (CS)
-	+ Unconditioned stimulus (US)
-	+ Un/conditioned response (U/CR)
-	+ Dopamine responses to CS, R, no-R in conditioning expt
-	+ Rescorla-Wagner learning rule / reward prediction error model of dopamine
-	+ Extinction, and its context sensitivity: spontaneous recovery, reinstatement, renewal
+    + Conditioned stimulus (CS)
+    + Unconditioned stimulus (US)
+    + Un/conditioned response (U/CR)
+    + Dopamine responses to CS, R, no-R in conditioning expt
+    + Rescorla-Wagner learning rule / reward prediction error model of dopamine
+    + Extinction, and its context sensitivity: spontaneous recovery, reinstatement, renewal
 
 * Operant / Instrumental Conditioning
-	+ Thorndike's law of effect
-	+ Implementation thereof in terms of dopamine effects on Go / NoGo
-	+ Actor / Critic model
-	+ Partial reinforcement and gambling
-	+ Shaping to build up complex behaviors
-	+ Primary and secondary reinforcers
+    + Thorndike's law of effect
+    + Implementation thereof in terms of dopamine effects on Go / NoGo
+    + Actor / Critic model
+    + Partial reinforcement and gambling
+    + Shaping to build up complex behaviors
+    + Primary and secondary reinforcers
 
 * Motivation
-	+ External (extrinsic) vs. internal (intrinsic) motivation
-	+ Drive reduction
-	+ Maslow's hierarchy of needs (levels of hierarchy)
-	+ role of vmPFC in satiety / devaluation effects
+    + External (extrinsic) vs. internal (intrinsic) motivation
+    + Drive reduction
+    + Maslow's hierarchy of needs (levels of hierarchy)
+    + role of vmPFC in satiety / devaluation effects
 
 * Emotion and Arousal
-	+ Circumplex model
-	+ Six basic emotions according to Ekman's original faces
-	+ Relationship between emotion and motivation
-	+ Importance of both physiological and higher-level interpretations for emotion
-	+ Yerkes-Dodson law
-
+    + Circumplex model
+    + Six basic emotions according to Ekman's original faces
+    + Relationship between emotion and motivation
+    + Importance of both physiological and higher-level interpretations for emotion
+    + Yerkes-Dodson law
 
 
 

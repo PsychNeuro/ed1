@@ -3,7 +3,7 @@
 Memory is the direct product of learning, so everything we learned in the previous chapter will help us understand how memory works.  If you can remember it, of course.  Some of the major questions that have been the focus of memory research include:
 
 * What different kinds of memory are there?
-	+ Are there specialized brain areas for different kinds of memory?
+    + Are there specialized brain areas for different kinds of memory?
 * How long does memory last (for each different type)?
 * What factors determine how well memories are encoded and recalled?
 
@@ -19,16 +19,16 @@ In contrast, there is no fundamental separation between memory and processing in
 
 The functional equivalent of RAM for a computer is not so obvious in the brain: without a CPU, there is no need for quickly reading and writing information from a RAM-like memory system.  Instead, everything the neuron needs to carry out its detection and compression function is right there in its synapses, and learning directly modifies these synaptic connections.  Furthermore, as we saw in the last chapter, this learning is long-term (i.e., long-term potentiation, LTP, and long-term depression, LTD), so it seems that memory in the brain is typically long-lasting, unlike RAM.  And yet, we have all had the experience of suddenly forgetting what we were just talking about, or entering a room with a clear purpose, which has just vanished into thin air.  These seem like distinctly RAM-like properties.  What kind of stuff in the brain are these experiences made out of? 
 
-The answer is: *neural firing* -- the ongoing spiking activity of the vast numbers of neurons in your brain that are currently above-threshold and sending their signals to other neurons.  Indeed, this __neural activity__ is an essential additional contributor to memory, and even though it is fundamentally different from RAM in terms of the underlying function of the brain, it nevertheless has some properties in common with RAM, in terms of being relatively *transient* and, well, *active*.  Furthermore, we'll see that the frontal cortex / basal ganglia system is uniquely capable of sustaining patterns of neural activity over longer durations, and thus corresponds to a kind of RAM-like system called **working memory**.  Thus, as often happens in biology, the same functional properties (active, transient memory vs. slower, permanent memory in this case) can emerge from very different underlying mechanisms.  Furthermore, we'll see in the next chapter that even though the brain is nothing like a computer at the level of individual neurons, it does behave somewhat like a computer at the larger-scale systems level, where the RAM-like working memory system plays a critical role, but we'll postpone consideration of this level until then.
+The answer is: *neural firing* -- the ongoing spiking activity of the vast numbers of neurons in your brain that are currently above-threshold and sending their signals to other neurons.  Indeed, this **neural activity** is an essential additional contributor to memory, and even though it is fundamentally different from RAM in terms of the underlying function of the brain, it nevertheless has some properties in common with RAM, in terms of being relatively *transient* and, well, *active*.  Furthermore, we'll see that the frontal cortex / basal ganglia system is uniquely capable of sustaining patterns of neural activity over longer durations, and thus corresponds to a kind of RAM-like system called **working memory**.  Thus, as often happens in biology, the same functional properties (active, transient memory vs. slower, permanent memory in this case) can emerge from very different underlying mechanisms.  Furthermore, we'll see in the next chapter that even though the brain is nothing like a computer at the level of individual neurons, it does behave somewhat like a computer at the larger-scale systems level, where the RAM-like working memory system plays a critical role, but we'll postpone consideration of this level until then.
 
 In summary, we'll start our investigation of memory with the following principles derived from neuroscience:
 
 * Memory can be broadly defined as *any* form of persistence of information over time in the brain -- any trace of some prior event can be considered a type of memory.
 
 * Neurons have two primary sources of such persistent information:
-	+ **Activity** in the form of ongoing spiking, electrical potentials underlying that spiking, and the chemical states of other parts of the neuron, which are *transient* -- once a neuron stops firing and its other electrical and chemical states dissipate, a memory trace is no longer actively present in that neuron.
-	+ **Synaptic changes** from learning, which are relatively *long-lasting*, and change what kinds of input signals will activate the neuron in the future (i.e., what it *detects*).
-	+ These two aspects of neural memory directly influence each other, because learning is driven by neural activity, and changes in synapses result in different patterns of neural activity, but despite this interdependence, we can see how each plays more of an essential role in different types of memory.
+    + **Activity** in the form of ongoing spiking, electrical potentials underlying that spiking, and the chemical states of other parts of the neuron, which are *transient* -- once a neuron stops firing and its other electrical and chemical states dissipate, a memory trace is no longer actively present in that neuron.
+    + **Synaptic changes** from learning, which are relatively *long-lasting*, and change what kinds of input signals will activate the neuron in the future (i.e., what it *detects*).
+    + These two aspects of neural memory directly influence each other, because learning is driven by neural activity, and changes in synapses result in different patterns of neural activity, but despite this interdependence, we can see how each plays more of an essential role in different types of memory.
 
 * The specific *content* of the memory supported by any given neuron and its synapses is a direct function of its role within the larger neural networks of the brain -- memory happens everywhere in the brain at all times, directly within content-specific processing areas (e.g., visual memories in visual cortex, etc).
 
@@ -50,13 +50,13 @@ There are different names for this activity within each modality, including **ic
 
 Classic experiments by *George Sperling* and others established these duration values, by flashing a display with 3 rows of 3 letters each (Figure 6-3), and probing people to report a particular row from the display after variable delays [@Sperling60].  In this *partial report* condition, people were generally able to report the information within about a second, but not longer.  Critically, the relatively large amount of information in the full display was above people's capacity to encode in its entirety (as established through other *full report* conditions where they had to try to recall all of the letters), so the partial report cue allowed them to focus attention on one row, resulting in the activation of corresponding representations in STM.  However, once the sensory memory trace fades, it is gone, and cannot be "transferred" to STM.
 
-Experiments such as these also established the next step of the modal model, which is more strongly capacity-limited, but longer-lasting, and is referred to as **short-term memory** (**STM**).  Only information within the focus of __attention__ makes the jump from iconic or echoic sensory memory into STM, and given the capacity constraints, attention can only grab about 3-4 "items" into STM from sensory memory (corresponding to a single row from the Sperling task).  From a neural perspective, STM corresponds to neural activity in higher levels of the neocortex (in temporal and parietal lobes) that have more highly compressed encodings of the sensory input.  Thus, as noted above, the "transfer" of information from sensory memory to STM results in a significant compression and abstraction of the original signal.  The ability to uniquely activate these compressed, abstract detector neurons in higher brain areas requires attention to filter the lower-level sensory input, thus explaining both the need for attention and the lower capacity of STM relative to sensory memory.
+Experiments such as these also established the next step of the modal model, which is more strongly capacity-limited, but longer-lasting, and is referred to as **short-term memory** (**STM**).  Only information within the focus of **attention** makes the jump from iconic or echoic sensory memory into STM, and given the capacity constraints, attention can only grab about 3-4 "items" into STM from sensory memory (corresponding to a single row from the Sperling task).  From a neural perspective, STM corresponds to neural activity in higher levels of the neocortex (in temporal and parietal lobes) that have more highly compressed encodings of the sensory input.  Thus, as noted above, the "transfer" of information from sensory memory to STM results in a significant compression and abstraction of the original signal.  The ability to uniquely activate these compressed, abstract detector neurons in higher brain areas requires attention to filter the lower-level sensory input, thus explaining both the need for attention and the lower capacity of STM relative to sensory memory.
 
 Furthermore, the smaller capacity of STM enables it to persist for longer periods of time, because more neurons across multiple of these higher-level areas can participate in representing this information, resulting in a more redundant and robust collection of such neurons.  In the terminology from the Consciousness... chapter, STM corresponds to the fully recurrent activated state, which is highly likely to be the subject of conscious awareness.  Indeed, one of the defining characteristics of STM is that you are consciously aware of it.  Thus, the overall picture of STM is that the underlying neurons are mutually activating each other via bidirectional excitatory connections, causing a bit of an "echo chamber" as these spiking signals pass back and forth among these neurons, resulting in a longer-lasting activation trace compared to sensory memory.  Rough estimates of the duration of STM extend up to about 30 seconds, but this is strongly dependent on the process of **maintenance rehearsal**, which involves the deliberate attempt to keep those neurons firing robustly by continuously focusing attention on them.
 
 Interestingly, up to this point, the modal model only includes memory mechanisms based on neural activity.  This reflects the fact that the synapses in the sensory pathways have been very well-trained by the time anyone is participating in Sperling-style experiments, so the synaptic changes there typically don't make much of a noticeable difference.  However, there is an extensive literature on *perceptual learning* which can reveal the effects of these ongoing synaptic changes.  Thus, as noted above, memory really is happening at every synapse in the brain, whenever activity is sufficient to drive synaptic changes.  However, you sometimes have to try pretty hard to see the effects of these changes, and the modal model only covers the most obvious forms of memory.
 
-Finally, the last component of the modal model introduces a form of memory that does depend on synaptic changes, in the form of **long-term memory** (**LTM**).  In the terms of the modal model, memories are "transferred" into LTM from STM through the process of __encoding__.  They can also be recovered back from LTM into STM via __retrieval__ processes.  This model was developed during the 1960's, when the computer metaphor was at its height, and this encoding process was typically envisioned as transferring "files" between the RAM-like STM and the hard-disk of LTM.  But what does this correspond to in the brain, given that we don't think the concepts of RAM, hard-disk, or transfer really apply in the brain?
+Finally, the last component of the modal model introduces a form of memory that does depend on synaptic changes, in the form of **long-term memory** (**LTM**).  In the terms of the modal model, memories are "transferred" into LTM from STM through the process of **encoding**.  They can also be recovered back from LTM into STM via **retrieval** processes.  This model was developed during the 1960's, when the computer metaphor was at its height, and this encoding process was typically envisioned as transferring "files" between the RAM-like STM and the hard-disk of LTM.  But what does this correspond to in the brain, given that we don't think the concepts of RAM, hard-disk, or transfer really apply in the brain?
 
 ## The Hippocampus
 
@@ -70,7 +70,7 @@ In brief, you can think of the hippocampal neurons as *detecting* the elements o
 
 Figure 6-5 shows one of the magic tricks used by the hippocampus to be able to rapidly encode new memories without overwriting other existing memories, known as **pattern separation**.  This is the key idea developed by *David Marr* as mentioned in the Neuroscience chapter, which applies to both the hippocampus and the cerebellum [@Marr69; @Marr71].  The idea is that if you simply reduce the number of neurons firing in the hippocampus compared to the cortex (i.e., make them *sparse*), then the patterns of activity in the hippocampus will overlap much less than those in the cortex, and therefore, there will be less overlap or interference in the synaptic changes involved in memory encoding.  Mathematically, this derives from the fact that squaring a small number, such as .01, results in a *much* smaller number (.0001) -- the small number is the probability of a neuron getting active, and the square is the resulting probability that it would be active in two different memories.  More realistic, detailed simulations of the hippocampal circuit confirm this basic principle [@OReillyMcClelland94].
 
-There are many important implications of this pattern separation property.  First, as we noted in the Neuroscience chapter, this results in a kind of *brute force* memorization strategy in the hippocampus.  It doesn't try to make any direct connections between related memories -- instead it just effectively sticks each memory in its own separate "box".  This is great for quickly finding a place to stick a new memory, but it means that the hippocampal version of those memories is a completely disorganized, haphazard pile of these separate boxes.  Thus, a major further process in memory involves a much slower process of trying to organize and systematize all those memories, known as **memory consolidation**.  Specifically, memories that are initially encoded in the hippocampus are gradually incorporated into synaptic changes among neurons in the neocortex, resulting in the formation of more systematic, well-organized __semantic knowledge__ [@McClellandMcNaughtonOReilly95].  Some of this consolidation may take place during sleep, as memories are replayed during dreams [@WilsonMcNaughton94; @Buzsaki89; @RoumisFrank15], and much of it certainly depends on the usual retelling and ruminative replaying of memories throughout the course of daily life.
+There are many important implications of this pattern separation property.  First, as we noted in the Neuroscience chapter, this results in a kind of *brute force* memorization strategy in the hippocampus.  It doesn't try to make any direct connections between related memories -- instead it just effectively sticks each memory in its own separate "box".  This is great for quickly finding a place to stick a new memory, but it means that the hippocampal version of those memories is a completely disorganized, haphazard pile of these separate boxes.  Thus, a major further process in memory involves a much slower process of trying to organize and systematize all those memories, known as **memory consolidation**.  Specifically, memories that are initially encoded in the hippocampus are gradually incorporated into synaptic changes among neurons in the neocortex, resulting in the formation of more systematic, well-organized **semantic knowledge** [@McClellandMcNaughtonOReilly95].  Some of this consolidation may take place during sleep, as memories are replayed during dreams [@WilsonMcNaughton94; @Buzsaki89; @RoumisFrank15], and much of it certainly depends on the usual retelling and ruminative replaying of memories throughout the course of daily life.
 
 Hippocampal pattern separation and memory consolidation have major implications for educational learning and expertise.  Everything you learn in class is initially encoded through hippocampal brute-force memorization, and only over a relatively long period of repeated learning and practice does a systematic an *productive* form of semantic knowledge emerge.  This is consistent with how much experience it takes to become an expert in a given domain: roughly 10,000 hours or 10 years [@EricssonLehmann96].  Thus, if you really want to master something, be prepared to spend a long time slowly shaping your neocortical synapses to develop the necessary systematic knowledge base.
 
@@ -86,9 +86,9 @@ Although the hippocampus plays a dominant role in the process of encoding new me
 
 Figure 6-6 shows perhaps the most widely adopted LTM taxonomy, proposed initially by *Endel Tulving* [@Tulving72] and refined by *Larry Squire* [@Squire92].  It features a top-level division between **explicit** or **declarative** memory, as contrasted with **implicit** or non-declarative memory.  Explicit memories are those we can have direct conscious access to (and declarative means you can declare it verbally), while implicit memories are not consciously accessible.  Given what we know about consciousness from Chapter 3, explicit memories are therefore those in the neocortex.  Interestingly, we likely are not directly conscious of hippocampal memories, given the requirement of recurrent / bidirectional connectivity for consciousness, which is only partially present in the hippocampus.  Instead, we become conscious of hippocampally-supported memories when they are recalled back into cortex.
 
-The two major subtypes of explicit memory are hippocampal **episodic** memories (i.e., the memories of all the daily events and episodes in our lives, and those we read about or watch in movies or on TV), and **semantic** memory, which is a summary term for all of the facts and knowledge we have, which has been integrated into our cortical synapses over many years of memory consolidation.  During this consolidation process, the episodic character of the knowledge gets winnowed away, leaving only the bare knowledge devoid of the __source__ or **context** information about where we learned these facts.  Newly learned facts (e.g., much of what you are learning in this course) still retain their episodic trace -- you can probably recall when you heard about something interesting for the first time in lecture, or read about it in a book.  Sometimes, people feel like they have a particularly clear sense of where on the page they read something, but in my experience this has proven illusory more often than not.
+The two major subtypes of explicit memory are hippocampal **episodic** memories (i.e., the memories of all the daily events and episodes in our lives, and those we read about or watch in movies or on TV), and **semantic** memory, which is a summary term for all of the facts and knowledge we have, which has been integrated into our cortical synapses over many years of memory consolidation.  During this consolidation process, the episodic character of the knowledge gets winnowed away, leaving only the bare knowledge devoid of the **source** or **context** information about where we learned these facts.  Newly learned facts (e.g., much of what you are learning in this course) still retain their episodic trace -- you can probably recall when you heard about something interesting for the first time in lecture, or read about it in a book.  Sometimes, people feel like they have a particularly clear sense of where on the page they read something, but in my experience this has proven illusory more often than not.
 
-Within the much more diverse umbrella of implicit memories, there are *procedural*, *conditioning*, and *priming* memory traces.  The separability of **procedural** memory from hippocampal episodic memory was vividly demonstrated by H.M., who was able to learn a challenging new procedural task such as learning to trace a picture when looking in a mirror (try it -- it is hard!) at the same rate as neurologically intact control participants.  This is because procedural learning depends on the cerebellum and basal ganglia, not on the hippocampus. Likewise, as we reviewed in the Learning chapter, __conditioning__ depends on the amygdala, basal ganglia, and dopamine systems, and is thus separable from hippocampal and cortical memories (and was also intact in H.M.).
+Within the much more diverse umbrella of implicit memories, there are *procedural*, *conditioning*, and *priming* memory traces.  The separability of **procedural** memory from hippocampal episodic memory was vividly demonstrated by H.M., who was able to learn a challenging new procedural task such as learning to trace a picture when looking in a mirror (try it -- it is hard!) at the same rate as neurologically intact control participants.  This is because procedural learning depends on the cerebellum and basal ganglia, not on the hippocampus. Likewise, as we reviewed in the Learning chapter, **conditioning** depends on the amygdala, basal ganglia, and dopamine systems, and is thus separable from hippocampal and cortical memories (and was also intact in H.M.).
 
 The value of this memory taxonomy is debatable.  Really, it is just assigning new labels for the functions of brain areas, which can be much more richly and accurately described (e.g., as in the Neuroscience chapter) than in such a broad taxonomy.  Furthermore, it is missing many important parts of the brain.  Perhaps most importantly, the central division according to the criterion of conscious access is problematic at many levels.  Consciousness is inherently subjective, and putting a subjective construct at the center of a major theoretical framework jeopardizes the entire enterprise.  Furthermore, it immediately eliminates application to animal memory [@Morris01], as the notion of consciousness in animals is certainly fraught with controversy.  It also unnecessarily complicates any kind of straightforward understanding of memory in terms of underlying neural mechanisms.
 
@@ -100,7 +100,7 @@ Another interesting case similar to priming is the difference between **recognit
 
 ### Amnesia
 
-Patients with hippocampal damage such as H.M. have also shown us that two different types of **amnesia** (loss of memory function) can be *dissociated* (i.e., separated, do not always co-occur): **retrograde** vs. __anterograde__ amnesia.  Retrograde refers to memories of the past (like "retro" styles etc), while anterograde refers to the ability to form new memories.  H.M. was profoundly impaired in his ability to form new memories, and thus suffered from severe antergrade amnesia.  However, many of his memories from his more distant past were largely intact, meaning that he had comparatively mild retrograde amnesia.  Furthermore, his basic semantic knowledge of facts etc was largely intact.
+Patients with hippocampal damage such as H.M. have also shown us that two different types of **amnesia** (loss of memory function) can be *dissociated* (i.e., separated, do not always co-occur): **retrograde** vs. **anterograde** amnesia.  Retrograde refers to memories of the past (like "retro" styles etc), while anterograde refers to the ability to form new memories.  H.M. was profoundly impaired in his ability to form new memories, and thus suffered from severe antergrade amnesia.  However, many of his memories from his more distant past were largely intact, meaning that he had comparatively mild retrograde amnesia.  Furthermore, his basic semantic knowledge of facts etc was largely intact.
 
 We can understand this dissociation in terms of the basic explanation of hippocampal function given above.  The hippocampus is critical for rapidly learning new episodic memories, because of its unique position at the top of the cortical hierarchy, and its special properties including pattern separation and a relatively fast learning rate.  Thus, damage to the hippocampus almost always produces significant impairments in encoding new episodic memories.  However, because of the gradual incorporation of episodic memories into the neocortex through the consolidation process, older memories from the past can still be recalled even without the help of the hippocampus.
 
@@ -127,9 +127,9 @@ Another effective encoding / chunking strategy (i.e., **mnemonics**) is to assoc
 
 Several other related principles of effective memory encoding have been developed.  For example, the influential **levels-of-processing theory** [@CraikLockhart72] postulates that more *deeply* encoded information will be better remembered.  The notion of levels or depth here corresponds to the levels of processing in the neocortex, going from raw sensory information up to higher-level semantic information.  For example, many studies have found that encouraging people to think about the meaning of a word, as compared to noticing the case or font of the letters, results in better memory.
 
-An interesting example of the benefits of deeper, more elaborative encoding comes from the notion of **desirable difficulties** [@Bjork94] -- memory is often better if you have to work harder to process the information, even in sometimes fairly strange ways.  For example, making information harder to read can improve subsequent memory, and a font was recently created called *Sans Forgetica* to leverage this finding [(see: `http://www.sansforgetica.rmit/)`](http://www.sansforgetica.rmit/).  Another example is the __testing effect__, where taking a test improves subsequent memory.  Thus, you should always test yourself on the key words listed at the end of each chapter, and hopefully your class includes weekly quizzes that give you an opportunity to test yourself.
+An interesting example of the benefits of deeper, more elaborative encoding comes from the notion of **desirable difficulties** [@Bjork94] -- memory is often better if you have to work harder to process the information, even in sometimes fairly strange ways.  For example, making information harder to read can improve subsequent memory, and a font was recently created called *Sans Forgetica* to leverage this finding [(see: `http://www.sansforgetica.rmit/)`](http://www.sansforgetica.rmit/).  Another example is the **testing effect**, where taking a test improves subsequent memory.  Thus, you should always test yourself on the key words listed at the end of each chapter, and hopefully your class includes weekly quizzes that give you an opportunity to test yourself.
 
-One of the best ways to really learn something is by teaching it to others, which is a version of the __generation effect__ -- having to produce a sensible explanation of something greatly improves comprehension.  Try cornering a friend and give them a mini-lecture on how memory works in the brain -- you'll soon find the gaps in your understanding, and strongly reinforce the parts you already do understand.  Seriously, if you want to learn, teach!  This is one of the most important synergies in academia: by having to explain what we've learned in our research through teaching, professors then understand it all much better.
+One of the best ways to really learn something is by teaching it to others, which is a version of the **generation effect** -- having to produce a sensible explanation of something greatly improves comprehension.  Try cornering a friend and give them a mini-lecture on how memory works in the brain -- you'll soon find the gaps in your understanding, and strongly reinforce the parts you already do understand.  Seriously, if you want to learn, teach!  This is one of the most important synergies in academia: by having to explain what we've learned in our research through teaching, professors then understand it all much better.
 
 One of the most fascinating encoding principles is the **encoding specificity principle** [@Tulving83], which reflects the fact that episodic memories tend to bind together all of the different elements present when a memory is encoded, and thus recall of those memories will be best when those original elements are present at the time of recall.  This is a direct result of the pattern completion vs. pattern separation battle operating in the hippocampus -- if too many elements are different from the original event, the hippocampus tends to perform pattern separation instead of the pattern completion required for recall.  All those random elements present at the time of encoding are typically summarized with the term **context**, and thus lead to the **context-dependent memory** phenomenon.  A classic example of this phenomenon is that people are better able to recall information when tested in the same physical context as it was originally learned -- for example, if you study in a library, then taking a test in that same library will generally result in better performance.
 
@@ -157,7 +157,7 @@ There is another form of inteference called **proactive interference** which is 
 
 In addition to failures of basic encoding and forgetting, there are other pitfalls in the domain of memory, which arise largely from the fact that the hippocampus only receives a highly *compressed* view of the outside world, filtered through many layers of cortical processing and compression as shown in Figure 6-4.  Figure 6-1 of the telephone game also captures the kind of compounding effects that emerge from information propagation through the cortex.  From this perspective it is a wonder that we can accurately remember anything at all!  The current US president provides a teachable moment about the falliability of memory -- as improbable as it might seem, it really does appear that his many difficulties with *facts* and the *truth* represent genuine delusions, and not just a Machiavellian level of strategic disinformation.  Critically, people's delusions are often strongly shaped by their motivations and desires, so the practical difference between these two interpretations may not be that far apart.
 
-In any case, the bottom line is that we *all* encode our memories through spectacles of one shade or another -- we cannot see the world as it truly is, because perception is fundamentally a creative, active construction, as we discussed in the Perception chapter.  Thus we are all susceptible to having __false memories__.  One of the first demonstrations of this point in the memory literature was due to *Frederic Bartlett*, who tested people's ability to remember a story known as the "War of the Ghosts", over an extended period of time [@Bartlett32].  This story was based on Canadian Indian folklore, and contained many concepts and events that were entirely unfamiliar to the English participants in his experiment.  As a result, the participants had great difficulty remembering the story, and ended up reshaping it to fit their own conceptual structures.  These conceptual structures are called **schema**, and we'll revisit them again in the next chapter.
+In any case, the bottom line is that we *all* encode our memories through spectacles of one shade or another -- we cannot see the world as it truly is, because perception is fundamentally a creative, active construction, as we discussed in the Perception chapter.  Thus we are all susceptible to having **false memories**.  One of the first demonstrations of this point in the memory literature was due to *Frederic Bartlett*, who tested people's ability to remember a story known as the "War of the Ghosts", over an extended period of time [@Bartlett32].  This story was based on Canadian Indian folklore, and contained many concepts and events that were entirely unfamiliar to the English participants in his experiment.  As a result, the participants had great difficulty remembering the story, and ended up reshaping it to fit their own conceptual structures.  These conceptual structures are called **schema**, and we'll revisit them again in the next chapter.
 
 An important real-world implication of this strong tendency to *schematize* memory is in **eyewitness testimony**, where people are likely to encode the events of a crime according to their existing *stereotypes* and biases.   Furthermore, these biases can be activated by leading questions.  For example, in one seminal study, the experimenters manipulated the use of leading terms like "smashed" in a car crash scenario, and this had large effects on participant's memory of things like the speed and damage involved [@LoftusPalmer74].  Interestingly, as was the case in the Bartlett study, participant's confidence in their *false* memories was often higher than for their accurate ones.
 
@@ -176,53 +176,53 @@ As is often the case, the biology may provide a more precise definition of the d
 This is a checklist of key terms / concepts that you should know about from this chapter.
 
 * Neural mechanisms of memory:
-	+ Activity (spiking etc): fast, active and transient
-	+ Synaptic changes: slower, long-lasting
+    + Activity (spiking etc): fast, active and transient
+    + Synaptic changes: slower, long-lasting
 
 * Modal model 
-	+ Sensory memory: iconic, echoic (high capacity, short-lived) -- neural activity in sensory cortex
-	+ Short-term memory (STM): requires attention, limited capacity (magic number 4) -- neural activity in higher cortical areas
-		+ Sperling task
-	+ Long-term memory (LTM): requires encoding -- synaptic changes in hippocampus and cortex.
+    + Sensory memory: iconic, echoic (high capacity, short-lived) -- neural activity in sensory cortex
+    + Short-term memory (STM): requires attention, limited capacity (magic number 4) -- neural activity in higher cortical areas
+        + Sperling task
+    + Long-term memory (LTM): requires encoding -- synaptic changes in hippocampus and cortex.
 
 * Hippocampus
-	+ Antomical location on top of cortex
-	+ Pattern separation from sparse activity
-	+ Pattern completion to recall memories
-	+ Memory consolidation: semantic knowledge forms slowly in neocortex
+    + Antomical location on top of cortex
+    + Pattern separation from sparse activity
+    + Pattern completion to recall memories
+    + Memory consolidation: semantic knowledge forms slowly in neocortex
 
 * LTM Taxonomy
-	+ Explicit / Implicit
-	+ Episodic / Semantic / Priming / Conditioning / Procedural
-	+ Issues with consciousness
+    + Explicit / Implicit
+    + Episodic / Semantic / Priming / Conditioning / Procedural
+    + Issues with consciousness
 
 * Amnesia
-	+ Anterograde
-	+ Retrograde
-	+ Childhood amnesia
+    + Anterograde
+    + Retrograde
+    + Childhood amnesia
 
 * Encoding / Retrieval Strategies
-	+ Chunk
-	+ Mnemonic
-	+ Method of loci
-	+ Elaborative encoding
-	+ Levels of processing
-	+ Desirable difficulties: Testing effect, generation effect
-	+ Encoding specificity principle
-		+ Context-dependent memory
-		+ State-dependent memory
-		+ Mood-dependent memory
-	+ Massed vs. Spaced practice (cramming is bad)
+    + Chunk
+    + Mnemonic
+    + Method of loci
+    + Elaborative encoding
+    + Levels of processing
+    + Desirable difficulties: Testing effect, generation effect
+    + Encoding specificity principle
+        + Context-dependent memory
+        + State-dependent memory
+        + Mood-dependent memory
+    + Massed vs. Spaced practice (cramming is bad)
 
 * Memory Retention and Interference
-	+ Decay: synaptic stabilization
-	+ Interference: Retroactive vs. Proactive
+    + Decay: synaptic stabilization
+    + Interference: Retroactive vs. Proactive
 
 * Fallibility of Memory
-	+ False memories: War of the Ghosts
-	+ Schema
-	+ Eyewitness testimony & leading questions
+    + False memories: War of the Ghosts
+    + Schema
+    + Eyewitness testimony & leading questions
 
 * Working memory vs. STM
-	+ Robust firing in prefrontal cortex
+    + Robust firing in prefrontal cortex
 
