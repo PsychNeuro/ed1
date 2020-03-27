@@ -43,5 +43,4 @@ papersize: letter
 
 urlcolor: "blue"
 
-bibliography: "book/references.json"
 link-citations: true
