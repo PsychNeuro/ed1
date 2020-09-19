@@ -1,3 +1,7 @@
+---
+bibfile: ccnlab.bib
+---
+
 # Chapter 4: Sensation, Perception, and Attention
 
 ## Sensory Systems

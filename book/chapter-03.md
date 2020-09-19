@@ -1,3 +1,7 @@
+---
+bibfile: ccnlab.bib
+---
+
 # Chapter 3: Consciousness, Sleep, and Arousal
 
 Intro

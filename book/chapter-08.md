@@ -1,3 +1,7 @@
+---
+bibfile: ccnlab.bib
+---
+
 # Chapter 8: Language
 
 Past tense, rules vs. not.  Piaget / Pinker vs. Connectionists.  Neural CPU suggests both are right.
