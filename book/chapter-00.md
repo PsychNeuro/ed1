@@ -108,3 +108,5 @@ With those big picture questions out of the way, we can turn to the plot for the
 
 **Chapter 11** wraps up with the all-too-prevalent breakdowns in our amazing nervous systems in the form of the major mental disorders and how they are treated through therapy and pharmacological interventions.  The most successful forms of modern therapy are based on basic, practical principles, and include a considerable focus on understanding and acceptance of how your brain functions.  In this way, this textbook might be considered a form of therapy: hopefully you will come away from this with a much deeper and more satisfying understanding of what makes you tick, and what ticks you off, so that you might go on to lead a happier and fulfilling life!
 
+Typography tip (as a reward for reading all the way through!): **bold** is for keywords that are likely to show up on tests, and *italics* is for important but less-likely-to-be-tested terms.
+
