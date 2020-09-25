@@ -52,7 +52,7 @@ Now that we have a sense of some of the big-picture issues and challenges in per
 
 Figure 4.5 shows the basic facts about each of these sensory modalities, including what physical **stimulus** activates them, the names of the receptor(s) that **transduce** this stimulus into a neural signal, and how that neural signal makes its way into the cortex by way of the thalamus.  Interestingly, our sense of smell, which is evolutionarily the most ancient sense, present in even the most primitive beasts in the ocean, bypasses the thalamus and jacks straight into the cortex, in a brain area that is close to the hippocampus.  This may explain why odors can be such powerful memory triggers, as famously captured in Marcel Proust's *Remembrance of Things Past*.
 
-In computational, *signal processing* terms, the **subcortical** part of the sensory pathway, prior to the arrival of the neural signal in the thalamus and cortex, performs significant *preprocessing* of the signal using often complex, sophisticated, and evolutionarily pre-wired circuits.  For example, the subcortical auditory pathways have very fast spiking neurons that can process the tiny time differences between when a sound arrives in one ear versus the other, to extract the angle of the sound source relative to the head.  The cochlea also performs the rough equivalent of a *fast fourier transform* on the auditory signal, transforming the time-varying sound wave into a *spectrogram* organized according to the different *frequencies* of sound present.  This format is then much easier for the cortex to process.  
+In computational, *signal processing* terms, the **subcortical** part of the sensory pathway, prior to the arrival of the neural signal in the thalamus and cortex, performs significant *preprocessing* of the signal using often complex, sophisticated, and evolutionarily pre-wired circuits.  For example, the subcortical auditory pathways have very fast spiking neurons that can process the tiny time differences between when a sound arrives in one ear versus the other, to extract the angle of the sound source relative to the head.  The cochlea also performs the rough equivalent of a *fourier transform* on the auditory signal, transforming the time-varying sound wave into a *spectrogram* organized according to the different *frequencies* of sound present.  This format is then much easier for the cortex to process.  
 
 These subcortical processing steps also perform the first pass on **compression** and **contrast** processing of the overall sensory signal -- this is very well understood in the visual processing pathway, as we'll see in a moment.
 
@@ -96,7 +96,7 @@ Figure 4.10 illustrates the main consequence of these opposing patterns of cente
 
 ![**Figure 4.11:** Simple cells in primary visual cortex (V1) combine multiple center-surround inputs from the LGN to form *edge detectors* that encode a consistent, elongated edge or transition in illumination across an image.  This is referred to as the *classical receptive field* for V1 neurons, and its discovery by Hubel and Weisel in the 1950's and 60's won them the Nobel prize!  The JPEG compression technique for pictures works by extracting these same kinds of oriented edges of contrast in images, and it greatly reduces the number of bits of information needed to encode large images.](figures/fig_v1_simple_dog_edge.png){ width=30% }
 
-The primary visual cortex (V1) builds on the center-surround signals coming from the LGN (which passes them along from the retina more-or-less intact), to detect more elongated, oriented edges of light / dark *contrast* in the image.  Hubel and Wiesel discovered this property of V1 neurons by recording from V1 neurons in anesthetized cats shown simple images of oriented bars of light, and won the Nobel prize in 1981 for this and other discoveries about the visual system.  These oriented edge detectors are shown in Figure 4.1 as the starting point for even more complex patterns detected at higher layers in the visual system.
+The primary visual cortex (V1) builds on the center-surround signals coming from the LGN (which passes them along from the retina more-or-less intact), to detect more elongated, oriented edges of light / dark *contrast* in the image.  Hubel and Wiesel discovered this property of V1 neurons by recording from V1 neurons in anesthetized cats shown simple images of oriented bars of light, and won the Nobel prize in 1981 for this and other discoveries about the visual system.  Here's a [YouTube Video](https://www.youtube.com/watch?v=KE952yueVLA) about their work, and a more modern approach using [reverse correlation](https://www.youtube.com/watch?v=n31XBMSSSpI).  These oriented edge detectors are shown in Figure 4.1 as the starting point for even more complex patterns detected at higher layers in the visual system.
 
 Thus, in addition to seeing upside-down and backward, we mainly see the outlines or edges of things, and essentially assume the continuation of surfaces in between these edges.  This may explain why we so readily process line drawings, which provide a good "illustration" of what our higher visual areas are largely processing.  The efficiency of encoding the visual world in this way is demonstrated also by the widely-used JPEG compression standard, which greatly reduces the size of image files.
 
@@ -112,7 +112,7 @@ For the same reason that center-surround coding produces effective compression a
 
 ![**Figure 4.13:** Rotating snakes illusion from Akiyoshi Kitaoka, which depends on eye movements interacting with blue-yellow opponent color coding.](figures/fig_vis_rotating_snakes_illusion.jpg){ width=70% }
 
-![**Figure 4.14:** Moving snakes illusion from Akiyoshi Kitaoka](figures/fig_vis_moving_snakes_illusion.jpg){ width=50% }
+![**Figure 4.14:** Moving snakes illusion from Akiyoshi Kitaoka.](figures/fig_vis_moving_snakes_illusion.jpg){ width=50% }
 
 A number of visual illusions reveal the underlying color opponency at work in our visual systems, such as those in Figures 4.13 and 4.14, which interact with the constant motion of our our eyes to create apparent motion where there is none (see [Akiyoshi Kitaoka's Web Page](http://www.psy.ritsumei.ac.jp/~akitaoka/ICP2016.html) for many other such demonstrations).  Other illusions involve staring at one set of colors and then looking at a white page, wherein the fatigue caused in the one pair of the opponent allows the other to get a bit more active, driving its perception.  [This illusion](https://www.youtube.com/watch?v=gur-_IGV7F8) provides a compelling set of illusory percepts based on red vs. green opponency.
 
@@ -120,40 +120,104 @@ Despite the presence of these "oopsie" cases in carefully-crafted illusions, the
 
 ### Depth
 
-* standard train track illusion, perspective, etc.  size constancy.
+Our retinas only provide a 2D window onto the full 3D world, so we have to rely on a number of assumptions to reconstruct that missing 3rd dimension -- these assumptions then provide a treasure trove of illusions that can keep you entertained for hours!  This missing 3rd dimension of depth is an important example of the *ill posed* nature of perception, which is a mathematical description of a situation where you have more unknown variables than data points available, so you have to rely on extra constraints or assumptions.
 
-* random dot stereogram
+There are two major categories of **depth cues** used to reconstruct the missing 3rd dimension:
 
-### Time Contrast
+![**Figure 4.15:** Convergence of eyes on a common point provides one of the two binocular depth cues.  The other is different offsets of features across the two eyes, produced by parallax.  ](figures/fig_vis_depth_binocular_convergence.png){ width=50% }
 
-* necker cube
+* **Binocular** cues that depend on the **parallax** effect, where the left and right eyes receive slightly different views of the world based on their different horizontal positions.  The use of these two views to extract depth is known as **stereopsis** (same root as "stereo", and same effect as stereo sound).  There are two forms of these binocular cues: the **retinal disparity** (differences) across the left and right eye views of the same general region of visual space (enabled by the cross-over and combination of different-eye views into the same visual hemisphere, as shown in Figure 4.6), and the **convergence** of the two eyes to focus the center of vision at the same point in depth (Figure 4.15).
 
-* figure /ground one from slides.
+  These binocular cues give the most vivid sense of 3D depth, and are what 3D movie and TV technologies provide, by being able to project different images to the two eyes, either by using different color filters (red vs. blue, as in the old 1950's 3D glasses) or different polarization of light (the current generation of 3D glasses).  3D technology has generally remained a bit of a "fad", not essential like color, because we have so many other cues to depth (and the glasses can be uncomfortable, and they cut the image brightness in half).
+
+  Figure 4.16 shows an *autostereogram* or single-image stereogram, which is a version of a *random dot stereogram*, popularized by the *Magic Eye* books several years ago, which requires you to adjust your eye convergence outward ("wall eyed", focusing well beyond the image plane itself), causing each eye to see a different offset of the random dots in the image -- these offsets across the two eyes are the *retinal disparity* signal, and the fact that you can see depth with *only* this retinal disparity signal was a big deal when first discovered by Bela Julesz in 1959.  When you (eventually) get just the right eye position, a previously-hidden 3D world gradually materializes out of the sea of random dots!  This takes a lot of practice and patience -- see [wikipedia page](https://en.wikipedia.org/wiki/Autostereogram) for more info and examples.
+
+![**Figure 4.16:** Autostereogram -- the 2D image gives a hint as to the magic 3D world that lies just under its surface -- you just have to focus your eyes out in the distance, and let your brain "settle" to see it.](figures/fig_vis_depth_autostereogram.png){ width=100% }
+
+* **Monocular** cues, which operate strictly within a single 2D image, include **occlusion** (one object in front of another), **relative size** (larger = closer), **texture gradients** (also including local surface texture indicating convex and concave shapes), and **linear perspective**, as shown in Figure 4.17.  There are many others, especially if you include motion, which can give strong depth signals.  One can trace a progression in art over centuries in terms of the use of these cues to create a perception of depth, with occlusion, relative size, and texture gradients being among the earlier ones, while the use of linear perspective was revolutionary in  the renaissance period.  Modern-day sidewalk artists employ these techniques to great effect (Figure 4.18).
+
+![**Figure 4.17:** Monocular depth cues including linear perspective and texture enable us to see depth in otherwise flat, 2D images.  The left panel also shows how our brains automatically use these depth cues to infer the size of different objects in the scene, causing you to automatically perceive the top bar as much larger than the bottom one, even though they are identical in size.  This is another example of how we perceive the world, not the raw sensation, and is known as *size constancy* in this case.](figures/fig_vis_depth_perspective_texture.png){ width=70% }
+
+![**Figure 4.18:** Sidewalk art that takes advantage of monocular depth clues to provide a compelling illusion of depth (but only when viewed from the right point).](figures/fig_vis_depth_sidewalk_illus.png){ width=50% }
 
 ### Compression in Object Recognition
 
-* dalmation fig
+![**Figure 4.19:** We are biased to see objects, especially faces, even where none exist.  This reflects the higher-level compression of visual scenes into known object categories.](figures/fig_vis_clouds_jesus.png){ width=50% }
 
-* dali paintings
+As illustrated in the hierarchical filtering process from Figure 4.1, every stage of processing in the perceptual pathways (and everywhere in the cortex more generally) produces more and more compression and contrast effects like those we've seen already, starting right in the retina itself.  Thus, you should not be surprised to learn that the brain has a strong bias toward organizing the features in an image into a much simpler, compressed encoding in terms of *objects*.  Saying "its a dog" represents a massive degree of compression relative to all the visual information that goes into the image of a typical dog.  This bias toward seeing known objects in images is behind the common "mild hallucination" of perceiving objects where none exist, for example in the shapes of clouds, wood grain, toast -- whatever has enough raw material to organize into objects (Figure 4.19).
 
-### Gestalt Principles
+![**Figure 4.20:** An image of a plate of spaghetti transformed by Google's Deep Dream neural network algorithm that progressively enhances features of the image consistent with what it has learned across a large number of "normal" images.  This produces hallucinogenic images similar to those seen on LSD and other psychedelic drugs, reflecting the imposition of our simplifying biases onto images -- just a more extreme form of Figure 4.19.](figures/fig_vis_deep_dream_spaghetti.jpg){ width=50% }
 
-* All depend on more integrated processing -- not captured in current models.
+Figure 4.20 (yep) shows the output of a neural network model trained on millions of photographs, when the input image (a plate of spaghetti in this case) was progressively altered in a way that better fit the internal biases of the model.  These images resemble the kinds of hallucinations produced by psychedelic drugs such as LSD, suggesting that these drugs have the effect of enhancing the influence of internal representations over the raw input stimuli.  Thus, we are all mildly hallucinating all the time, and the waking dream state produced by these drugs just accentuates these processes.
+
+![**Figure 4.21:** Is there something more than just dots in this image?  The ability to extract the underlying shapes from this image represents the benefit of top-down activation in driving our perceptual system -- even though it has a mild hallucinatory side-effect, it is often beneficial to be able to see partially-occluded or otherwise hard to see objects.](figures/fig_dalmatian.png){ width=50% }
+
+Figure 4.21 demonstrates the important benefits of this bias to "see things" in images -- more often than not, there actually are things there, which might be obscured in various ways, and having the ability of top-down expectations and biases to influence our perception helps pull these things out [@OReillyWyatteHerdEtAl13].
+
+![**Figure 4.22:** The classic Kanisza triangle, demonstrating how we interpret the "suspicious coincidences" of the wedges and apparent occlusion of the background triangle in terms of the simpler percept that there is a white triangle in front of the other items.](figures/fig_vis_kanizsa_triangle.png){ width=25% }
+
+The classic **Kanisza triangle** (Figure 4.22) provides another demonstration of this bias toward seeing a simpler, more compressed encoding of the world.  These kinds of effects have traditionally been explained in terms of **gestalt principles**, developed by a school of influential German school of psychologists in the early 1900's to explain how we tend to impose higher-level *gestalt* groupings onto images (Figure 4.23).  From the modern perspective, the attempt to explicitly enumerate long lists of such "principles" seems like a mismatch relative to the way that top-down and bottom-up *constraints* or *biases* interact in a more graded, emergent way in actual perception.  These biases and constraints are much "softer" and more "fluid" than things you might articulate as "principles".
+
+![**Figure 4.23:** Some of the many gestalt principles for how items in an image are grouped and organized.](figures/fig_vis_gestalt_principles.png){ width=60% }
+
+And speaking of soft, fluid images, the artwork of Salvador Dali provides an excellent illustration of the hallucinogenic top-down biases at work, trying to organize and simplify the world (Figure 4.24).
+
+![**Figure 4.24:** The art of Salvador Dali demonstrates the power of object (especially face) biases in perception.](figures/fig_vis_dali_paintings.png){ width=100% }
+
+
+### Time Contrast: The Novelty Filter
+
+Another very important form of **contrast** that drives perception is *contrast over time* -- i.e., "the news" -- the visual system prefers new stimuli and new ways of seeing things.  In other words, it functions as a **novelty filter** -- filtering out the old and focusing on the new.  Like compression, this happens at all levels in the system, from the retina on up.  In the retina, if you prevent the eye from moving at all, and present a static image, the firing of retinal neurons will slowly start to fade away, and the world will go black (this experiment has actually been conducted by paralyzing the eye muscles!  The various color opponency illusions mentioned earlier also demonstrate this novelty-filter property, where staring at one color causes the opponent color to be relatively more activated.
+
+![**Figure 4.25:** The visual system also enhances *contrast* over *time* -- active neurons experience *accommodation* or *adaptation*, thus favoring novel perspectives instead of continuing to see the same thing over time.  Stare at the *necker cube* on the left, or the ambiguous figure-ground image on the right, and you'll find your brain spontaneously switching between the two different ways of seeing them.](figures/fig_vis_time_contrast_necker_figgr.png){ width=80% }
+
+Figure 4.25 demonstrates a higher-level version of the neural adaptation that drives these novelty filter effects.  If you stare at these images for long enough, you will find your brain spontaneously switching to a new way of seeing the image, without any explicit attempt on your part to do so.  In fact, it is difficult to prevent your brain from switching in this way -- because it is built right into the neural hardware.
 
 ## Audition
 
-Brief.
+![**Figure 4.26:** Overview of the auditory system, where rapid changes in air pressure (sound) are amplified by the tiny bones in your inner ear, causing the hair cells in the cochlea to bend -- this mechanical force is then transduced into neural firing and processed by many stages of subcortical networks before making its way up to the primary auditory cortex (A1) by way of the MGN nucleus of the thalamus.](figures/fig_auditory_system_sound.png){ width=80% }
 
-### etc
+Because the same principles just explored for the visual system apply to all of the other sensory modalities, and it is harder to share the relevant perceptual experiences via a book, we will give these other modalities the short shrift that my son recommended at the outset.  Figure 4.26 shows the essential features of the auditory transduction process, where sound waves are converted into neural firing, via hair cells in the cochlea.
 
-## Psychophysics
+First, sound travels as *waves*, and thus can be described in terms of its **amplitude** (intensity) and **frequency** or **wavelength** (pitch).  These vibrating sound waves cause the **ear drum** to vibrate (like a drum!) and this vibration is then amplified by tiny bones (*ossicles*: Malleus, Incus, Stapes -- no you don't need to memorize these!) that cause your inner squid (the liquid-filled **cochlea**) to vibrate in tune with the sound.  Inside the cochlea are only about 3,500 inner hair cells that are responsible for transducing the liquid vibrations into neural firing signals.  This is an incredibly tiny number of *anything* at the cellular level -- your hearing is precious and you should do everything you can to preserve those priceless cells!
 
-* signal detection, thresholds, etc
+The cochlea transforms the time-varying sound waves into a much more useful kind of representation, remarkably similar to what is typically done in artificial signal processing approaches, by effectively performing a *fourier transform*.  This occurs by the **place coding** of frequency, such that different subsets of hair cells are activated for different frequencies of sound (for low frequency sounds, however, the frequency remains as a time-varying neural firing signal).  This is called a **spectrogram**, typically plotted with time on the X axis and frequency on the Y axis.  By splitting out different frequencies across different neurons, it becomes easier to recognize patterns that span across these frequencies -- e.g., the distinctive patterns of human speech, called *formants* are characteristic patterns of frequency changes over time.
+
+Interestingly, in the spectrogram representation, these patterns look like contrast edges at different orientations (increasing, decreasing), which are exactly the same patterns processed at the lowest levels of the visual system.  Indeed, the very same neural networks that do a good job of recognizing visual patterns can recognize these auditory patterns as well.  This then makes sense of the amazing experiment where the visual signals in a ferret were re-routed to its auditory cortex, and the cells there developed very similar firing patterns as are typically found in visual cortex [@AngelucciClascaBricoloEtAl97].
+
+In short, the auditory cortex does the same kind of compression and contrast processing of the auditory signals, extracting simpler ways of summarizing all of the sound information through a series of hierarchical layers.  At the upper levels, which we are consciously aware of, we have things like "Max wants a banana", summarizing a long complex auditory stimulus with a relatively few bits of information.
 
 ## Attention
 
-* neglect, posner, etc
+In addition to all the compression described so far, there is another critical driver of compression effects in perception, known as **attention**.  Subjectively, attention is often described as a **spotlight**, shining bright mental light on one, or at most a few, items in the current *attentional focus*, which also has the consequent effect of pushing everything else off into the shadows.  Like compression, attention operates everywhere in the cortex, and can be understood in terms of the interactions between bidirectional excitation and inhibition among neurons, where inhibition is what pushes everything else out into the shadows, and bidirectional excitation reinforces the attentional focus [@CohenRomeroFarahEtAl94].  Not coincidently, this bidirectional excitation is the same central ingredient in consciousness that we discussed in Chapter 3 (aka recurrent processing) -- the focus of attention typically corresponds to what we are consciously aware of.
 
+There is a special part of the brain, in the *parietal lobe*, that seems to be particularly important for **spatial attention** (i.e., paying attention to different parts of space), which has been extensively studied.  Although attention itself is ubiquitous, spatial attention is particularly important in perception because discrete objects tend to occupy different regions of space, and thus we tend to use this spatial attentional focus as a way of directing attention at different objects of interest.  This special role for spatial attention is also directly tied to the fact that the very same neural circuits in the parietal lobe are used for deciding where to move our eyes.  Thus, attention is typically synonymous with *looking*, and the motor action of looking (moving the eyes) requires working with the spatial coordinates of where to look.
+
+![**Figure 4.27:** Demonstrations of hemispatial neglect.  Upper left: Progression of self portraits by an artist with hemispatial neglect, showing gradual remediation of the neglect over time.  Right: Drawings of given target objects by patients with hemispatial neglect, showing profound neglect of the left side of the drawings.  Lower left: Results of a line bisection task for a person with hemispatial neglect. Notice that neglect appears to operate at two different spatial scales here: for the entire set of lines, and within each individual line](figures/fig_neglect_all.png){ width=50% }
+
+Some of the most striking evidence that the parietal cortex is important for spatial attention comes from patients with **hemispatial neglect**, who tend to ignore or neglect one side of space (Figure 4.27). This condition typically arises from a stroke or other form of brain injury affecting the right parietal cortex, which then gives rise to a neglect of the left half of space (due to the crossing over of visual information).  Interestingly, the neglect applies to multiple different spatial *reference frames*, as shown in the line bisection task, where lines on the left side of the image tend to be neglected, and also each individual line is bisected more toward the right, indicating a neglect of the left portion of each line (Figure 4.27).
+
+### The Posner Spatial Cueing Task
+
+![**Figure 4.28:** The Posner spatial cueing task, widely used to explore spatial attention effects. The participant is shown a display with two boxes and a central fixation cross -- on some trials, one of the boxes is cued (e.g., the lines get transiently thicker), and then a target appears in one of the boxes (or not at all on catch trials). The participant just presses a key when they first detect the target.  The typical data plotted on the right, showing that the target detection reaction time is quicker for valid cues vs. invalid ones.  This suggests that spatial attention was drawn to that side of space. Patients with hemispatial neglect exhibit slowing for targets that appear in the neglected side of space, particularly when invalidly cued.](figures/fig_posner_task_data.png){ width=70% }
+
+One of the most widely used tasks to study the spotlight of spatial attention is the Posner spatial cueing task, developed by Michael Posner [@Posner80] (Figure 4.28).  One side of visual space is cued, and the effects of this cue on subsequent target detection are measured.  If the cue and target show up in the same side of space (*valid* cue condition), then reaction times are faster compared to when they show up on different sides of space (*invalid* cue condition).  This difference in reaction time (RT) suggests that spatial attention is drawn to the cued side of space, and thus facilitates target detection. The invalid case is actually worse than a neutral condition with no cue at all, indicating that the process of reallocating spatial attention to the correct side of space takes some amount of time. Interestingly, this task is typically run with the time interval between cue and target sufficiently brief as to prevent eye movements to the cue -- thus, these attentional effects are described as *covert attention*, while eye movements constitute *overt attention*.
+
+Patients with hemispatial neglect show a disproportionate increase in reaction times for the invalid cue case (Figure 4.28), specifically when the cue is presented to the good visual field (typically the right), while the target appears in the left.
+
+## Psychophysics
+
+Last, and frankly, likely least for most readers, we are required by an unwritten psychology rule to cover the field of *psychophysics*, which is an attempt to measure the most basic aspects of perception with a degree of precision that is intended to impress our colleagues in physics (who likely remain unimpressed).  These basic aspects of perception center around finding the very weakest stimulus intensity that can be detected, across different modalities.
+
+The **absolute threshold** is the name of this very weakest stimulus, and it is listed in Figure 4.5 for each of the main sensory modalities.  A key factor here is defining what it means that a stimulus can be detected -- what if you can't quite detect it all the time, but still most of the time -- does that count?  The convention is actually to push all the way down to a 50% probability of detection.
+
+We can also determine the **discrimination threshold** or **just-noticeable difference** (*JND*), which is how big of a *difference* between two different stimuli that can be reliably detected (again typically at the 50% probability level).  One of the most exciting results in psychophysics is that this JND is a function of the intensity of the stimuli, and the famous **Weber's Law** says that it is a constant proportion of the overall intensity.  For example, if people can detect differences in fairly dim lights of a few percent, then to detect differences in much brighter lights, the raw differences must also be much larger, exactly in proportion to the overall intensity of the lights.  This proportion is known as the **Weber fraction**.
+
+One of the reasons we have to cover this (btw, it is all over -- not so bad after all!) is that psychophysics was one of the earliest examples of scientific psychology, starting with Ernst Weber's work in the 1830's and fully established by Gustav Fechner in 1860.  
+
+## Summary
+
+This chapter has a lot of detailed information, but the overarching theme of *compression* and *contrast* hopefully comes through.  Your brain is wired to be a *simplicity filter* and a *novelty filter*, delivering the simplest interpretation of an complex pattern of sensory input, and focusing on what is new and different.  These same processes, which can be tied directly back to the properties of neurons as explained in Chapter 2, operate throughout your brain, at all levels, shaping how you perceive other people (in terms of simplifying stereotypes) and the world (always seeing out news, and quickly discounting the past).  Thus, perception truly is a window onto the soul, and we return to these lessons throughout the remainder of the textbook.
 
 ## Summary of Key Terms
 
@@ -182,4 +246,24 @@ This is a checklist of key terms / concepts that you should know about from this
     + center-surround contrast detectors
     + R,G,B primary color photoreceptors (L,M,S)
     + red-green, blue-yellow opponent color coding
+    + binocular depth cues: retinal disparity, convergence
+    + monocular depth cues: occlusion, relative size, texture, linear perspective
+    + object, top-down biases, hallucinations, Kanisza triangle
+    + gestalt principles
+    + time contrast: novelty filter
 
+* Audition
+    + amplitude, frequency, wavelength
+    + ear drum, cochlea, hair cells
+    + place coding, spectrogram
+    
+* Attention
+    + spotlight
+    + spatial attention in parietal lobe
+    + hemispatial neglect
+    + Posner spatial cuing task
+
+* Psychophysics
+    + absolute threshold
+    + discrimination threshold, just-noticeable-difference (JND)
+    + Weber's law, Weber fraction

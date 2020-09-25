@@ -2,7 +2,7 @@
 
 * [Download PDF](https://github.com/PsychNeuro/ed1/blob/master/book.pdf)
 * [Download ePub](https://github.com/PsychNeuro/ed1/blob/master/book.epub)
-* For either, click on the “Download” button on the right hand side of the page, a bit of the way down — next to History.
+* For either, click on the "Download" button on the right hand side of the page, a bit of the way down — next to History.
 
 This is the start of a concise introductory textbook for Psychology and Neuroscience courses, based on a small set of core principles that cut across the full spectrum of neuroscience to Social Psychology.  In short, this is an ambitious attempt to present a unified, principled perspective on the field, akin to what is standard in other fields.
 

@@ -172,6 +172,11 @@ Whether the waking state is all just within some crazy big simulation remains a 
 
 This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check -- that provides both beneficial repetition and also the *testing effect*.
 
+* Neural correlates of consciousness
+    + hard problem vs. easy problems
+    + unitary nature of consciousness
+    + recurrent connectivity / processing
+    + subliminal processing
 
 * Drugs:
     + Agonist: activates, enhances neurotransmitter / receptor function
@@ -187,4 +192,10 @@ This is a checklist of key terms / concepts that you should know about from this
     + Cannabis: cannabinoid
     + Narcotics: endogenous opioid
 
+* Sleep & Dreams
+    + neuropeptide S
+    + functions: recharging, rebuilding, immune system, learning consolidation
+    + disorders: insomnia, narcolepsy, sleepwalking, night terrors, REM sleep disorder
+    + stages: slow-wave-sleep vs. rapid-eye-movement (REM)
+    + hypothalamus, thalamus role
 
