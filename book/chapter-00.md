@@ -102,11 +102,13 @@ With those big picture questions out of the way, we can turn to the plot for the
 
 **Chapter 8** just scratches the surface of the deep topic of language, and its critical role in shaping human thought.  Language is fundamentally a social activity, and we can learn a lot about ourselves through this lens.
 
-**Chapter 9** goes back to the beginning(s) and considers the evolution of the human brain and human behavior, how genetics shapes us relative to the role of experience (nature vs. nurture), and what we know about how we develop across the lifespan.
+**Chapter 9** expands our horizons into the domains of social interactions and personality, focusing on these critical questions of how social forces shape our thoughts and behavior, and how people differ in the ways that they interact with others.
 
-**Chapter 10** expands our horizons into the domains of social interactions and personality, focusing on these critical questions of how social forces shape our thoughts and behavior, and how people differ in the ways that they interact with others.
+**Chapter 10** goes back to the beginning(s) and considers the evolution of the human brain and human behavior, how genetics shapes us relative to the role of experience (nature vs. nurture), and what we know about how we develop across the lifespan.
 
 **Chapter 11** wraps up with the all-too-prevalent breakdowns in our amazing nervous systems in the form of the major mental disorders and how they are treated through therapy and pharmacological interventions.  The most successful forms of modern therapy are based on basic, practical principles, and include a considerable focus on understanding and acceptance of how your brain functions.  In this way, this textbook might be considered a form of therapy: hopefully you will come away from this with a much deeper and more satisfying understanding of what makes you tick, and what ticks you off, so that you might go on to lead a happier and fulfilling life!
 
-Typography tip (as a reward for reading all the way through!): **bold** is for keywords that are likely to show up on tests, and *italics* is for important but less-likely-to-be-tested terms.
+Typography tip (as a reward for reading all the way through!): **bold** is for keywords that are likely to show up on tests (and the summary of terms at the end), and *italics* is for important but less-likely-to-be-tested terms.
+
+Also, as a general pedagogical note: there is essentially a standard intro psych list of key points that is expected from every textbook, and these dominate the key terms at the end, and presumably the tests you'll get, but really the most important goal of this text is to convey the excitement and big picture questions and concepts of this most interesting of fields, with the hope of stimulating further study and thought.  Thus, you are strongly encouraged to read the book sequentially as you would a novel, and hopefully this bigger story comes through, even if we can't quite test you on it.
 

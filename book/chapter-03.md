@@ -4,6 +4,8 @@ bibfile: ccnlab.bib
 
 # Chapter 3: Consciousness, Drugs, Sleep, and Dreams
 
+[//]: # (todo: add hypnosis: suggestibility, dissociation, use in pain control, psychotherapy)
+
 Our entire subjective mental life is essentially synonymous with *consciousness* -- hence its obvious fascination.  As discussed in Chapter 1, psychology has wrestled with the challenge of subjective experience since its inception, and the stigma carried over from the behaviorist dogma against subjective experience still casts a shadow even to this day.  When you start talking about dreams and the legacy of Sigmund Freud in talking about the mysterious workings of the subconscious, modern-day psychological scientists get even more uncomfortable!
 
 As concluded in Chapter 1, we can view subjective and objective as two different perspectives, not two different magical substances, and while each individual has exclusive access to their own subjective perspective, we can all work together to build a consistent objective understanding through the scientific method.  In this chapter, we build on the neuroscience foundation from Chapter 2, to understand more about the **neural correlates of consciousness** *(NCC)* and how we might somehow reconcile the subjective features of conscious experience with some objective facts about the brain.
@@ -173,10 +175,10 @@ Whether the waking state is all just within some crazy big simulation remains a 
 This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check -- that provides both beneficial repetition and also the *testing effect*.
 
 * Neural correlates of consciousness
-    + hard problem vs. easy problems
-    + unitary nature of consciousness
-    + recurrent connectivity / processing
-    + subliminal processing
+    + Hard problem vs. easy problems
+    + Unitary nature of consciousness
+    + Recurrent connectivity / processing
+    + Subliminal processing
 
 * Drugs:
     + Agonist: activates, enhances neurotransmitter / receptor function
@@ -193,9 +195,9 @@ This is a checklist of key terms / concepts that you should know about from this
     + Narcotics: endogenous opioid
 
 * Sleep & Dreams
-    + neuropeptide S
-    + functions: recharging, rebuilding, immune system, learning consolidation
-    + disorders: insomnia, narcolepsy, sleepwalking, night terrors, REM sleep disorder
-    + stages: slow-wave-sleep vs. rapid-eye-movement (REM)
-    + hypothalamus, thalamus role
+    + Neuropeptide S
+    + Functions: recharging, rebuilding, immune system, learning consolidation
+    + Disorders: insomnia, narcolepsy, sleepwalking, night terrors, REM sleep disorder
+    + Stages: slow-wave-sleep vs. rapid-eye-movement (REM)
+    + Hypothalamus, thalamus role
 

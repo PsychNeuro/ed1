@@ -203,9 +203,9 @@ Thus, while there certainly are many deep mysteries and major discoveries yet to
 This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check -- that provides both beneficial repetition and also the *testing effect*.
 
 * Neuron: synapse, dendrite, cell body, axon
-    + neurotransmitter, reuptake, receptor, channel, ion, membrane potential, threshold, spike / action potential
+    + Neurotransmitter, reuptake, receptor, channel, ion, membrane potential, threshold, spike / action potential
     + 10,000 inputs to 1 output = *compression*
-    + excitatory: glutamate, AMPA, Na+; inhibitory: GABA, Cl-
+    + Excitatory: glutamate, AMPA, Na+; inhibitory: GABA, Cl-
     + Tug-of-war creates *contrast* -- neurons respond *relative to average*
 
 * Brain:

@@ -233,37 +233,37 @@ This is a checklist of key terms / concepts that you should know about from this
     + Assumptions, illusions
 
 * Sensory systems
-    + physical stimulus, transduction, subcortical preprocessing
-    + vision, rods, cones, retina, LGN, V1
-    + audition, hair cells, cochlea, MGN, A1
-    + olfaction, hair cells, ofactory epithelium, olfactory cortex
-    + gustation, taste buds, papillae, VPN, Insula
-    + somesthesis, free nerve endings
+    + Physical stimulus, transduction, subcortical preprocessing
+    + Vision, rods, cones, retina, LGN, V1
+    + Audition, hair cells, cochlea, MGN, A1
+    + Olfaction, hair cells, ofactory epithelium, olfactory cortex
+    + Gustation, taste buds, papillae, VPN, Insula
+    + Somesthesis, free nerve endings
 
 * Vision
-    + retina, periphery, fovea, photoreceptors, blind spot
-    + cones for color, rods for motion
-    + center-surround contrast detectors
+    + Retina, periphery, fovea, photoreceptors, blind spot
+    + Cones for color, rods for motion
+    + Center-surround contrast detectors
     + R,G,B primary color photoreceptors (L,M,S)
-    + red-green, blue-yellow opponent color coding
-    + binocular depth cues: retinal disparity, convergence
-    + monocular depth cues: occlusion, relative size, texture, linear perspective
-    + object, top-down biases, hallucinations, Kanisza triangle
-    + gestalt principles
-    + time contrast: novelty filter
+    + Red-green, blue-yellow opponent color coding
+    + Binocular depth cues: retinal disparity, convergence
+    + Monocular depth cues: occlusion, relative size, texture, linear perspective
+    + Object, top-down biases, hallucinations, Kanisza triangle
+    + Gestalt principles
+    + Time contrast: novelty filter
 
 * Audition
-    + amplitude, frequency, wavelength
-    + ear drum, cochlea, hair cells
-    + place coding, spectrogram
+    + Amplitude, frequency, wavelength
+    + Ear drum, cochlea, hair cells
+    + Place coding, spectrogram
     
 * Attention
-    + spotlight
-    + spatial attention in parietal lobe
-    + hemispatial neglect
+    + Spotlight
+    + Spatial attention in parietal lobe
+    + Hemispatial neglect
     + Posner spatial cuing task
 
 * Psychophysics
-    + absolute threshold
-    + discrimination threshold, just-noticeable-difference (JND)
+    + Absolute threshold
+    + Discrimination threshold, just-noticeable-difference (JND)
     + Weber's law, Weber fraction

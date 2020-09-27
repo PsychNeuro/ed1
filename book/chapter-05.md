@@ -227,7 +227,7 @@ This is a checklist of key terms / concepts that you should know about from this
     + External (extrinsic) vs. internal (intrinsic) motivation
     + Drive reduction
     + Maslow's hierarchy of needs (levels of hierarchy)
-    + role of vmPFC in satiety / devaluation effects
+    + vmPFC in satiety / devaluation effects
 
 * Emotion and Arousal
     + Circumplex model
