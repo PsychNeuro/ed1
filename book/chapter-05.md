@@ -197,7 +197,7 @@ One final issue concerns the optimal level of arousal for driving motivated beha
 
 ## Summary of Key Terms
 
-This is a checklist of key terms / concepts that you should know about from this chapter.
+This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check -- that provides both beneficial repetition and also the *testing effect*.
 
 * Synaptic Plasticity
     + Hebbian Learning
