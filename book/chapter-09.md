@@ -118,7 +118,48 @@ This framework provides some critical context for understanding the dimensions o
 
 ## Personality
 
-OCEAN, social dynamics
+Who are you, really?  Would you be essentially the same person if you got switched at birth, and grew up in a different family?  A different country?  A different age?  These are some of the deepest and unanswerable (counterfactual) questions in psychology.  No harm in speculating anyway -- what do you think?  How much are you a product of your environment, versus some kind of internal "essence" that defines you?
+
+Although we cannot answer those counterfactual questions for any given individual, we can find some pretty interesting and informative approximations to them.  For example, identical twins who were separated at birth do tend to be fairly similar, sometimes in really idiosyncratic and striking ways, as in the Jim Twins [@Segal12]:
+
+> both got terrible migraines, bit their nails, smoked Salem cigarettes, drove light blue Chevrolets, did poorly in spelling and math, and had worked at McDonald’s and as part-time deputy sheriffs. But the weirdest part was that one of the Jim twins had named his first son James Alan. The other had named his first son James Allan. Both had named their pet dogs “Toy.” Both had also married women named Linda—then they got divorced, and both married women named Betty
+
+However, this case is exceptional, and when you look at larger samples and do the relevant *behavioral genetics* analyses (which we'll learn about in detail in the next chapter), the heritability of personality factors is about 0.5 or so (where 1 is perfect genetic determinism and 0 is none) [@PowerPluess15].
+
+Being a parent of multiple children also provides an important perspective on this question.  When you have your first child, you are very concerned about everything, and especially about possibly ruining your child in some incidental, horrifying way.  But when you have your second child, you start to see how very different the two kids can be, even with the same parents, and, as the saying goes, you transition from being an empiricist to a nativist -- maybe the environment has less impact than I thought (and now I can relax a bit -- the kid is going to be who he is going to be after all).  Again, as we'll see in the next chapter, the real answer seems to be about 0.5 for most things of interest.  So you can just half-worry ;)
+
+What you also notice as a parent is that your kids start out with a kind of raw, unformed essence, termed **temperament**, which slowly blossoms into a more fully-formed personality over the years.  Although controversial, there is a general consensus that temperament refers to more biologically-determined individual differences, present early in development, while personality is more associated with later-developing, socially-influenced factors.
+
+### Dimensions of Temperament
+
+The notion of temperament has a long history going back to greek philosophy, and many different taxonomies have been developed, without a clear consensus.  The single strongest dimension across time has been some kind of *activation* versus *inhibition* dimension, which has been strongly emphasized in the *BIS/BAS* (behavioral inhibition system / behavioral activation system) framework [@Gray82; @CarverWhite94; @PickeringGray99].
+
+One recent, ambitious project in temperament research is an attempt to directly connect dimensions of temperament with underlying neuromodulatory systems in the brain [@TrofimovaRobbins16; @TrofimovaRobbinsSulisEtAl18].  
+
+[@ReadMonroeBrownsteinEtAl10]
+
+### Dimensions of Personality
+
+In contrast with temperament, the field of personality has converged around a core set of personality dimensions, known as the **big five**, which go by the acronym of **OCEAN**.  One of these dimensions clearly relates to the activation / inhibition temperament factors, and also to the dominant / submissive factor identified as so central to social interactions: **extraversion / introversion**.  In addition, the **agreeableness** factor clearly seems related to the *warmth* factor discussed above, but instead of being associated with a particular in-group / out-group situation, this personality-level factor refers to a general stable disposition toward warmth across situations.
+
+* **Openness to experience** reflects an individual's tendency to see out new experiences, and challenge themselves by entertaining new, unusual ideas, and are overall more creative.  The opposite, **closed** end of the spectrum is associated with more conservative, pragmatic, "hard nosed" attitudes.  This dimension may be a kind of activation temperament toward the intellectual sphere, in the same way that extraversion is an activation temperament toward social interactions.  In the Harry Potter universe, some Ravenclaws (e.g., Luna Lovegood) would score high here.
+
+* **Conscientiousness** is closely related to the self-control behavior that we discussed in the context of the marshmallow task -- a strong motivation to be prepared, and ability to control impulses and behave in a socially-desirable manner.  On the other end of this dimension, people are more spontaneous, impulsive, unreliable, and sloppy.  In the Harry Potter universe, Ravenclaw is the epitome of conscientiousness, and this personality variable is also associated with intelligence, which makes sense given the prior discussion of the relevant motivational factors driving success in school.  Hufflepuffs are also reasonably high on a conscientiousness, in terms of being hard working.
+
+* **Extraversion / Introversion** is well-known and widely recognized in popular culture: some people are "people people" and other people are not.  Extraverts get energized by social interaction, while introverts find them draining.  Extraversion can be thought of as an activation temperament in the social domain, and is associated with dominance in the interpersonal circumplex framework, while introversion is on the submissive, inhibited end of the scale.
+
+* **Agreeableness** reflects the degree of positive social orientation generally expressed toward in-group members -- some people are just more warm and cooperative than others.  By contrast, disagreeable people place self-interest above cooperation.  From an overall social dynamics perspective, if everyone was too agreeable, there might not be enough individual strength to achieve important individual missions.  In the Harry Potter universe, the house of Slytherin is the embodiment of disagreeableness, while Hufflepuffs are the epitome of agreeableness.  Hufflepuffs risk getting taken advantage of (as illustrated in Figure 9.X), and nobody really likes Slytherins.  But they likely fear them, and sometimes you really want a strong scary badass on your team.  Han Solo plays this role in the Star Wars universe.
+
+* **Neuroticism** is also widely recognized in common folk psychology, as a propensity for anxiety, and strong emotional reactions.  It is also known as emotional instability -- experiencing a high variability of emotional responses.  It is contrasted on the low end of the scale with a more calm, emotionally stable outlook.  Although it is tempting to associate neuroticism with behavioral inhibition, in terms of a more fear-based outlook, it is actually identifying a separable, independent factor.  In particular, you can probably think of people who are high in both extraversion and neuroticism, and also people who are introverted but also calm (that's me, for example).  
+
+The one Harry Potter house that doesn't exemplify one of these factors is Gryffindor -- they are perhaps more generally well-rounded, probably reasonably high on extraversion but not excessively so, and definitely high on openness as well.  Not highly agreeable, and definitely low on neuroticism.
+
+
+TODO: factor analysis, situation vs. disposition, etc.  
+
+### Measures of Personality
+
+* MMPI, meyers-briggs, etc.
 
 ## Group Dynamics
 
