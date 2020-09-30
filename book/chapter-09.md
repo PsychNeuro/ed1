@@ -212,6 +212,8 @@ Thus, while it may not be so easy to replicate the most horrible of human behavi
 
 The noble goals behind these flawed experiments was to shine the bright light of science on the dark evolutionary wiring still in our brains, that causes us to think and act in ways that have little relevance in our modern, interconnected world where there is every potential for people to live together in relative harmony.  Perhaps if these biases were more widely recognized, it might help diffuse the power of such obvious abuse of our in-group / out-group biases in the world today.
 
+TODO: also more about Brewer and not always present!!
+
 ### Stereotypes and Prejudice
 
 The propensity to **stereotype** group members has long been recognized as a natural byproduct of our basic tendency to think in terms of simpler categories [@Allport54], as we have emphasized throughout in terms of the **compression** principle.  However, while stereotyping may be a natural cognitive process, when it interacts with out-group dynamics as discussed above, it leads to **prejudice** and the tendency to disrespect, dehumanize, and disenfranchise members of an out-group.
