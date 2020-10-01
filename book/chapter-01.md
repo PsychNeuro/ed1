@@ -48,7 +48,7 @@ This book is grounded squarely in this new paradigm of cognitive neuroscience, a
 
 The challenges imposed by the primacy of subjectivity have far-reaching implications beyond the field of psychology.  First, given that some people can't even agree that there *is* an objective, external world outside the mind, how can we possibly even begin to start talking about *objective knowledge* and *facts*?  This appreciation for the primary nature of subjective experience forces us to recognize that objective knowledge itself is entirely dependent on the subjective motivation of individuals to entertain a strong enough belief in this notion of objective reality, to put up with all the effort it takes to make any progress in understanding and advancing objective knowledge.  
 
-Those individuals are called "scientists", and they follow a particular method, the **scientific method**, which has the following basic steps:
+Those individuals are called *scientists*, and they follow a particular method, the **scientific method**, which has the following basic steps:
 
 1. Come up with a general question or problem, e.g., based on an informal **observation** about something of interest (e.g., Newton observes the apple falling on his head, which gets him thinking..)
 
