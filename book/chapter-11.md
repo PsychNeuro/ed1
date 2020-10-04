@@ -4,7 +4,7 @@ bibfile: ccnlab.bib
 
 # Chapter 11: Disorders and Therapy
 
-John Glenn's quote about how he felt before taking off in the rocket *Friendship 7* in 1962:
+The astronaut John Glenn's quote about how he felt before taking off in the rocketship *Friendship 7* in 1962:
 
 > *I felt exactly how you would feel if you were getting ready to launch and knew you were sitting on top of 2 million parts --- all built by the lowest bidder on a government contract.*
 
@@ -24,7 +24,7 @@ And even if there is some agreement that a particular type of disorder deserves 
 
 We can understand why mental disorders have a stigma in a way that other health disorders do not --- brain function is inexorably tied to the subjective inner *self* in a way that liver function just isn't.  When something goes wrong in your brain, you are right there with it, and others tend to wonder what kind of causal role you might have in bringing about the disorder in the first place, and also why you can't just fix it on your own.  This goes back to the issues of self-control that we discussed in Chapter 9. Fortunately, awareness of the prevalence and nature of these disorders is helping to mitigate these stigmas, and making it easier for people to seek help when they need it.
 
-![**Figure 11.1:** Attractor (network) model explanation of the comorbidity across many disorders.  Each disorder has a different starting point (etiology) but due to the vicious cycle nature of certain symptoms and states, they can be "attracted" to a common overall state.  A wide basin of attraction implies many different such starting states can be drawn into the same attractor, which can explain why even in more biologically-based disorders such schizophrenia, there can be a huge number of different genetic risk factors.  It also explains how environmental factors can interact with biological factors in complex ways, by pushing these attractor dynamics around.](figures/fig_disorders_attractor.png){ width=40% }
+![**Figure 11.1:** Attractor (network) model explanation of the comorbidity across many disorders.  Each disorder has a different starting point (etiology) but due to the vicious cycle nature of certain symptoms and states, they can be "attracted" to a common state.  A wide basin of attraction implies many different such starting states can be drawn into the same attractor, which can explain why even in more biologically-based disorders such schizophrenia, there can be a huge number of different genetic risk factors.  It also explains how environmental factors can interact with biological factors in complex ways, by pushing these attractor dynamics around.](figures/fig_disorders_attractor.png){ width=40% }
 
 To understand why the disease model does not apply in many cases, we need to recognize that the brain is not like a car or other mechanical device, where discrete parts break and give rise to clear symptoms, and have clear fixes.  Instead, as we've emphasized throughout, the brain is an unbelievably complex emergent system, and the ways in which it goes wrong are also complex and emergent.  This perspective is captured in the increasingly popular **network model** of mental disorders [@CramerWaldorpvanderMaasEtAl10; @Borsboom17], which explains how a wide range of different biological and psychological causes can all lead to a kind of **attractor state** in the system (Figure 11.1).
 
@@ -33,6 +33,8 @@ A particularly important signature of this kind of attractor state is the high l
 Putting all of this together, the attractor state typically corresponds to a **vicious cycle** of negative affect (fear and depression) that short-circuits the motivational and cognitive control systems in the prefrontal cortex and basal ganglia, which in turn leads to more negative affect due to a reduced level of self-esteem, perceived self-efficacy, and general feelings of loss of control and motivation to function.  The essential role of self-control and self-efficacy in the human motivational system was discussed in Chapters 9 and 5 --- from this basis, it should be clear that dysfunction in these core systems can really bring the whole self-model down.
 
 This framework also helps us understand how and why therapy can help: the most effective therapies directly target these core systems of self-control and self-efficacy, and by essentially "rebooting" these systems, they help break the vicious cycle and propel people back out of this bad attractor state, and into a more positive **virtuous cycle** where feelings of self-efficacy give rise to motivated thoughts and behaviors that result in sustained and enhanced feelings of self-efficacy.  Consistent with this understanding, **behavioral activation** is the most effective element of the most effective form of therapy for treating depression [@DimidjianMartellHerman-DunnEtAl14], and these issues of perceived self-control and self-efficacy are reliable precursors for depressive episodes [@IacovielloAlloyAbramsonEtAl10].
+
+The social relationship established between the therapist and the client, known as the **theraputic alliance** is also recognized as a critical contributor to the success of therapy.  This taps into the power of social forces in shaping our behavior, and provides an interesting model for how one person really can help another, slipping through all of the various defense mechanisms that normally confound such things.  Meanwhile, the negative side of the social forces is evident in many of the disorders, which involve an important component of social withdrawal and isolation, which are a major contributor to the vicious cycle and amplify the severity of any disorder.  Thus, the social bond of therapy breaks that vicious cycle too.
 
 Although the close proximity of the *self* and mental disorders can be a source of stigma, it is also critical to appreciate that *we have someone on the inside* who can tell us some important things about what is going on in the maelstrom of this complex system.  That special someone can actually do things to *fix the system from the inside out.*  This is the core premise of therapy, and the undeniable efficacy of modern, empirically-supported theraputic techniques clearly indicates that we do in fact have some (albeit imperfect) ability to fix ourselves from the inside.
 
@@ -54,7 +56,7 @@ Here is the very pragmatic answer that earlier versions of the DSM provide to on
 
 The first criterion is fundamentally *subjective* (a report from the inside), which has many important implications, and is typically given a lot of weight in the diagnosing process.  Taken together, these two criteria help resolve many potentially problematic issues.  For example, if you're a "strange bird" that other people might tend to describe as "crazy", but you are personally not experiencing any distress, and you are able to manage the "important areas of functioning" (i.e., the tasks of daily life --- self-sufficiency for adults), then *you do not meet criterion for a disorder!"*
 
-This definition also generally precludes the previously problematic situation, featured in a number of movies, where a ill-intentioned person could have someone locked up in a mental ward against their own wishes!  If there is sufficient cognitive functionality present to communicate and understand the situation, the subjective experience of the individual is essential.  This definition also helps deal with the *neurodiversity* question --- if you are a high-functioning autistic individual who is overall not experiencing undue distress, then you are not considered to have a disorder.
+This definition also generally precludes the previously problematic situation, featured in a number of movies, where a ill-intentioned person could have someone locked up in a mental ward against their own wishes!  If there is sufficient cognitive functionality present to communicate and understand the situation, the subjective experience of the individual is essential.  This definition also helps deal with the *neurodiversity* question --- if you are a high-functioning autistic individual who in general is not experiencing undue distress, then you are not considered to have a disorder.
 
 Interestingly, the DSM-5 revision introduced language that refers to biological causes and sounds more like the disease model, while retaining the key subjective distress criterion:
 
@@ -92,7 +94,7 @@ The central role of motivational, self-efficacy effects in depression explains w
 
 By understanding the emergent, dynamic nature of depression, and the critical role of sense of self-control and self-efficacy, it also makes it more clear why therapy that is focused on restoring self-efficacy has been demonstrated to be the most effective in treating most cases of depression [@DimidjianMartellHerman-DunnEtAl14].  This form of therapy is based on CBT, which is also effective for anxiety, but also includes *behavioral activation* components that work on restoring goal-engagement and a sense of competency in performing basic daily tasks.  Overall these effective forms of therapy are equally if not more effective than SSRI's or other medications for all but the most severe forms of depression [@GartlehnerWagnerMatyasEtAl17].
 
-Interestingly, despite its somewhat "barbaric" reputation from various movies, electroconvulsive shock therapy is still widely used and is highly effective for more severe forms of depression.  Scientists are also experimenting extensively with milder forms of electrical and magnetic brains stimulation, with some positive results.  These therapies may work by literally strengthening synapses and neural activity in the frontal cortex, which then provides greater control and motivation activity overall.  Thus, it may work in a similar fashion to behavioral activation --- it is all about *activation* --- connecting back to the *BAS* framework and personality variables associated with this activation construct discussed in Chapter 9.
+Interestingly, despite its somewhat "barbaric" reputation from various movies, **electroconvulsive shock therapy** is still widely used and is highly effective for more severe forms of depression.  Scientists are also experimenting extensively with milder forms of electrical and magnetic brains stimulation, with some positive results.  These therapies may work by literally strengthening synapses and neural activity in the frontal cortex, which then provides greater control and motivation activity overall.  Thus, it may work in a similar fashion to behavioral activation --- it is all about *activation* --- connecting back to the *BAS* framework and personality variables associated with this activation construct discussed in Chapter 9.
 
 ### Substance Use Disorders
 
@@ -124,7 +126,7 @@ According to the *attractor* model, some of the negative symptoms could be a (pe
 
 Schizophrenia is typically treated using **antipsychotic** medications, all of which have some effect on *dopamine*, but also other neuromodulators, and help to control the positive symptoms.  In general the negative symptoms are not well treated by current treatments.  The essential role of dopamine in schizophrenia has been believed for a long time [@MeltzerStahl76], but more recent data is suggesting that it may play a somewhat different role than previously thought [@McCutcheonAbi-DarghamHowes19], involving the basal ganglia.
 
-A notable and scientifically important aspect of schizophrenia is its developmental nature: There are a number of indications that schizophrenia is often caused by events that take place early in development, but do not manifest until early adulthood.  Overall, it is significantly heritable, but genetic analyses have found no strong associations with specific genes, consistent with many other phenotypes such as intelligence, as discussed in Chapter 10.  In general, it is thought to require the interaction of biological predispositions with significant environmental events, which is true of most disorders, as we discuss below.
+A notable and scientifically important aspect of schizophrenia is its developmental nature: There are a number of indications that schizophrenia is often caused by events that take place early in development, but do not manifest until early adulthood.  It is significantly heritable in general, but genetic analyses have found no strong associations with specific genes, consistent with many other phenotypes such as intelligence, as discussed in Chapter 10.  In general, it is thought to require the interaction of biological predispositions with significant environmental events, which is true of most disorders, as we discuss below.
 
 One particularly well-studied etiology of schizophrenia is **maternal immune activation** (MIA), which has been studied in rodent and monkey models, caused by activation of the mother's immune response during specific periods in gestation [@Meyer14; @EstesMcAllister16; @Meyer19]. Animals with this MIA exposure go on to develop a number of biological and behavioral characteristics of schizophrenia (and autism as well).  In humans, there are a number of cases where pandemic outbreaks have been associated with significant increases in children who went on to develop mental disorders including schizophrenia and autism.  For example, the 1964 Rubella virus pandemic resulted in a 20% incidence of schizophrenia for children of affected mothers (compared to less than 1% otherwise).
 
@@ -138,47 +140,175 @@ As for how delusions and hallucinations may arise, the *self-model* from Chapter
 
 ### Obsessive-Compulsive disorders (OCD)
 
+"OCD" is used in casual conversation to refer to any kind of obsessive behavior, but, as we have been emphasizing, actual disorder-level OCD refers to the case where it is personally distressing and creates dysfunction.  The **obsessive** part refers to repeated thoughts, typically focused on negative potential outcomes, while **compulsive** refers to repeated behaviors taken to try to avoid these negative outcomes.  From a control perspective, OCD reflects an increased motivation for control, and is correspondingly associated with increased level of prefrontal cortex / basal ganglia system engagement, as compared to the prior disorders which reflect reduced functionality in these areas.  Thus, OCD is similar to anorexia, and the two have high levels of comorbidity.
+
+The dysfunctions associated with OCD can include severe skin rashes from repeatedly washing hands, to avoid infection.  There are four major subtypes of OCD: *symmetry*, including organizing and counting; *cleaning*, which is more focused on avoiding contamination; *forbidden thoughts* about things such as aggression or sexual acts; and *hoarding* [@BlochLanderos-WeisenbergerRosarioEtAl08].  These subtypes can also be organized in terms of broader motivational dimensions, in terms of **harm avoidance** versus **incompleteness** [@EckerGonner08], which have implications for the basic dynamic of the disorder.
+
+Specifically, harm avoidance (which dominates in all but the symmetry case) can be understood in terms of the fundamental conundrum: *how do you know when you've successfully avoided something!?*  You don't.  You can only know that you've avoided it *so far*.  Thus, the *avoidance goal* is never quite satisfied, so that compulsive behaviors are continuously re-activated to try to satisfy these unsatisfiable goals.  The incompleteness motivation shares this same end-state of having an unsatisfiable goal, but in a more inexplicable, primary way: despite seemingly effective actions, the goal is just not recognized as being satisfied.
+
+This incompleteness condition is particularly important from the perspective of developing a more complete understanding of goal-driven behavior, because it is often quite difficult to specify precisely what counts as having satisfied a goal.  If you're cleaning the counter, what counts as "clean enough"?  How do you know when a paper, or an email, are "good enough" to send?  There are clearly individual differences in terms of degree of *perfectionism* here, and often perfectionists can be dysfunctional in working too long on such things, limiting their productivity and causing significant deadline stress.
+
+From a learning-theoretic perspective, this question of goal satisfaction is critical because that defines "success" and should then influence learning and dopamine release --- the ability to drive your own internal dopamine release must be a carefully guarded power within the brain, otherwise you could just sit on the couch and "get off" any time you want.  As fascinating as that might sound, it wouldn't be very adaptive, so evolution must have carefully hidden this capacity behind many protective enchantments. 
+
+I personally relate with the *symmetry* obsession in terms of organizing things, especially in programming, where it is very satisfying to achieve a very nice and ordered solution of a space of data or algorithms.  On the other hand, I'm far from a perfectionist, so there may be other dimensions at work here.
+
 ### Trauma and Stressor-Related disorders (PTSD)
+
+PTSD is, like many of the well-known mental disorders, also used colloquially, but the disorder sounds truly terrifying.  Not only did you have to suffer from some kind of horrible trauma in the first place, but these traumatic events continue to haunt you for a long time thereafter.  The incidence of PTSD is different for different types of trauma. For rape, the rate is 20%; military combat is about 23% with a delayed onset typically; life-threatening auto accidents is about 5%.
+
+PTSD can be understood in terms of the difficulty in extinguishing conditioned associations encoded in the *amygdala*, as discussed in the learning chapter.  The circuitry of the amygdala works to maintain learned associations, while encoding new associations that carve out *exceptions* for different circumstances.  Thus, once learned, fear associations can spontaneously reemerge, even if they have been extinguished in various contexts.  This makes sense from a basic survival perspective: if something bad has happened, you don't want to forget about that.  The effective therapies for PTSD are similar to those for anxiety disorders, involving more systematic attempts to extinguish the fearful associations across a broader range of contexts.  The state of the prefrontal cortex provides an important part of this "context" input to the amygdala, so finding ways to activate "safe" prefrontal states is an important strategy.
 
 ### ADHD
 
-* Motivation, not EF (Volkow, 2011)
+Attention deficit / hyperactivity disorder (ADHD) is categorized as a developmental disorder by the DSM, along with autism, because it typically manifests before adolescence.  It has two primary clusters of symptoms, associated with **inattention** and **hperactivity / impulsivity**, as the name suggests.  This is one of the most controversial of mental disorders, because of its high prevalence in children (around 5%), and the question of whether it is being *overdiagnosed* and *overmedicated* --- some people argue that it just reflects normal variation in the population, and most people will just grow out of it, so that prescribing medications is over reacting.  
+
+On the other hand, ADHD is comorbid with a large number of other developmental disorders, especially including **developmental dyslexia**, and people often show improvements with pharmacological treatment, suggesting that treating it as a disorder may be overall beneficial.  The primary treatment is with stimulants such as **Ritalin** (**methylphenidate**), and the similarity of these to drugs of abuse including amphetamine and cocaine is an important source of negative attitudes about this form of treatment.  However, at an intuitive level, for the inattention component of the disorder, stimulating the system to increase the ability to focus and concentrate seems plausible.  However, this logic seems backwards for the hyperactivity component, but it is nevertheless beneficial there too.
+
+As with most of the other disorders, ADHD has been associated with the prefrontal cortex and basal ganglia system, and especially the dopaminergic system due to the benefits of Ritalin.  Thus, many scientific studies looked for executive function and fluid intelligence deficits in people with ADHD, with mixed results.  However, consistent with our overall theme that motivation plays a dominant role in these systems, more recent research has found more reliable evidence of motivational differences in people with ADHD [@VolkowWangNewcornEtAl11; @Modesto-LoweChaplinSoovajianEtAl13].
+
+A weakly-supported but intuitively-appealing idea is that people with ADHD have more balanced hemispheric dominance profiles, such that they can shift attention between hemispheres more quickly and easily, compared to other people who tend to get locked into whatever the dominant hemisphere is doing.  While there have been some studies showing an association between a more ambidextrous mixed-handedness profile and ADHD, the effects are not strong overall [@LinTsuang18].  One possibility is that this profile represents one subset within the more diverse population of people with ADHD.  In any case, this idea does suggest that ADHD could be viewed more from the neurodiversity perspective as just a different cognitive style, rather than a disorder.
+
+### Autism
+
+As we have discussed previously, **autism spectrum disorder** is generally identified with a core deficit in social interaction and communication, evident early in childhood, along with narrow interests and often repetitive activities.  The *spectrum* nature of this disorder encompasses a wide range of severity, with **Asperger syndrome** representing the higher-functioning end of this spectrum (this terminology was replaced with the spectrum framework in DSM-5). In the more severely affected end of the spectrum, there can be significant developmental delays in cognitive function and language, including cases where language is never acquired.
+
+The **savant** abilities of a small subset of people with autism have captured the public imagination, as captured in the movie *Rain Man* starring Dustin Hoffman and Tom Cruise, based on the autistic savant Kim Peek.  However, most people with autism do not have such abilities, and instead roughly 50% exhibit significant self-harm behaviors, so the reality of autism is much less "glamorous" than presented in this movie.
+
+Many scientists have proposed simple, compelling single-factor explanations for autism, including deficits in *theory of mind* [@Baron-CohenLeslieFrith85], *mirror neurons* [@IacoboniDapretto06], and the idea that it represents an extreme form of the male brain, based in part on the 4-to-1 ratio of males to females with autism [@Baron-Cohen02].  However, none of these theories have really held up, in the face of the extreme diversity of etiologies and manifestations of this disorder [@NadlerCamererZavaEtAl19].  Instead, the most reliable neural signature of autism involves various often diffuse changes in brain conectivty [@OReillyLewisElsabbagh17].  This is generally consistent with the fact that maternal immune activation (MIA) is associated with both schizophrenia and autism, in terms of a broader, more diffuse neural impact [@CareagaMuraiBauman17].
+
+One broad theory consistent with the MIA etiology is that autism results when there are more severe changes in brain circuits, such that impacts on social processing are evident early in development, while schizophrenia represents milder underlying neural impact that only manifests later in early adulthood, when the mild deficits in social processing manifest as described above.  This is one of many possible connections between these two disorders, that are being investigated in ongoing research [@ChisholmLinAbu-AkelEtAl15].
+
+In terms of treatment, considerable advances have been made in targeted, early interventions focused on specific symptoms, training specific life skills, and providing a better quality of life for the entire family.
 
 ### Personality Disorders
 
-* Boderline is bad..
+The precise distinction between a *personality* disorder and any of the disorders defined above is a bit confusing.  In general, personality disorders are associated with stable trait-like features of an individual that are present relatively early in life, and which lead to problems in social interactions, and are not explained by any of the other identified disorders.  In other words, personality disorders are a bit of a "leftover" category of disruptive, problematic behaviors that don't have a better explanation.  They are also explicitly defined relative to cultural norms.
 
-* Externalizing disorders -- acting out -- re-asserting sense of control over environment?
+To make things even more confusing, many of these disorders are named and described in reference to other "primary" disorders, for example **schizoid** and **schizotypal** personality disorders are kind of like schizophrenia (specifically with respect to social anxiety, withdrawal), but without the full positive and negative symptoms. Another set of disorders include **antisocial**, **borderline**, **histrionic**, and **narcissistic** personality disorders, which are generally associated with high emotional volatility, as in a particularly extreme form of the emotional volatility facet of the **neuroticism** personality factor.
 
+Boderline personality disorder is a particularly prevalent (perhaps as many as 6%) and challenging condition.  In addition to high levels of emotional volatility, it is characterized by an unstable self-model (sense of self), which may reflect the effects of early childhood trauma that is present in many cases.  A distinctive manifestation is extreme sensitivity to social rejection or criticism (reflecting a weak sense of self), strong feelings of betrayal, loss of control, and strong inclinations toward self-harm (occurring in 50-80% of cases).
+
+Another group of personality disorders reflect heightened levels of anxiety, including **avoidant**, **dependent**, and **obsessive-compulsive** personality disorder (which is distinct from OCD).
 
 ### Other Disorders
 
-There is a large list of other disorders that we will not cover, including the wake-sleep disorders (insomnia, narcolepsy)that we discussed in Chapter 3.
-
-### Diseases: Parkinson's, Alzheimers
-
-* dopamine, amyloid
+There is a large list of other rarer and more specific disorders that we will not cover, including the wake-sleep disorders (insomnia, narcolepsy)that we discussed in Chapter 3.
 
 ## Disease Theories
 
-* Diathesis-Stress
+Having now seen many of the most prevalent disorders, we consider some of the most widely-discussed overarching theoretical approaches to understanding features of these disorders.
 
-* Triple-Vulnerability
+One of the most important is the **Diathesis-Stress** model, which is just a confusing Greek version of the intuitive notion that most disorders include a **vulnerability** (that's what diathesis means) toward disorder, often arising from genetic, biological and developmental factors.  Then, some kind of environmental event(s) act to *stress* the system, pushing it over some critical threshold so that the disorder is fully manifested, whereas before it was merely latent.  This model was introduced by Paul Meehl in his analysis of schisophrenia and related personality disorders [@Meehl62].
+
+This model can be understood within the context of the *attractor* model discussed at the outset, where the "stress" events are particular events that push the system dynamics into the *basin of attraction* for the vicious cycle to start kicking in and moving toward the attractor state.
 
 ## Therapy
 
-* evidence-based effective therapies -- basically CBT and variants.
+The popular misconception that "therapy is just talk", and the concomitant suspicion that "just talk" cannot possible cure people of serious mental disorders, belies the fundamental under-appreciation of the true power of social forces in shaping us.  As we've seen, almost all of the above disorders involve a significant role for social disconnection and withdrawal, which plays a critical role in the vicious cycle that turns a vulnerability into a full-fledged disorder.  This essential role for social forces in causing the disorder then explains why these same social forces can have so much efficacy in treating disorders.
 
-* older, freudian...
+The **therapeutic relationship** has some special features compared to other social relationships, which appear to be critical for its overall efficacy [@ArditoRabellino11].  Specifically, it features a **therapeutic alliance** between the therapist and client, which is the collaborative effort focused specifically on treating the client's suffering and other core symptoms.  In addition to this shared goal, it is important to arrive at an agreement about the specific tasks to be done by each person, and that both sides exhibit a high degree of *warmth* that cements an in-group bond between the two.
 
-* eclectic is most common -- personal touch..
+In terms of the concepts explored in Chapter 9, successful therapy involves creating a new social group that exists for the specific purpose of helping the client.  This creates a unique environment free from all the usual conventions about reciprocity, dominance vs. submission tensions, acceptance vs. rejection, etc.  Furthermore, while the therapist does enjoy an overall dominant, leadership role in the relationship, the warmth and focus on the client serve to reduce the threat from that dominance role, and instead channel it into a positive sense of efficacy and agency for the group as a whole.  In other words, this special social relationship is structured specifically to counteract the social isolation and alienation that the client has been experiencing as a result of their disorder.
 
-* Theraputic alliance, allegience, competence -- provides key element of perceived control and efficacy, hope, confidence, social support.  Any therapy that provides this will have some efficacy..
+Because most therapies feature this overall kind of therapeutic relationship, we would expect that there would be a broad level of effectiveness regardless of the specific details that take place within this relationship.  That is in fact the case --- when various therapies have been systematically evaluated, essentially *everyone is a winner!*  This is has been dubbed the **dodo bird verdict**, after the race in *Alice in Wonderland* that had this same outcome [@LuborskyRosenthalDiguerEtAl02].
 
-### CBT and Variants
+### CBT
+
+However, more recent work has been more specifically comparing therapies against each other and against various pharmacological alternatives [@deFeliceGiulianiHalfonEtAl19], and overall across many different disorders, the **Cognitive Behavioral Therapy** (CBT) is widely supported and is considered the "standard of care" at this point.  In reference to the broader medical literature, it is described as **evidence-based effective therapy**.  However, one important point to keep in mind is that surveys of actual therapists indicate that they have a strong tendency to inject their own personal "style" to the therapy, resulting in an **eclectic** overall approach.  At its core, therapy is a social interaction and is subject to the individual personality and approach of the therapist, as they interact with the client, so it is not like a manufactured widget that can be exactly replicated.
+
+CBT incorporates many features from cognitive and behaviorist psychology, including focusing on the power of cognitive patterns of thoughts, and also on the nature of reinforcement in behavior.  For example, the therapist will point out that the client is emphasizing negative thought patterns by **overgeneralizing** from one negative event (e.g., one negative social interaction) to concluding that "the whole world hates me".  By recognizing these negative patterns of thought, and how they produce negative affect and further the vicious cycle of the disorder, the client can then interrupt such thought patterns in the future, and recognize that this is just a pattern of thought and not reflective of the actual truth.  Furthermore, the positive social bond with the therapist provides at least one salient counter-example to most of these negative thoughts.
+
+The initial steps of the therapy involve this cognitive recognition process, and then the behaviorist part of CBT kicks in with the training of skills to combat the dysfunctional patterns of thought and behavior.  This involves explicit instruction and then repeated practice on applying the new coping skills --- this active, behaviorally-focused aspect of the therapy is a critical element of its success, because it gives the client a set of clear goal-driven action plans that they can take to make progress overcoming their dysfunction and distress.  This restores a sense of self-efficacy and self-control, compared to a more passive "theoretical" approach characteristic of earlier forms of therapy.  For example, in the **psychoanalytic** tradition going back to Sigmund Freud, therapy was focused on a more theoretical tracing of influences and repressed desires, whereas CBT is much more practical and "hands on".
+
+In addition to the **behavioral activation** component of taking active goal-driven steps [@DimidjianMartellHerman-DunnEtAl14], recent variants of CBT have been incorporating a **mindfulness** component [@SegalWilliamsTeasdale02], which gives the client the ability to create some awareness and distance between their ongoing patterns of thought, and the sense of a self that can step back and view these thoughts unfold over time, without getting so immediately caught up in them.  This psychological distance is like taking a time-out in a heated emotional situation --- it allows everything to be viewed from a more rational, disinterested perspective, where the illogical nature of the thought patterns can be more easily seen and confronted.
+
+While there is always room for further improvement, it is clear from the systematic evaluation of these therapies across a wide range of disorders, that they are generally effective, and typically at least as effective as pharmacological alternatives, with many fewer side effects [@GartlehnerWagnerMatyasEtAl17].  However, they are *expensive*, requiring a therapist with extensive training and significant time commitments from both the client and the therapist --- this greatly limits their broader applicability.  Thus, we need to find a way to provide broader, less expensive access to these important techniques --- perhaps these techniques could be taught as a regular part of school at the high-school and college level, and we could all just practice therapy on each other!
 
 ## Pharmacology and other Treatments
 
+Despite the initial promise of a magic happy pill, which was aggressively marketed by the large drug companies, it turns out that the most prevalent mental disorders are not due to a simple chemical imbalance, and although drugs have a very important role to play, they are not a panacea.  One way to understand why drugs can be effective, even if there is no underlying chemical imbalance that is being corrected, is that they *change the chemistry* of the situation --- they can provide a *different* kind of brain chemistry that can pop people out of the vicious cycle attractor states.
+
+For example, if you have been very depressed and lethargic, and now you take a pill and it directly transports you out of that state, into something that feels more like how you used to feel, then it gives you a newfound sense of hope and recognition of what that felt like.  You can then start trying to cultivate those positive feelings more, along with a renewed sense of self-efficacy and potential.  The recent advances associated with the use of psychedelic drugs in treating various disorders is almost certainly of this type: it breaks people out of their attractor states and provides a whole new perspective on the world.  These transitory experiences then provide a sense of what is possible, setting in place a new virtuous cycle of more positive, optimistic thoughts.
+
+In this way, both therapy and pharmacology can work together to jolt people out of their maladaptive states, and various studies have suggested that the combination of both is more effective than either alone.  In any case, by having a better sense of how these dynamic disorder states function, we should be in a position to develop more effective, efficient combinations of treatments.
+
 ### SSRI
 
+The most widely-used class of drugs used to treat a range of the above disorders are known as **selective serotonin reuptake inhibitors** (SSRI's), with the most famous being **Prozac**, which is brand name for fluoxetine.  As we reviewed in Chapter 3, serotonin is a powerful endogenous neuromodulator that has many effects in the brain, including regulating overall wake / sleep states, and having a role in mood states.  Thus, it is not too surprising that messing with this system would have effects on mood states and disorders thereof.  The exact way in which SSRI's have their beneficial effects is not known.  However, they do have a large number of high-prevalence side-effects, and avoiding these side-effects is a major advantage of therapy-based approaches.
 
+## Summary
+
+As this is the final chapter of the book, you should now go back and re-read the Introduction (Chapter 0), and see how all the points we've covered throughout fit into an overall summary narrative.  Hopefully, you now have a deeper and more coherent sense of how everything fits together, and how your brain works.
+
+## Summary of Key Terms
+
+This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
+
+* Disease model vs. Disorder
+    + Neurodiversity vs. Neurotypical
+    + Stigma
+    + Network / Attractor model, vicious cycle
+    + Comorbidity
+    + Control network: prefrontal cortex, basal ganglia, amygdala, dopamine
+    + Therapy: Virtous cycle, behavioral activation
+    + Theraputic alliance, social bond
+
+* Psychiatry, Psychology, Neurology, Social Worker
+
+* DSM-5 Disorders
+    + Distress, disability / dysfunction
+
+* Anxiety Disorders
+    + Generalized (GAD), panic, phobias
+    + Exposure therapy, systematic desensitization, flooding
+
+* Depressive Disorders
+    + Major depressive disorder (MDD)
+    + Anhedonia, self-control, self-efficacy
+    + Electroconvulsive shock therapy
+
+* Substance Use Disorders
+    + Tolerance, withdrawal, dependence, addiction
+    
+* Bipolar Disorder
+    + Mania, hypomania
+    + Lithium
+    
+* Eating Disorders
+    + Anorexia, bulimia
+
+* Schizophrenia
+    + Positive symptoms: delusions, hallucinations, disorganized thinking
+    + Negative symptoms: reduced motivation, reduced self-efficacy, social withdrawal, isolation
+    + Antipsychotic medications, dopamine
+    + Maternal immune activation
+    
+* Obsessive-Compulsive Disorder
+    + Harm avoidance (avoidance goals), incompleteness, never completed goals
+
+* ADHD
+    + Inattention, hyperactivity / impulsivity
+    + Ritalin
+
+* Autism Spectrum Disorder
+    + Asperger syndrome
+    + Savant
+
+* Personality Disorders
+    + Schizoid, schizotypal
+    + Antisocial, borderline, histrionic, narcissistic
+    + Avoidant, dependent, obsessive-compulsive
+    
+* Diathesis-Stress
+
+* Therapy
+    + Therapeutic relationship, alliance
+    + Dodo bird verdict
+    + Cognitive Behavioral Therapy
+    + Overgeneralizing
+    + Pychoanalytic
+    + Behavioral activation
+    + Mindfulness
+    
+* Pharmacology
+    + SSRI, Prozac
