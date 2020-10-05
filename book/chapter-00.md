@@ -119,4 +119,3 @@ Typography tip (as a reward for reading all the way through!): **bold** is for k
 Also, as a general pedagogical note: there is essentially a standard intro psych list of key points that is expected from every textbook, and these dominate the key terms at the end, and presumably the tests you'll get, but really the most important goal of this text is to convey the excitement and big picture questions and concepts of this most interesting of fields, with the hope of stimulating further study and thought.  Thus, you are strongly encouraged to read the book sequentially as you would a novel, and hopefully this bigger story comes through, even if we can't quite test you on it.
 
 
-TODO: soCial forces as primary.  work in point about weird names and relative social isolation as important for motivation to work on other things: autistic people etc.
