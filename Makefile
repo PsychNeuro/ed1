@@ -17,3 +17,4 @@ release:
 	git tag -a $(VERS) -m "$(VERS) release"
 	git push
 	git push origin --tags	
+
