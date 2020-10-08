@@ -200,7 +200,7 @@ Importantly, the predictive validity of IQ scores does *not* differ across diffe
 
 Furthermore, as noted above, there are significant correlations between parental SES and IQ, at about 0.33 [@NeisserBoodooBouchardEtAl96].  Thus, there is no doubt that your raw IQ score reflects a strong contribution from various environmental factors that likely systematically vary among different groups.  Importantly, the predictive validity factor is not directly affected by such mean differences --- it is only affected by the *variance* in scores across individuals.
 
-In summary, IQ is both a biased and fair test of intelligence!  It is biased at the mean level, and by the very fact that *any* test of complex task performance is likely to be affected by relevant SES-level factors.  But at the level of predictive validity, it is fair in that there aren't significant differences across groups.  We'll consider the data on the genetics and heritability of intelligence in the next chapter.
+In summary, IQ is both a biased and fair test of intelligence!  It is biased at the mean level, and by the very fact that *any* test of complex task performance is likely to be affected by relevant SES-level factors.  But at the level of predictive validity, it is fair in that there aren't significant differences across groups.  We'll consider the data on the genetics and heritability of intelligence in Chapter 10.
 
 ### Multiple intelligences
 
