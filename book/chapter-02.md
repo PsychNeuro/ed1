@@ -54,9 +54,9 @@ Inside each neuron, excitation and inhibition are forever locked in a pitched ba
 
 [//]: # (TODO: merge relativity into one figure)
 
-![**Figure 2.6:** Illustration of the contrast or relative nature of the tug-of-war: only the relative strengths of excitation and inhibition matter, not their absolute values.  Thus, neurons respond to the contrast between their inputs and overall levels of inhibition, which typically represent the the rough average of activity coming into a given brain area.](figures/fig_vm_as_tug_of_war_cases.png){ width=60% }
+![**Figure 2.6:** Illustration of the contrast or relative nature of the tug-of-war: only the relative strengths of excitation and inhibition matter, not their absolute values.  Thus, neurons respond to the contrast between their inputs and overall levels of inhibition, which typically represent the the rough average of activity coming into a given brain area.](../figures/fig_vm_as_tug_of_war_cases.png){ width=60% }
 
-The essential point here is that **contrast**, or **relativity** emerges as the result of this tug-of-war battle.  Specifically, it doesn't matter how strong the two different sides on the tug-of-war are in absolute terms --- all that matters is the *relative* strength of the two sides (Figure 2.6).  Excitation could be relatively weak, but if inhibition is also week, then the net balance between the two will be the same as if each was proportionally stronger.
+The essential point here is that **contrast**, or **relativity** emerges as the result of this tug-of-war battle.  Specifically, it doesn't matter how strong the two different sides on the tug-of-war are in absolute terms --- all that matters is the *relative* strength of the two sides (Figure 2.6).  Excitation could be relatively weak, but if inhibition is also weak, then the net balance between the two will be the same as if each was proportionally stronger.
 
 Typically, the amount of inhibition is roughly proportional to the *average* amount of activity in the brain in any given area, so in effect, each neuron is effectively comparing how excited it is against this average level.  Only those neurons that are getting *above average* level of excitation will actually get excited enough to fire spikes.
 

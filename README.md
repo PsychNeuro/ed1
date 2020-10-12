@@ -16,6 +16,8 @@ Please use the following links to download the formatted version of the book:
 
 * [HTML](https://github.com/PsychNeuro/ed1/releases/download/v1.0.0/psychneuro_ed1.html) --- single big HTML file, readable in your browser.
 
+Note: if you click on `book` and the individual `.md` files in there, you can read the text but the figures will not show up.
+
 # The Three-C Principles
 
 The core principles are the **Three C's**
