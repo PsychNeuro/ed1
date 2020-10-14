@@ -4,6 +4,8 @@ This is a new, somewhat "radical" introductory textbook for *General Psychology 
 
 The advantage to the student is that it is consistent, coherent, and concise (200 pages), in contrast to standard textbooks which run over 800 pages and are filled with topical stories and historical accounts, that, while fascinating, ultimately distract from the understanding of the core concepts in the field.
 
+Web page: [PrinciplesOfPsych.org](https://PrinciplesOfPsych.org)
+
 # Formats
 
 Please use the following links to download the formatted version of the book:
