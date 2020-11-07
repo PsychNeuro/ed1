@@ -143,11 +143,11 @@ This is a checklist of key terms / concepts that you should know about from this
 * Subjective vs. Objective perspectives and the history of psychology
     + Rene Descartes, Cogito ergo sum, dualism
     + Materialism, objective reality
+    + Perspective dualism
     + Wundt, James and *introspectionism*
     + Watson, Skinner, Pavlov and *behaviorism*
     + Newell & Simon and *cognitive, information processing* approach
     + Rumelhart & McClelland and the *cognitive neuroscience* approach
-    + Neural correlates of consciousness
 
 * Scientific Method
     + Observation, hypothesis, data, replication, analysis, conclusions

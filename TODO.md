@@ -1,14 +1,43 @@
+Midterm questions: control, contrast questions with specific examples seemed hard.
+
+
+* [ ] Ch2: cortical neurons only send excitation or inhibition, not both
+
 * [ ] Ch3: hypnosis
 
 * [ ] Ch3: is twitter conscious?
+
+* [ ] Ch4: on / off: add tiny circles for cones, make point about RF of ganglion recv from many cones
 
 * [ ] Ch4: context effects and top down: THE CAT figure
 
 * [ ] Ch4: add McGurk effect
 
+* [ ] Ch4: JND = Contrast effect
+
 * [ ] Ch4: signal detection theory
 
-* [ ] Ch5: secondary reinforcer
+* [ ] Ch4: auditory subcortical pathways turning time patterns -> spatial patterns
+
+* [ ] Ch5: Secondary vs. primary reinforcers
+
+* [ ] Ch5: better example of reinstatement 
+
+* [ ] Ch5: better Go / NoGo figure
+
+* [ ] Ch5: better classical vs. operant: key role of behavior -- also shaping better
+
+* [ ] Ch5: Limits of conditioning: food -> nausea, lights / tones -> shock, not other way
+
+* [ ] Ch5: Work motivation, grad student example, approach avoid, social media perfect storm -- look at slides!
+
+* [ ] Ch5: Happiness goes here!  satisfaction vs. momentary, adaptation, contrast effects, parapalegic vs. lottery, etc
+
+* [ ] Ch6: get figs from slides!
+
+* [ ] Ch6: diagram of pattern completion in terms of partial cues -- make a better version of existing one.
+
+* [ ] Ch6: key terms: issues with consciousneses
 
 * [ ] Ch7: gambler's fallacy
 
