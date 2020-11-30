@@ -41,6 +41,16 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch7: gambler's fallacy
 
+* [ ] Ch7: talk about BG as production system, ACT-R, not PBWM!
+
+* [ ] Ch7: Add System 1, 2 
+
+* [ ] Ch7: add confirmation bias!
+
+* [ ] Ch7: Flynn effect: growth mindset writ large in the population!
+
+* [ ] Ch7: social dominance, niche finding, geeks etc: everyone is constantly trying to establish their own domain of "specialness", including "smart" people, who gain self efficacy by reifying their own special status...
+
 * [ ] Ch8: entire chapter on language!
 
 * [ ] Ch9: person - situation controversy term for Mischel68
@@ -51,9 +61,13 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch9: add point about relative comparison of $$ made to happiness -- also parapalegic point.
 
+* [ ] Ch10: figure numbers are off by 1.
+
 * [ ] Ch10: nature / nurture etc -- strangely missing summary!
 
 * [ ] Ch10: habituation procedures for studying infants
+
+* [ ] Ch10: Fig 9.7 -- make a better explanation of C going down specifically.
 
 * [ ] Ch10: conspec / conlearn, mother's face preference
 
