@@ -190,13 +190,14 @@ The precise distinction between a *personality* disorder and any of the disorder
 
 To make things even more confusing, many of these disorders are named and described in reference to other "primary" disorders, for example **schizoid** and **schizotypal** personality disorders are kind of like schizophrenia (specifically with respect to social anxiety, withdrawal), but without the full positive and negative symptoms. Another set of disorders include **antisocial**, **borderline**, **histrionic**, and **narcissistic** personality disorders, which are generally associated with high emotional volatility, as in a particularly extreme form of the emotional volatility facet of the **neuroticism** personality factor.
 
-Boderline personality disorder is a particularly prevalent (perhaps as many as 6%) and challenging condition.  In addition to high levels of emotional volatility, it is characterized by an unstable self-model (sense of self), which may reflect the effects of early childhood trauma that is present in many cases.  A distinctive manifestation is extreme sensitivity to social rejection or criticism (reflecting a weak sense of self), strong feelings of betrayal, loss of control, and strong inclinations toward self-harm (occurring in 50-80% of cases).
+Borderline personality disorder is a particularly prevalent (perhaps as many as 6%) and challenging condition.  In addition to high levels of emotional volatility, it is characterized by an unstable self-model (sense of self), which may reflect the effects of early childhood trauma that is present in many cases.  A distinctive manifestation is extreme sensitivity to social rejection or criticism (reflecting a weak sense of self), strong feelings of betrayal, loss of control, and strong inclinations toward self-harm (occurring in 50-80% of cases).
 
 Another group of personality disorders reflect heightened levels of anxiety, including **avoidant**, **dependent**, and **obsessive-compulsive** personality disorder (which is distinct from OCD).
 
 ### Other Disorders
 
-There is a large list of other rarer and more specific disorders that we will not cover, including the wake-sleep disorders (insomnia, narcolepsy)that we discussed in Chapter 3.
+There is a large list of other rarer and more specific disorders that we will not cover, including the wake-sleep disorders (insomnia, narcolepsy)
+that we discussed in Chapter 3.
 
 ## Disease Theories
 
