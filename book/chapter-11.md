@@ -8,7 +8,7 @@ The astronaut John Glenn's quote about how he felt before taking off in the rock
 
 > *I felt exactly how you would feel if you were getting ready to launch and knew you were sitting on top of 2 million parts --- all built by the lowest bidder on a government contract.*
 
-reflects how we might feel about the incidence of mental disorders in people.  We're all sitting on top of a brains made of billions of neurons and trillions of synapses, all built by itself.  *What could possibly go wrong!?*
+reflects how we might feel about the incidence of mental disorders in people.  We're all sitting on top of brains made of billions of neurons and trillions of synapses, all built by itself.  *What could possibly go wrong!?*
 
 The fact that our brains so routinely self-organize into highly functional beings is one of the greatest miracles of the natural world.  But, alas, things can, and do, go awry.  At any given time, roughly 20% of the US population is suffering from a mental illness according to the [NIH](https://www.nimh.nih.gov/health/statistics/index.shtml), and over the lifetime, an estimated 30% will suffer from anxiety disorders, and more than 20% will suffer from major depression.  These are astounding statistics, and our task here is to understand how and why things can go wrong, and what ways we have to try to help people suffering from these disorders. There are many important and challenging issues to confront.
 
@@ -32,7 +32,7 @@ Putting all of this together, the attractor state typically corresponds to a **v
 
 This framework also helps us understand how and why therapy can help: the most effective therapies directly target these core systems of self-control and self-efficacy, and by essentially "rebooting" these systems, they help break the vicious cycle and propel people back out of this bad attractor state, and into a more positive **virtuous cycle** where feelings of self-efficacy give rise to motivated thoughts and behaviors that result in sustained and enhanced feelings of self-efficacy.  Consistent with this understanding, **behavioral activation** is the most effective element of the most effective form of therapy for treating depression [@DimidjianMartellHerman-DunnEtAl14], and these issues of perceived self-control and self-efficacy are reliable precursors for depressive episodes [@IacovielloAlloyAbramsonEtAl10].
 
-The social relationship established between the therapist and the client, known as the **theraputic alliance** is also recognized as a critical contributor to the success of therapy.  This taps into the power of social forces in shaping our behavior, and provides an interesting model for how one person really can help another, slipping past all of the various defense mechanisms that normally confound such things.  Meanwhile, the negative side of the social forces is evident in many of the disorders, which involve an important component of social withdrawal and isolation, which are a major contributor to the vicious cycle and amplify the severity of any disorder.  Thus, the social bond of therapy breaks that vicious cycle too.
+The social relationship established between the therapist and the client, known as the **therapeutic alliance** is also recognized as a critical contributor to the success of therapy.  This taps into the power of social forces in shaping our behavior, and provides an interesting model for how one person really can help another, slipping past all of the various defense mechanisms that normally confound such things.  Meanwhile, the negative side of the social forces is evident in many of the disorders, which involve an important component of social withdrawal and isolation, which are a major contributor to the vicious cycle and amplify the severity of any disorder.  Thus, the social bond of therapy breaks that vicious cycle too.
 
 Although the close proximity of the *self* and mental disorders can be a source of stigma, it is also critical to appreciate that *we have someone on the inside* who can tell us some important things about what is going on in the maelstrom of this complex system.  That special someone can actually do things to *fix the system from the inside out.*  This is the core premise of therapy, and the undeniable efficacy of modern, empirically-supported therapeutic techniques clearly indicates that we do in fact have some (albeit imperfect) ability to fix ourselves from the inside.
 
@@ -160,7 +160,7 @@ The effective therapies for PTSD are similar to those for anxiety disorders, inv
 
 ### ADHD
 
-Attention deficit / hyperactivity disorder (ADHD) is categorized as a **developmental disorder** by the DSM, along with autism, because it typically manifests before adolescence.  It has two primary clusters of symptoms, associated with **inattention** and **hperactivity / impulsivity**, as the name suggests.  Individuals often have a mix of both, but can be weighted more towards one or the other.  Males tend to score higher in the hyperactivity dimension, which is more obvious, leading to the possibility that females may be relatively underdiagnosed.
+Attention deficit / hyperactivity disorder (ADHD) is categorized as a **developmental disorder** by the DSM, along with autism, because it typically manifests before adolescence.  It has two primary clusters of symptoms, associated with **inattention** and **hyperactivity / impulsivity**, as the name suggests.  Individuals often have a mix of both, but can be weighted more towards one or the other.  Males tend to score higher in the hyperactivity dimension, which is more obvious, leading to the possibility that females may be relatively underdiagnosed.
 
 ADHD is one of the most controversial of mental disorders, because of its high prevalence in children (around 5%), and the question of whether it is being *overdiagnosed* and *overmedicated*.  Some argue that it just reflects normal variation in the population, and most people will just grow out of it, so that prescribing medications is overreacting.  Furthermore, there is a general sense that developing brains are more sensitive to medications, so there should be a much higher threshold in this case.
 
@@ -172,6 +172,8 @@ A weakly-supported but intuitively-appealing idea is that people with ADHD have 
 
 ### Autism
 
+[//]: # (TODO: add fig_autism_spectrum.png)
+
 As we have discussed previously, **autism spectrum disorder** is generally identified with a core deficit in social interaction and communication, evident early in childhood, along with narrow interests and often repetitive activities.  The *spectrum* nature of this disorder encompasses a wide range of severity, with **Asperger syndrome** representing the higher-functioning end of this spectrum (this terminology was replaced with the spectrum framework in DSM-5). In the more severely affected end of the spectrum, there can be significant developmental delays in cognitive function and language, including cases where language is never acquired.
 
 The **savant** abilities of a small subset of people with autism have captured the public imagination, as captured in the movie *Rain Man* starring Dustin Hoffman and Tom Cruise, based on the autistic savant Kim Peek.  However, most people with autism do not have such abilities, and instead roughly 50% exhibit significant self-harm behaviors, so the reality of autism is much less glamorous than presented in this movie.
@@ -182,6 +184,8 @@ Instead, the most reliable neural signature of autism involves various widesprea
 
 One broad theory consistent with the MIA etiology is that autism and schizophrenia are both manifestations of an overall spectrum-level disorder.  Autism results when there are more severe changes in brain circuits, such that impacts on social processing are evident early in development, while schizophrenia results from a milder underlying neural impact that only manifests later in early adulthood, when the mild deficits in social processing manifest as described above.  This is one of many possible connections between these two disorders, that are being investigated in ongoing research [@ChisholmLinAbu-AkelEtAl15].
 
+That social processing is particularly impacted by widespread neural differences is consistent with the *social brain* hypothesis discussed in the social chapter: if our big, sophisticated brains are needed to process the subtle, unreliable nuances of social interaction, then it makes sense that these abilities are among the most sensitive.  Further, the typical desire among people with autism for more predictable environments and routines is consistent with a primary difficulty in learning about and navigating more complex unpredictable situations.  
+
 In terms of treatment, considerable advances have been made in targeted, early interventions focused on specific symptoms, training specific life skills, and providing a better quality of life for the entire family.
 
 ### Personality Disorders
@@ -190,7 +194,7 @@ The precise distinction between a *personality* disorder and any of the disorder
 
 To make things even more confusing, many of these disorders are named and described in reference to other "primary" disorders, for example **schizoid** and **schizotypal** personality disorders are kind of like schizophrenia (specifically with respect to social anxiety, withdrawal), but without the full positive and negative symptoms. Another set of disorders include **antisocial**, **borderline**, **histrionic**, and **narcissistic** personality disorders, which are generally associated with high emotional volatility, as in a particularly extreme form of the emotional volatility facet of the **neuroticism** personality factor.
 
-Boderline personality disorder is a particularly prevalent (perhaps as many as 6%) and challenging condition.  In addition to high levels of emotional volatility, it is characterized by an unstable self-model (sense of self), which may reflect the effects of early childhood trauma that is present in many cases.  A distinctive manifestation is extreme sensitivity to social rejection or criticism (reflecting a weak sense of self), strong feelings of betrayal, loss of control, and strong inclinations toward self-harm (occurring in 50-80% of cases).
+Borderline personality disorder is a particularly prevalent (perhaps as many as 6%) and challenging condition.  In addition to high levels of emotional volatility, it is characterized by an unstable self-model (sense of self), which may reflect the effects of early childhood trauma that is present in many cases.  A distinctive manifestation is extreme sensitivity to social rejection or criticism (reflecting a weak sense of self), strong feelings of betrayal, loss of control, and strong inclinations toward self-harm (occurring in 50-80% of cases).
 
 Another group of personality disorders reflect heightened levels of anxiety, including **avoidant**, **dependent**, and **obsessive-compulsive** personality disorder (which is distinct from OCD).
 
@@ -257,7 +261,7 @@ This is a checklist of key terms / concepts that you should know about from this
     + Comorbidity
     + Control network: prefrontal cortex, basal ganglia, amygdala, dopamine
     + Therapy: Virtous cycle, behavioral activation
-    + Theraputic alliance, social bond
+    + Therapeutic alliance, social bond
 
 * Psychiatry, Psychology, Neurology, Social Worker
 

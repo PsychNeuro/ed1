@@ -77,6 +77,8 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch10: aging, dopamine curve, crystialized vs. fluid, suicide curve
 
+* [ ] Ch10: MAOA gene
+
 * [ ] Ch11: legal insanity, free will..
 
 * [ ] Ch11: randomized control studies for therapy
@@ -84,3 +86,8 @@ Midterm questions: control, contrast questions with specific examples seemed har
 * [ ] Ch11: hypothesis testing in CBT?
 
 * [ ] Ch11: Repeated transcranial magnetic stimulation..
+
+* [ ] Ch11: ADHD motivation: people are bored, give them stimulants to let them be engaged in otherwise boring stuff..
+
+* [ ] Ch11: Autism and impaired function so not able to deal with social world: social world is unpredictible, complex: this is why we have big brains in the first place.
+
