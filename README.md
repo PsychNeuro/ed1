@@ -22,6 +22,10 @@ Please use the following links to download the formatted version of the book:
 
 Note: if you click on `book` and the individual `.md` files in there (which is the raw source for the text), you can read the text but the figure captions will not show up, and there will be a `{ width }` styling tag after figures.
 
+# Lecture Videos
+
+Recorded lectures for this course are available on this [YouTube Playlist](https://www.youtube.com/playlist?list=PLu02O8xRZn7zcNG3kaEWysHUeYa9vwhvj).  Here a [Course Syllabus](https://ccnlab.org/teaching/genpsych/)
+
 # The Three-C Principles
 
 The core principles are the **Three C's**
