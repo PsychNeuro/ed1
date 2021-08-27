@@ -152,7 +152,7 @@ INPUT_FORMAT = "markdown+{}".format('+'.join(PANDOC_EXTENSIONS))
 
 COMMON_PANDOC_OPTS = (
     f"-f {INPUT_FORMAT} {HASKELL_OPTS} -F {PANDOC_FILTER}" +
-    (" -F pandoc-citeproc" if uses_references else "") +
+    (" --citeproc" if uses_references else "") +
     (f" -F {PLANTUML_FILTER}" if uses_plantuml else "") +
     (" --standalone") + (" --resource-path=.:book")
 )
