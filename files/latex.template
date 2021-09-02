@@ -213,6 +213,13 @@ $if(dir)$
   \newenvironment{LTR}{\beginL}{\endL}
 \fi
 $endif$
+$if(glossary)$
+% note: note really useful b/c not supported across languages -- using hyperlinks instead
+\usepackage{glossaries}
+\makeglossaries
+}
+\include{glossary-defs}
+$endif$
 
 % set default figure placement to htbp
 \makeatletter
@@ -270,6 +277,11 @@ $if(lof)$
 $endif$
 $body$
 
+$if(glossary)$
+\section{Glossary}
+\printglossaries
+$endif$
+
 $if(natbib)$
 $if(bibliography)$
 $if(biblio-title)$
@@ -287,6 +299,7 @@ $if(biblatex)$
 \printbibliography$if(biblio-title)$[title=$biblio-title$]$endif$
 
 $endif$
+
 $for(include-after)$
 $include-after$
 

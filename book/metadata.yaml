@@ -44,3 +44,7 @@ papersize: letter
 urlcolor: "blue"
 
 link-citations: true
+
+# latex-only -- not useful
+glossary: false
+

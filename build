@@ -110,6 +110,7 @@ LATEX_TEMPLATE     = os.path.join(FILES_DIR, 'latex.template')
 REF_DOCX           = os.path.join(FILES_DIR, 'custom-reference.docx')
 PANDOC_FILTER      = os.path.join('scripts', 'pandoc-filter.py')
 PLANTUML_FILTER    = os.path.join('scripts', 'plantuml-filter.py')
+GLOSSARY_FILTER    = os.path.join('scripts', 'glossary-filter.lua')
 
 # Lists of dependencies, for ease of reference.
 BUILD_FILE_DEPS = [BUILD_FILE, BUILD_LIB]
@@ -154,12 +155,12 @@ COMMON_PANDOC_OPTS = (
     f"-f {INPUT_FORMAT} {HASKELL_OPTS} -F {PANDOC_FILTER}" +
     (" --citeproc" if uses_references else "") +
     (f" -F {PLANTUML_FILTER}" if uses_plantuml else "") +
-    (" --standalone") + (" --resource-path=.:book")
+    (" --standalone") + (" --resource-path=.:book" + f' --lua-filter {GLOSSARY_FILTER}')
 )
 NON_LATEX_PANDOC_OPTS = f"{COMMON_PANDOC_OPTS} "
 LATEX_PANDOC_OPTS = (f"{COMMON_PANDOC_OPTS} --template={LATEX_TEMPLATE} " +
                      f"-t latex -H {LATEX_HEADER} -B {LATEX_COVER_PAGE} " +
-                     "--toc")
+                     "--toc ")
 HTML_PANDOC_OPTS = (f'{NON_LATEX_PANDOC_OPTS} -t html -B {HTML_BODY_INCLUDE} ' +
                     f'--self-contained --css={HTML_CSS} ' +
                     f'-H {HTML_HEAD_INCLUDE}')
