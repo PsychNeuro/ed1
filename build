@@ -151,6 +151,9 @@ PANDOC_EXTENSIONS = (
 
 INPUT_FORMAT = "markdown+{}".format('+'.join(PANDOC_EXTENSIONS))
 
+# not using crossref for figure numbering because it doesn't do chapter-based
+# + " -F pandoc-crossref" +
+
 COMMON_PANDOC_OPTS = (
     f"-f {INPUT_FORMAT} {HASKELL_OPTS} -F {PANDOC_FILTER}" +
     (" --citeproc" if uses_references else "") +

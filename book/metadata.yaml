@@ -48,3 +48,9 @@ link-citations: true
 # latex-only -- not useful
 glossary: false
 
+subparagraph: true
+
+figPrefix:
+- ""
+- ""
+
