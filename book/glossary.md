@@ -35,6 +35,9 @@ is a state of fear.  Anxiety disorders are the most prevalent, at nearly 7% of t
 #### arousal
 refers to the overall level of activation of the brain, as along the continuum between sleep and wakefulness, and different levels of alertness and engagement.
 
+#### attention
+is the focusing of cognitive processing on a subset of information, to the exclusion of other things.  In the brain, it emerges through +inhibitory +interneurons that drive a competitive dynamic over the very limited capacity of attention, and a combination of bottom-up (from the sensory inputs) and top-down (from internal states and goals) signals that help shape what is attended to.
+
 #### axon
 is the output side of the +neuron that propagates the +action-potential.  Longer-range axons have +myelin sheaths that act like the insulation on a wire to speed the propagation of these signals.
 
@@ -42,6 +45,9 @@ is the output side of the +neuron that propagates the +action-potential.  Longer
 
 #### basal ganglia
 (BG) are a collection of +subcortical brain areas that are densely interconnected with the [frontal cortex](#frontal-cortex) and are important for selecting the next action (+motor or purely cognitive).  The BG are strongly modulated by +dopamine, which drives +instrumental-conditioning in this area.  The primary input area is the *striatum* (*caudate* and *putamen*), which then goes to the *globus pallidus* and ultimately to the +thalamus which connects back to cortex and out to other subcortical motor areas.
+
+#### behaviorism
+is a school of psychology that was dominant during the period of 1900 -- 1950, which restricted study strictly to the +objective measurement of behavior, in contrast to the +subjective +introspection that was dominant previously.
 
 ## C
 
@@ -53,6 +59,12 @@ are the tiny openings in a +neuron that allow +ions to flow in and out, driving 
 
 #### classical conditioning
 is the first type of conditioning-based learning described famously by Pavlov and his salivating dogs, which involves the association of an initially arbitrary stimulus (i.e., the conditioned stimulus or +CSs) with some kind of inherently meaningful positive or negative outcome (i.e., the unconditioned stimulus or +USs).  Compare with +instrumental-conditioning.
+
+#### cognitive
+refers to cognition or "thinking", and more specifically to the nature of the mental processes underlying specific forms of cognition.
+
+#### cognitivism
+is the +paradigm of psychology that followed +behaviorism, overcoming the objection to studying internal mental states in part by adopting information processing models based on the computer technologies emerging in the 1960's.  Thus, this field focused on the +cognitive processes such as memory, problem solving, and language comprehension that have counterparts in the computer world.
 
 #### compression
 is one of the three C's principles, reflecting the strong tendency of the brain to simplify or compress information, to the point that we can actually make sense of it.  This process starts in the individual +neuron.
@@ -97,6 +109,15 @@ is when there are two fundamentally incompatible things that cannot be directly 
 
 ## E
 
+#### EEG
+is *electroencephalography* --- the use of electrical signals typically recorded at the scalp to measure and infer patterns of underlying neural activity.  It has the advantage of very fast temporal precision in the millisecond scale, but relatively poor spatial resolution compared to +fMRI and other +neuroimaging techniques.
+
+#### empiricism
+is the philosophical approach to +epistemology that argues that much of human knowledge comes from experience-based learning.
+
+#### epistemology
+is the study and philosophy of the nature and origins of knowledge.  Historically, some thought that knowledge came from logical reasoning ( +rationalism) while others thought that it came from experience in the world ( +empiricism).  Both are very likely to be important contributors, but the nature of the underlying learning processes are not fully resolved (see Chapter 5).
+
 #### excitatory
 is something that causes positive effects, especially in a +neuron where some inputs are excitatory and cause the neuron to be more likely to fire a +spike --- the opposite of +inhibitory.
 
@@ -104,6 +125,9 @@ is something that causes positive effects, especially in a +neuron where some in
 
 #### fixation
 refers to maintaining the eyes in one place while processing the information at that location.  It lasts about 200 +milliseconds before the next [saccade](#saccades).
+
+#### fMRI
+is *functional magnetic resonance imaging*, which uses an MRI machine to measure the oxegenation status of blood (known as the BOLD response), which in turn reflects underlying neural activity to a remarkable degree of spatial precision (e.g., 1 millimeter).  It is the most widely used +neuroimaging technique in people, and has been essential in understanding the neural basis of human cognition and behavior.
 
 #### fovea
 is the central region of the +retina containing predominantly +cones that supports high-resolution color vision.  We are constantly moving our eyes through +saccades to focus the fovea on regions of interest.
@@ -141,6 +165,9 @@ is a type of conditioning involving reinforcing behaviors leading to different m
 #### interneuron
 is a class of +neuron in the brain that are only locally connected to neighboring groups of neurons, and are most often +inhibitory, as contrasted with +pyramidal neurons that are +excitatory.  Inhibitory interneurons release +GABA that activate +postsynaptic +channels of the same name.
 
+#### introspection
+is the process of "looking within" one's own mental states and attempting to report on them.  This was one of the first methods used in psychology, by Willhelm Wundt, and the +behaviorism approach that followed represents a rejection of any attempt to deal with +subjective mental states.
+
 #### ions
 are charged atoms such as sodium (Na+), chloride (Cl-), and potassium (K+) that power the electrical processing within a +neuron.
 
@@ -165,6 +192,9 @@ refers to *muscles* and physical behavior produced by actually acting through mu
 is an insulating sheath around the +axon that speeds the propagation of the electrical +action-potential to communicate with other neurons.  Myelination occurs progressively over the course of development, and is removed in multiple sclerosis. 
 
 ## N
+
+#### neuroimaging
+consists if a range of different techniques for measuring the state of the brain, including +fMRI, +EEG, and +PET.
 
 #### neuromodulator
 is a type of +neurotransmitter that has broad, widespread effects throughout the brain, serving to modulate brain functioning.  For example, +dopamine can modulate the activity and rate of learning of neurons across wide areas of the brain.  +serotonin is another neuromodulator, involved in modulating arousal and mood states throughout the brain.
@@ -194,11 +224,17 @@ is the sensory modality of smell, conveyed through chemical receptors in the nos
 
 ## P
 
+#### paradigm
+refers to an influential set of interconnected theories and data that many individual scientists believe in at a given point in time.  In psychology, examples include the paradigms of +behaviorism and +cognitivism.  Thomas Khun established the paradigm as a way of understanding the nature of scientific progress, which can get stuck in a paradigm, until enough evidence accumulates to overthrow it.
+
 #### perception
 is the higher-level product of cortical-level +compression and +contrast processing of lower-level +sensation signals, resulting in an encoding of the stable underlying state of the world that factors out incidental differences to a large extent: we see the world, not our raw sensory signals.  For example, in vision, we perceive the underlying material color, not the raw color of light hitting our eyes, and we see the expected real size of something, not how big of a region it activates on our +retina --- these are also known as color and size +constancy.
 
 #### perspective dualism
 is a form of +dualism between the +subjective and +objective perspectives.  Each person has their own unique subjective experience of what it feels like to be their own physical brain, and because each such subjective perspective arises from a different physical brain, necessarily, it is impossible for two people to ever directly share the same subjective experience.  Thus, subjective experience remains uniquely individual, and thus forever outside the realm of something that can be defined objectively, because objectivity is based on what can be shared and replicated across people.
+
+#### PET
+is *positron emission tomography*, which uses the emission of pairs of +photons generated indirectly via radioactive decay to image the brain.  It is uniquely capable of imaging specific chemicals which can be tagged with radioactive labels, but it has relatively poor spatial and temporal resolution compared to other +neuroimaging techniques.
 
 #### photons
 are the particle-like manifestation of electromagnetic radiation (light), which activate the +rods and +cones in the eyes to create visual +sensation.
@@ -230,6 +266,9 @@ is the main type of +excitatory +neuron in the +neocortex, named for its pyramid
 is the +subjective feeling of experiences --- what it *feels like* to experience something, like tasting an apple or seeing the color red.  
 
 ## R
+
+#### rationalism
+is the philosophical approach to +epistemology that argues that much of human knowledge comes from logical reasoning.
 
 #### receptors
 are cells that serve to +transduce sensory signals into neural firing signals that can then be processed by the rest of the brain.
