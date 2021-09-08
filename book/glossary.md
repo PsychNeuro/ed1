@@ -15,7 +15,7 @@ is a property of a +neuron where it tends to respond less vigorously over time t
 is an informal term referring to a cluster of effects characterizing +dependence on a drug, typically measured in terms of +tolerance and the presence of +withdrawal-symptoms.
 
 #### agnosia
-is the lack of knowledge, often combined with a particular domain in which a person experiences this lack of knowledge, such as +prosopagnosia which is the lack of knowledge about faces ( +prosocial agnosia).
+is the lack of knowledge, often combined with a particular domain in which a person experiences this lack of knowledge, such as +prosopagnosia which is the lack of knowledge about faces (+prosocial agnosia).
 
 #### AMPA
 is the main type of +excitatory +channels on a +neuron, activated by +glutamate, and allowing sodium (Na+) +ions to enter the receiving neuron and thus increasing the positive charge.
@@ -36,7 +36,7 @@ is a state of fear.  Anxiety disorders are the most prevalent, at nearly 7% of t
 refers to the overall level of activation of the brain, as along the continuum between sleep and wakefulness, and different levels of alertness and engagement.
 
 #### attention
-is the focusing of cognitive processing on a subset of information, to the exclusion of other things.  In the brain, it emerges through +inhibitory +interneurons that drive a competitive dynamic over the very limited capacity of attention, and a combination of bottom-up (from the sensory inputs) and top-down (from internal states and goals) signals that help shape what is attended to.
+is the focusing of cognitive processing on a subset of information, to the exclusion of other things.  In the brain, it emerges through the +inhibitory +interneuron driven competition to become active and enter into the very limited capacity of attention, and a combination of bottom-up (from the sensory inputs) and top-down (from internal states and goals) signals that help shape what is attended to.
 
 #### axon
 is the output side of the +neuron that propagates the +action-potential.  Longer-range axons have +myelin sheaths that act like the insulation on a wire to speed the propagation of these signals.
@@ -81,6 +81,9 @@ is a property of +perception where we perceive the stable underlying state of th
 #### contrast
 is one of the three C's principles, describing the focus on relative differences instead of absolute levels, e.g., relative vs. absolute auditory pitch, relative amounts of wealth, etc.  In the brain, the +inhibitory +interneuron plays an important role in making neurons have a +normalized response, by dividing away absolute levels.
 
+#### correlation
+is a measure of the relationship ("co-relation") between two +variables.  The standard statistic is Pearson's *r* value, which is 0 for completely uncorrelated variables,  -1 for a perfect negative correlation (the two variables move perfectly in the opposite direction), and +1 for a perfect positive correlation (the two variables move perfectly in the same direction).  The +third-variable-problem prevents us from concluding that a correlation implies causation, but our brains like to draw that conclusion anyway.
+
 #### CSs
 are *conditioned stimuli* --- initially neutral stimuli that become associated with +USs through +classical-conditioning.
 
@@ -98,6 +101,9 @@ are tree-like branches of a +neuron where +synapses receive signals from other n
 #### dependence
 is the clinically preferred term for drug +addiction, typically involving +tolerance and +withdrawal-symptoms.
 
+#### dependent variable
+is a +variable measured in an experiment, as opposed to being manipulated.
+
 #### depression
 is a widespread mental disorder, formally known as *major depressive disorder*, characterized by an extended period lasting 2 weeks or longer with symptoms of *depressed mood* (sadness) and *anhedonia* (inability to experience pleasure).
 
@@ -112,14 +118,20 @@ is when there are two fundamentally incompatible things that cannot be directly 
 #### EEG
 is *electroencephalography* --- the use of electrical signals typically recorded at the scalp to measure and infer patterns of underlying neural activity.  It has the advantage of very fast temporal precision in the millisecond scale, but relatively poor spatial resolution compared to +fMRI and other +neuroimaging techniques.
 
+#### emergence
+is the phenomenon where something fundamentally new arises from interacting elements, as illustrated in Figure 2.1 in Chapter 2 (the gears interacting).  Because an interaction depends on each element that is interacting, it cannot be reduced to either in isolation.  The billions of neurons interacting in the brain create the potential for huge amounts of emergence, enabling the mind to +transcend its biological substrate in the brain.
+
 #### empiricism
 is the philosophical approach to +epistemology that argues that much of human knowledge comes from experience-based learning.
 
 #### epistemology
-is the study and philosophy of the nature and origins of knowledge.  Historically, some thought that knowledge came from logical reasoning ( +rationalism) while others thought that it came from experience in the world ( +empiricism).  Both are very likely to be important contributors, but the nature of the underlying learning processes are not fully resolved (see Chapter 5).
+is the study and philosophy of the nature and origins of knowledge.  Historically, some thought that knowledge came from logical reasoning (+rationalism) while others thought that it came from experience in the world (+empiricism).  Both are very likely to be important contributors, but the nature of the underlying learning processes are not fully resolved (see Chapter 5).
 
 #### excitatory
 is something that causes positive effects, especially in a +neuron where some inputs are excitatory and cause the neuron to be more likely to fire a +spike --- the opposite of +inhibitory.
+
+#### experimental studies
+are those employing random assignment of +participants to conditions to attempt to avoid the +third-variable-problem.
 
 ## F
 
@@ -140,6 +152,9 @@ is the front part of the +neocortex, responsible for +motor actions and higher-l
 #### GABA
 is the name of the primary type of +inhibitory +neurotransmitter in the brain, and also the name of the +channels activated thereby.  The channels allow chloride (Cl-) +ions to enter the +neuron, resulting in increased negative charge.
 
+#### glia
+are support cells in the brain, which outnumber neurons, and play a number of important roles in regulating and optimizing brain function, including one specialized type that provides the insulating +myelin sheath.
+
 #### glutamate
 is the main +excitatory +neurotransmitter in the brain, released by +pyramidal neurons in the +neocortex, and activating +AMPA +channels on the receiving +neuron.
 
@@ -155,6 +170,9 @@ is a state of extreme suggestibility, likely present in all people to varying ex
 
 #### implicit
 refers to processes that operate in the brain below the level of +consciousness --- i.e., +subconscious processes.  The opposite of +explicit processes or +declarative knowledge.
+
+#### independent-variable
+is the +variable that is manipulated by the experimenter in an experiment.
 
 #### inhibitory
 in neuroscience, this means causing a neuron to be less excited, or less likely to fire a +spike.  More generally, can be anything that has an overall negative effect (on behavior, attitudes, etc) --- the opposite of +excitatory.
@@ -179,6 +197,9 @@ are charged atoms such as sodium (Na+), chloride (Cl-), and potassium (K+) that 
 
 ## M
 
+#### membrane potential
+is the electrical charge difference across the membrane (cell wall) of a +neuron --- this potential reflects the tug-of-war balance between excitatory and inhibitory inputs, and when it exceeds the +threshold, an +action-potential is triggered.
+
 #### millisecond
 is one thousandth (1/1000) of a second --- the fastest your brain can process information is roughly 200 milliseconds or 1/5 of a second.
 
@@ -189,7 +210,7 @@ refers to an internal +representation of something else, typically in the extern
 refers to *muscles* and physical behavior produced by actually acting through muscle pathways.
 
 #### myelin
-is an insulating sheath around the +axon that speeds the propagation of the electrical +action-potential to communicate with other neurons.  Myelination occurs progressively over the course of development, and is removed in multiple sclerosis. 
+is an insulating sheath around the +axon, produced by special +glia cells called *oligodendrocytes*, that speeds the propagation of the electrical +action-potential to communicate with other neurons.  Myelination occurs progressively over the course of development, and is degenerated in multiple sclerosis.  
 
 ## N
 
@@ -285,6 +306,9 @@ is an internal pattern of neural activity that encodes information.  Representat
 #### retina
 is the light-sensitive part of our eyes, composed of +rods and +cones +receptors that +transduce +photons into electrical signals that drive further neural activity into the brain.
 
+#### reuptake
+is the process of taking +neurotransmitter back into the +presynaptic terminal for subsequent re-release.
+
 #### rods
 are the *monochromatic* (non color sensitive) +receptors in the +retina covering the entire visual field, including the peripheral area --- these are much more sensitive to low levels of light compared to +cones and thus dominate for night vision.
 
@@ -334,11 +358,17 @@ is the end of an +axon that forms the sending, +presynaptic side of +synapses, w
 #### thalamus
 is a +subcortical brain area located internal to the +neocortex, with which it is extensively interconnected, providing widespread control over +arousal, and +control via its interconnectivity with the +basal-ganglia and +frontal-cortex.  All sensory modalities except +olfaction route their signals through the thalamus on the way to the +neocortex.  It may also be important for +predictive-learning.
 
+#### third variable problem
+is a major problem for +correlation based studies: it is always possible that a third (or more) unmeasured +variables could be responsible for the observed.
+
 #### threshold
-is the level of +excitation in a +neuron, above which it will fire an +action-potential, and below which it remains silent.
+is the level of +excitation (technically the +membrane-potential) in a +neuron, above which it will fire an +action-potential, and below which it remains silent.
 
 #### tolerance
 is the learning-based process resulting in the need for a higher level of drug consumption to produce the same effect.  The brain learns to expect the effect of the drug, reducing the +contrast relative to this expectation.
+
+#### transcend
+is to rise above or beyond --- we say that the mind transcends the physical substrate of the brain, through +emergence.
 
 #### transduce
 means to change or transform a signal from one form to another, as +receptors do to +sensory signals.
@@ -349,6 +379,9 @@ means to change or transform a signal from one form to another, as +receptors do
 are *unconditioned stimuli* which evoke emotionally salient internal states such as reward or pain, and serve as the critical learning signals in both +classical-conditioning and +instrumental conditioning.
 
 ## V
+
+#### variables
+are things that can be measured in scientific research studies, such as IQ, number of vocabulary words, etc.  The +independent-variable is manipulated in an +experimental study, while the +dependent-variable is recorded to determine if there was an effect of the manipulation.
 
 ## W
 
