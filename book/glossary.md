@@ -8,14 +8,29 @@ is used in contrast with +relativity to refer to a value that is defined without
 #### action potential
 is the output signal of a +neuron --- also known as a +spike --- which is driven by special +channels that propagate an electrical signal along the +axon to communicate to other neurons.
 
+#### acetylcholine
+(ACh) is a +neuromodulator released by the *basal forebrain cholinergic nuclei* that modulates attention, arousal and learning --- it is affected by nicotine.
+
 #### adaptation
 is a property of a +neuron where it tends to respond less vigorously over time to the same input stimulus.  This is an important aspect of +contrast as it causes neurons to respond to new things while ignoring older things.  It also refers to a similar process in sensory +receptors where they adjust their responses to stimuli over time.
 
 #### addiction
 is an informal term referring to a cluster of effects characterizing +dependence on a drug, typically measured in terms of +tolerance and the presence of +withdrawal-symptoms.
 
+#### ADHD
+stands for *attention deficit hyperactivity disorder*, which is a developmental disorder characterized by two distinct dominant symptoms: difficulty sustaining attention, and hyperactivity (inability to sit still).  See Chapter 11 for more details.
+
+#### adrenaline
+is a +hormone that is released by the +sympathetic-nervous-system in response to acute stressors, to prepare for "fight or flight" responses.
+
 #### agnosia
 is the lack of knowledge, often combined with a particular domain in which a person experiences this lack of knowledge, such as +prosopagnosia which is the lack of knowledge about faces (+prosocial agnosia).
+
+#### agonists
+are chemicals that facilitate or activate a given +neurotransmitter pathway, as compared to +antagonists.  There are many different possible biological mechanisms, including direct binding to a target +receptor, increasing the release of neurotransmitter, blocking +reuptake, etc.
+
+#### amnesia
+is the inability to form new memories (technically known as *anterograde* amnesia), or retrieve existing ones (*retrograde* amnesia), specifically used to refer to +episodic memories encoded by the +hippocampus.
 
 #### AMPA
 is the main type of +excitatory +channels on a +neuron, activated by +glutamate, and allowing sodium (Na+) +ions to enter the receiving neuron and thus increasing the positive charge.
@@ -25,6 +40,12 @@ is the "almond shaped" +subcortical brain area most important for processing emo
 
 #### anasagnosia
 is the lack of knowledge or +agnosia about one's own lack of knowledge --- i.e., a double form of +agnosia.
+
+#### antagonists
+are chemicals that block or inhibit a given +neurotransmitter pathway, as compared to +agonists.  There are many different possible biological mechanisms, including blocking release or blocking / inhibiting the target +receptor.
+
+#### anterior
+is an anatomical term that refers to the front portion of a structure, which is the opposite of +posterior.
 
 #### antisocial
 is an attitude or behavior of acting against other people --- the opposite of +prosocial.
@@ -38,6 +59,9 @@ refers to the overall level of activation of the brain, as along the continuum b
 #### attention
 is the focusing of cognitive processing on a subset of information, to the exclusion of other things.  In the brain, it emerges through the +inhibitory +interneuron driven competition to become active and enter into the very limited capacity of attention, and a combination of bottom-up (from the sensory inputs) and top-down (from internal states and goals) signals that help shape what is attended to.
 
+#### autonomic
+refers to the automatic, subconscious nervous system, comprised of the +sympathetic-nervous-system and the +parasympathetic-nervous-system, which work in opposition to support rapid mobilization of behavior in the case of threat vs. slower offline activities such as digestion and breeding.  The enteric nervous system associated with the digestive pathways is often considered a third element of the autonomic nervious system.  The +hypothalamus plays a major role in controlling this system.
+
 #### axon
 is the output side of the +neuron that propagates the +action-potential.  Longer-range axons have +myelin sheaths that act like the insulation on a wire to speed the propagation of these signals.
 
@@ -48,6 +72,18 @@ is the output side of the +neuron that propagates the +action-potential.  Longer
 
 #### behaviorism
 is a school of psychology that was dominant during the period of 1900 -- 1950, which restricted study strictly to the +objective measurement of behavior, in contrast to the +subjective +introspection that was dominant previously.
+
+#### bidirectional
+means going in two directions, typically referring to connectivity in the brain, where there are connections from area A to area B, and also *reciprocal* connections back from B to A.  Often, these connections are organized in a +hierarchy in terms of +bottom-up connections going from the sensory inputs to higher areas, and +top-down connections going from the higher level internal areas back down to lower, more sensory areas.
+
+#### BIOS
+is the *basic input output system* of a computer, which controls the physical hardware for interacting with the system.  By analogy, the +brainstem and +autonomic system are kind of like the "BIOS" of the body.
+
+#### bottom-up
+refers to connections in the brain that go from sensory to higher levels in a +hierarchy.
+
+#### brainstem
+refers to the bottom-most portion of the brain, adjacent to the spinal cord, which supports the most basic, essential regulation of the body.
 
 ## C
 
@@ -67,7 +103,7 @@ refers to cognition or "thinking", and more specifically to the nature of the me
 is the +paradigm of psychology that followed +behaviorism, overcoming the objection to studying internal mental states in part by adopting information processing models based on the computer technologies emerging in the 1960's.  Thus, this field focused on the +cognitive processes such as memory, problem solving, and language comprehension that have counterparts in the computer world.
 
 #### compression
-is one of the three C's principles, reflecting the strong tendency of the brain to simplify or compress information, to the point that we can actually make sense of it.  This process starts in the individual +neuron.
+is one of the three C's principles, reflecting the strong tendency of the brain to simplify or compress information, to the point that we can actually make sense of it.  This process starts in the individual +neuron, which receives thousands of inputs and only communicates one output signal.
 
 #### cones
 are the color-sensitive +receptors in the +retina predominantly located in the central +fovea and surrounding visual field.  There are three different color sensitivities: low frequency (red), medium frequency (green), and high frequency (blue), and all of the colors of the rainbow are encoded as different mixtures of these three primary colors.
@@ -83,6 +119,9 @@ is one of the three C's principles, describing the focus on relative differences
 
 #### correlation
 is a measure of the relationship ("co-relation") between two +variables.  The standard statistic is Pearson's *r* value, which is 0 for completely uncorrelated variables,  -1 for a perfect negative correlation (the two variables move perfectly in the opposite direction), and +1 for a perfect positive correlation (the two variables move perfectly in the same direction).  The +third-variable-problem prevents us from concluding that a correlation implies causation, but our brains like to draw that conclusion anyway.
+
+#### corticosteroids
+are +hormones released in response to stress, that help mobilize the body's responses to prepare for bad things such as injury or sickness.  Chronic elevation of these corticosteroids (due to chronic stress) can exhaust the body and leave it more susceptible to infection, and can impair the function of brain systems including the +hippocampus.  This is a major way in which different environmental conditions between poor and wealthy people can have significant affects on brain and body.
 
 #### CSs
 are *conditioned stimuli* --- initially neutral stimuli that become associated with +USs through +classical-conditioning.
@@ -107,8 +146,14 @@ is a +variable measured in an experiment, as opposed to being manipulated.
 #### depression
 is a widespread mental disorder, formally known as *major depressive disorder*, characterized by an extended period lasting 2 weeks or longer with symptoms of *depressed mood* (sadness) and *anhedonia* (inability to experience pleasure).
 
+#### DNA
+is *Deoxyribonucleic acid*, which encodes the genetic instructions for all forms of life, using 4 different *base pairs*, G, C, T, and A, which interconnect in the shape of a *double helix*.
+
 #### dopamine
 is a major type of +neuromodulator that is widely but incorrectly thought to drive feelings of pleasure --- instead it signals the *difference* between a positive outcome (i.e., a +reward) compared to the +expectation of that reward, which is a +contrast based version of pleasure, as opposed to the absolute version.  As we come to expect something good, it loses some of its positive feeling --- this is closely related to the process of +tolerance in drug +addiction.
+
+#### dorsal
+is an anatomical term that refers to the upper portion of a brain structure (think of the dorsal fin on a dolphin), which is the opposite of +ventral.
 
 #### dualism
 is when there are two fundamentally incompatible things that cannot be directly connected to each other.  For example classical substance dualism holds that the mind is effectively an entirely distinct substance from the brain, and that you can never fully explain the mind in terms of the brain.  See +perspective-dualism for a different way of understanding this dualism between mind and brain, that doesn't require mind to be a distinct substance, thus avoiding difficult questions regarding how it might exist in the physical universe.
@@ -123,6 +168,12 @@ is the phenomenon where something fundamentally new arises from interacting elem
 
 #### empiricism
 is the philosophical approach to +epistemology that argues that much of human knowledge comes from experience-based learning.
+
+#### epilepsy
+is a brain disorder affecting about 4% of people at some point in their lives, characterized by periodic *seizures* where excessive neural activity cascades through the brain, often causing a person to lose control of their muscles or even lose consciousness. Treatment involves increasing +inhibition, for example through +GABA +agonists.
+
+#### episodic
+refers to something that happened within a single *episode* or *event* --- most often used to describe the type of memories encoded by the +hippocampus.
 
 #### epistemology
 is the study and philosophy of the nature and origins of knowledge.  Historically, some thought that knowledge came from logical reasoning (+rationalism) while others thought that it came from experience in the world (+empiricism).  Both are very likely to be important contributors, but the nature of the underlying learning processes are not fully resolved (see Chapter 5).
@@ -163,6 +214,15 @@ is the main +excitatory +neurotransmitter in the brain, released by +pyramidal n
 #### hallucinogenic
 means causing hallucinations, which are altered forms of perception, seeing things that are not really there.  Certain types of drugs including LSD are hallucinogenic, and act primarily on the +serotonin pathways in the brain.
 
+#### hierarchy
+refers to a type of organization with a clearly organized ranking into different "vertical" levels (e.g., as in a company or military organization with clearly delineated levels of management or command).  In the human brain, there is a hierarchy of processing in sensory areas, going from lower-level areas receiving direct sensory input, to higher-level areas where the sensory information has been highly [compressed](#compression).
+
+#### hippocampus
+is a brain structure that learns very quickly and can thus encode +episodic memories as they happen.  People without a functioning hippocampus, such as the famous patient H.M., were unable to form these memories (i.e., +amnesia), but still could recall older episodic memories from before their hippocampus was damaged.
+
+#### hormone
+is a chemical produced in one area (e.g., the brain) that can produce effects in other areas of the body.  Metaphorically, it is like a +neurotransmitter but instead of communicating between neurons, it supports communication between different parts of the body.  The +hypothalamus is the most important control area in the brain for hormone release, as part of the +autonomic nervous system.  See +corticosteroids and +adrenaline for two examples.
+
 #### hypnosis
 is a state of extreme suggestibility, likely present in all people to varying extents, which can be enhanced through certain procedures by people trained in the practice.  Roughly 1/3rd of people are readily susceptible to these hypnosis induction techniques.  It is not thought to be an altered state of +consciousness.
 
@@ -173,6 +233,9 @@ refers to processes that operate in the brain below the level of +consciousness 
 
 #### independent-variable
 is the +variable that is manipulated by the experimenter in an experiment.
+
+#### inferior
+is an anatomical term that refers to the bottom portion of a brain structure, which is the opposite of +superior.  It is the same as +ventral but used in different cases.
 
 #### inhibitory
 in neuroscience, this means causing a neuron to be less excited, or less likely to fire a +spike.  More generally, can be anything that has an overall negative effect (on behavior, attitudes, etc) --- the opposite of +excitatory.
@@ -195,7 +258,13 @@ are charged atoms such as sodium (Na+), chloride (Cl-), and potassium (K+) that 
 
 ## L
 
+#### lateral
+is an anatomical term referring to the outer portion of a brain structure, which is the opposite of +medial.
+
 ## M
+
+#### medial
+is an anatomical term referring to the inner or middle portion of a brain structure, which is the opposite of +lateral.  See also +ventral for a broad generalization about functions of medial areas.
 
 #### membrane potential
 is the electrical charge difference across the membrane (cell wall) of a +neuron --- this potential reflects the tug-of-war balance between excitatory and inhibitory inputs, and when it exceeds the +threshold, an +action-potential is triggered.
@@ -229,8 +298,14 @@ is the basic cell type in the brain that performs information processing via +co
 #### neocortex
 is the evolutionarily newest part of the brain, forming the outer-most layer, which is essential for all forms of cognition.
 
+#### norepinephrine
+is a +neuromodulator released by the *locus coeruleus* ("blue area") that modulates effort and engagement.  It is known to be affected in +ADHD.
+
 #### normalized
 re-scaled (via either subtraction or division) value into a "normal" or standard range, often the 0 to 1 or -1 to 1 range.  For example, if you subtract the mean from a set of values, they are 0-normalized.  If you then divide those values by the standard deviation, then they are called "normal" values or `z` scores.  See also +standardized.
+
+#### nucleus
+refers to either an anatomically (and potentially functionally) distinguishable grouping of neurons (e.g., the lateral geniculate nucleus of the thalamus), or to the center of an individual cell such as a +neuron, where the +DNA is, providing overall control of cellular function.
 
 ## O
 
@@ -248,6 +323,9 @@ is the sensory modality of smell, conveyed through chemical receptors in the nos
 #### paradigm
 refers to an influential set of interconnected theories and data that many individual scientists believe in at a given point in time.  In psychology, examples include the paradigms of +behaviorism and +cognitivism.  Thomas Khun established the paradigm as a way of understanding the nature of scientific progress, which can get stuck in a paradigm, until enough evidence accumulates to overthrow it.
 
+#### parasympathetic nervous system
+is an +autonomic system involved in slower offline activities such as digestion and sexual reproduction ("feed and breed").
+
 #### perception
 is the higher-level product of cortical-level +compression and +contrast processing of lower-level +sensation signals, resulting in an encoding of the stable underlying state of the world that factors out incidental differences to a large extent: we see the world, not our raw sensory signals.  For example, in vision, we perceive the underlying material color, not the raw color of light hitting our eyes, and we see the expected real size of something, not how big of a region it activates on our +retina --- these are also known as color and size +constancy.
 
@@ -259,6 +337,9 @@ is *positron emission tomography*, which uses the emission of pairs of +photons 
 
 #### photons
 are the particle-like manifestation of electromagnetic radiation (light), which activate the +rods and +cones in the eyes to create visual +sensation.
+
+#### posterior
+is an anatomical term that refers to the back-most portion of a structure, which is the opposite of +anterior.  You know, the backside.
 
 #### postsynaptic
 is the receiving side of +synapses, which has +channels such as +AMPA and +GABA that are activated by +neurotransmitter release.
@@ -329,14 +410,14 @@ refers to the raw signals produced by the primary +receptors, as contrasted with
 #### serotonin
 is a +neuromodulator that modulates +arousal (wake vs. sleep) and mood, and is affected by +hallucinogenic drugs.  Compared to +dopamine which can have rapid +phasic effects, serotonin is relatively longer and slower acting.
 
+#### spike
+is a short-hand name for an +action-potential --- this is the electrical process that occurs when a +neuron gets sufficient +excitatory input to get over its firing +threshold to send a signal to other neurons.
+
 #### standardized
 refers to a measure or score that is has been +normalized into a standard range, for example IQ scores are typically standardized such that the average person has a score of 100.
 
 #### stereotype
 is a simplified mental categorization of a group of people according to a set of properties, often used instead of trying to think about distinct and complex individuals, as a form of +compression that the brain automatically does.  Some stereotypes are negative and can result in inaccurate negative impressions of individuals based on superficial characteristics that do not reflect their individual abilities and strengths.  Given the widespread cultural spreading of stereotypes, even members of negatively stereotyped groups show at least implicit, and often explicit, incorporation of these beliefs.
-
-#### spike
-is a short-hand name for an +action-potential --- this is the electrical process that occurs when a +neuron gets sufficient +excitatory input to get over its firing +threshold to send a signal to other neurons.
 
 #### subconscious
 refers to processes operating below the level of +consciousness, as famously emphasized by Sigmund Freud.  See also +implicit.
@@ -346,6 +427,12 @@ refers to all the brain areas below the level of the +neocortex, including the +
 
 #### subjective
 the first-person perspective, available only to *you*.  The fact that only each individual can have a subjective experience raises fundamental challenges for any attempt to achieve an +objective understanding of the *mind*, which is inexorably tied to the subjective experience of *being* a brain.  Given that psychology is essentially the study of the mind, this poses fundamental challenges for the field.
+
+#### superior
+is an anatomical term that refers to the upper portion of a brain area, which is the opposite of +inferior.  It is synonymous with +dorsal, but used in different cases.
+
+#### sympathetic nervous system
+is an +autonomic system involved in mobilizing behavior for quick responses (i.e., "fight or flight"), involving the release of +adrenaline.
 
 #### synapses
 are the connections between neurons where the +action-potential arriving from the sending neuron causes the release of +neurotransmitter that then opens +channels on the receiving neuron's +dendrites, resulting in either +excitatory or +inhibitory effects depending on whether the sending neuron is an excitatory +pyramidal neuron or an inhibitory +interneuron.
@@ -367,6 +454,9 @@ is the level of +excitation (technically the +membrane-potential) in a +neuron, 
 #### tolerance
 is the learning-based process resulting in the need for a higher level of drug consumption to produce the same effect.  The brain learns to expect the effect of the drug, reducing the +contrast relative to this expectation.
 
+#### top-down
+refers to connections in the brain that go from higher levels back down to more sensory-specific areas in a +hierarchy.
+
 #### transcend
 is to rise above or beyond --- we say that the mind transcends the physical substrate of the brain, through +emergence.
 
@@ -382,6 +472,9 @@ are *unconditioned stimuli* which evoke emotionally salient internal states such
 
 #### variables
 are things that can be measured in scientific research studies, such as IQ, number of vocabulary words, etc.  The +independent-variable is manipulated in an +experimental study, while the +dependent-variable is recorded to determine if there was an effect of the manipulation.
+
+#### ventral
+is an anatomical term that refers to the physically lower, bottom-most portion of a brain structure, which is the opposite of +dorsal.  As a very broad generalization (which is thus sometimes wrong), ventral (and +medial) areas are associated with more emotional-level processing, e.g., in the ventral striatum of the +basal-ganglia and ventral +medial +frontal cortex (and ventral +hippocampus in rats).  However, ventral areas of +posterior +neocortex are associated with recognizing objects, so that is different.
 
 ## W
 

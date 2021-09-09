@@ -1,6 +1,6 @@
 function Str(el)
     paren, plus, link, back = el.text:match(
-        "^(%(*)(%+)(%w+[_%-]*%w*)(%g*)"
+        "^(%(*)(%+)(%w+[_%-]*%w*[_%-]*%w*)(%g*)"
     )
 
     if link ~= "" and link ~= nil then 
