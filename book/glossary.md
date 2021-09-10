@@ -9,7 +9,7 @@ is used in contrast with +relativity to refer to a value that is defined without
 is the output signal of a +neuron --- also known as a +spike --- which is driven by special +channels that propagate an electrical signal along the +axon to communicate to other neurons.
 
 #### acetylcholine
-(ACh) is a +neuromodulator released by the *basal forebrain cholinergic nuclei* that modulates attention, arousal and learning --- it is affected by nicotine.
+(ACh) is a +neuromodulator released by the *basal forebrain cholinergic nuclei* that modulates attention, arousal and learning --- it is affected by nicotine.  It is also the primary +neurotransmitter at the *neuromuscular junction* where nerve signals activate muscles.
 
 #### adaptation
 is a property of a +neuron where it tends to respond less vigorously over time to the same input stimulus.  This is an important aspect of +contrast as it causes neurons to respond to new things while ignoring older things.  It also refers to a similar process in sensory +receptors where they adjust their responses to stimuli over time.
@@ -18,7 +18,7 @@ is a property of a +neuron where it tends to respond less vigorously over time t
 is an informal term referring to a cluster of effects characterizing +dependence on a drug, typically measured in terms of +tolerance and the presence of +withdrawal-symptoms.
 
 #### ADHD
-stands for *attention deficit hyperactivity disorder*, which is a developmental disorder characterized by two distinct dominant symptoms: difficulty sustaining attention, and hyperactivity (inability to sit still).  See Chapter 11 for more details.
+stands for *attention deficit hyperactivity disorder*, which is a developmental disorder characterized by two distinct dominant symptoms: difficulty sustaining attention, and hyperactivity (inability to sit still).  It is often treated using +stimulants such as +amphetamine or +methylphenidate.  See Chapter 11 for more details.
 
 #### adrenaline
 is a +hormone that is released by the +sympathetic-nervous-system in response to acute stressors, to prepare for "fight or flight" responses.
@@ -29,11 +29,17 @@ is the lack of knowledge, often combined with a particular domain in which a per
 #### agonists
 are chemicals that facilitate or activate a given +neurotransmitter pathway, as compared to +antagonists.  There are many different possible biological mechanisms, including direct binding to a target +receptor, increasing the release of neurotransmitter, blocking +reuptake, etc.
 
+#### AI
+is *artificial intelligence* --- capturing some level of human intelligence in an artificial system.  This is a long-held goal of many, but current examples exhibit very *narrow* forms of intelligence, such as the ability to play one, and only one, type of game.  There are no existing artificial systems that come close to matching the generality and flexibility of human intelligence: the goal of *artificial general intelligence* (AGI) is to do so.
+
 #### amnesia
 is the inability to form new memories (technically known as *anterograde* amnesia), or retrieve existing ones (*retrograde* amnesia), specifically used to refer to +episodic memories encoded by the +hippocampus.
 
 #### AMPA
 is the main type of +excitatory +channels on a +neuron, activated by +glutamate, and allowing sodium (Na+) +ions to enter the receiving neuron and thus increasing the positive charge.
+
+#### amphetamine
+on the +dopamine and +norepinephrine pathways, and 
 
 #### amygdala
 is the "almond shaped" +subcortical brain area most important for processing emotionally-relevant signals, including fear and reward.  It is the primary locus of the learning involved in +classical-conditioning, where initially neutral +CSs are associated with emotionally-significant +USs.
@@ -45,7 +51,7 @@ is the lack of knowledge or +agnosia about one's own lack of knowledge --- i.e.,
 are chemicals that block or inhibit a given +neurotransmitter pathway, as compared to +agonists.  There are many different possible biological mechanisms, including blocking release or blocking / inhibiting the target +receptor.
 
 #### anterior
-is an anatomical term that refers to the front portion of a structure, which is the opposite of +posterior.
+is an anatomical term that refers to the **front** portion of a structure, which is the opposite of +posterior.
 
 #### antisocial
 is an attitude or behavior of acting against other people --- the opposite of +prosocial.
@@ -72,6 +78,9 @@ is the output side of the +neuron that propagates the +action-potential.  Longer
 
 #### behaviorism
 is a school of psychology that was dominant during the period of 1900 -- 1950, which restricted study strictly to the +objective measurement of behavior, in contrast to the +subjective +introspection that was dominant previously.
+
+#### benzodiazepines
+are a class of drugs that act as +GABA +agonists, increasing the level of +inhibition in the brain, resulting in sedation, calming, and ultimately, unconsciousness.
 
 #### bidirectional
 means going in two directions, typically referring to connectivity in the brain, where there are connections from area A to area B, and also *reciprocal* connections back from B to A.  Often, these connections are organized in a +hierarchy in terms of +bottom-up connections going from the sensory inputs to higher areas, and +top-down connections going from the higher level internal areas back down to lower, more sensory areas.
@@ -153,7 +162,7 @@ is *Deoxyribonucleic acid*, which encodes the genetic instructions for all forms
 is a major type of +neuromodulator that is widely but incorrectly thought to drive feelings of pleasure --- instead it signals the *difference* between a positive outcome (i.e., a +reward) compared to the +expectation of that reward, which is a +contrast based version of pleasure, as opposed to the absolute version.  As we come to expect something good, it loses some of its positive feeling --- this is closely related to the process of +tolerance in drug +addiction.
 
 #### dorsal
-is an anatomical term that refers to the upper portion of a brain structure (think of the dorsal fin on a dolphin), which is the opposite of +ventral.
+is an anatomical term that refers to the **upper** portion of a brain structure (think of the dorsal fin on a dolphin), which is the opposite of +ventral.
 
 #### dualism
 is when there are two fundamentally incompatible things that cannot be directly connected to each other.  For example classical substance dualism holds that the mind is effectively an entirely distinct substance from the brain, and that you can never fully explain the mind in terms of the brain.  See +perspective-dualism for a different way of understanding this dualism between mind and brain, that doesn't require mind to be a distinct substance, thus avoiding difficult questions regarding how it might exist in the physical universe.
@@ -168,6 +177,9 @@ is the phenomenon where something fundamentally new arises from interacting elem
 
 #### empiricism
 is the philosophical approach to +epistemology that argues that much of human knowledge comes from experience-based learning.
+
+#### endogenous
+refers to normally-occuring, "natural" things in the body or brain.  For example, the brain naturally releases +opioids, which are thus called *endogenous opioids*, as contrasted with the kind you get from consuming drugs.
 
 #### epilepsy
 is a brain disorder affecting about 4% of people at some point in their lives, characterized by periodic *seizures* where excessive neural activity cascades through the brain, often causing a person to lose control of their muscles or even lose consciousness. Treatment involves increasing +inhibition, for example through +GABA +agonists.
@@ -259,15 +271,21 @@ are charged atoms such as sodium (Na+), chloride (Cl-), and potassium (K+) that 
 ## L
 
 #### lateral
-is an anatomical term referring to the outer portion of a brain structure, which is the opposite of +medial.
+is an anatomical term referring to the **outer** portion of a brain structure, which is the opposite of +medial.
 
 ## M
 
 #### medial
-is an anatomical term referring to the inner or middle portion of a brain structure, which is the opposite of +lateral.  See also +ventral for a broad generalization about functions of medial areas.
+is an anatomical term referring to the **inner** or **middle** portion of a brain structure, which is the opposite of +lateral.  See also +ventral for a broad generalization about functions of medial areas.
 
 #### membrane potential
 is the electrical charge difference across the membrane (cell wall) of a +neuron --- this potential reflects the tug-of-war balance between excitatory and inhibitory inputs, and when it exceeds the +threshold, an +action-potential is triggered.
+
+#### metacognitive 
+is a level of self-awareness about our own internal cognitive states.  Specific examples include awareness about our level of confidence or feeling of remembering something specific.
+
+#### methylphenidate
+is a slow, long-acting drug with similar effects as +amphetamine on the +dopamine and +norepinephrine pathways, and is commonly used to treat +ADHD.  It is marketed as *Ritalin* in some countries.
 
 #### millisecond
 is one thousandth (1/1000) of a second --- the fastest your brain can process information is roughly 200 milliseconds or 1/5 of a second.
@@ -318,6 +336,9 @@ is *obsessive compulsive disorder*, which is characterized by repeated thoughts 
 #### olfaction
 is the sensory modality of smell, conveyed through chemical receptors in the nose.
 
+#### opioids
+are drugs that activate the +endogenous opioid system, which is involved in regulating the neural response to pain stimuli, and also affects the +dopamine system directly and indirectly through effects on the +amygdala and +hypothalamus, among other areas.  Examples include heroin, morphine and fentanyl, which are also known as narcotics.
+
 ## P
 
 #### paradigm
@@ -339,7 +360,7 @@ is *positron emission tomography*, which uses the emission of pairs of +photons 
 are the particle-like manifestation of electromagnetic radiation (light), which activate the +rods and +cones in the eyes to create visual +sensation.
 
 #### posterior
-is an anatomical term that refers to the back-most portion of a structure, which is the opposite of +anterior.  You know, the backside.
+is an anatomical term that refers to the **back** portion of a structure, which is the opposite of +anterior.  You know, the backside.
 
 #### postsynaptic
 is the receiving side of +synapses, which has +channels such as +AMPA and +GABA that are activated by +neurotransmitter release.
@@ -368,6 +389,9 @@ is the main type of +excitatory +neuron in the +neocortex, named for its pyramid
 is the +subjective feeling of experiences --- what it *feels like* to experience something, like tasting an apple or seeing the color red.  
 
 ## R
+
+#### raphe
+is a nucleus in the +brainstem that releases +serotonin, with multiple different nuclei, each having different effects.
 
 #### rationalism
 is the philosophical approach to +epistemology that argues that much of human knowledge comes from logical reasoning.
@@ -418,6 +442,9 @@ refers to a measure or score that is has been +normalized into a standard range,
 
 #### stereotype
 is a simplified mental categorization of a group of people according to a set of properties, often used instead of trying to think about distinct and complex individuals, as a form of +compression that the brain automatically does.  Some stereotypes are negative and can result in inaccurate negative impressions of individuals based on superficial characteristics that do not reflect their individual abilities and strengths.  Given the widespread cultural spreading of stereotypes, even members of negatively stereotyped groups show at least implicit, and often explicit, incorporation of these beliefs.
+
+#### stimulants
+are a broad class of drugs that stimulate activity, including +amphetamine and cocaine.
 
 #### subconscious
 refers to processes operating below the level of +consciousness, as famously emphasized by Sigmund Freud.  See also +implicit.
@@ -474,7 +501,7 @@ are *unconditioned stimuli* which evoke emotionally salient internal states such
 are things that can be measured in scientific research studies, such as IQ, number of vocabulary words, etc.  The +independent-variable is manipulated in an +experimental study, while the +dependent-variable is recorded to determine if there was an effect of the manipulation.
 
 #### ventral
-is an anatomical term that refers to the physically lower, bottom-most portion of a brain structure, which is the opposite of +dorsal.  As a very broad generalization (which is thus sometimes wrong), ventral (and +medial) areas are associated with more emotional-level processing, e.g., in the ventral striatum of the +basal-ganglia and ventral +medial +frontal cortex (and ventral +hippocampus in rats).  However, ventral areas of +posterior +neocortex are associated with recognizing objects, so that is different.
+is an anatomical term that refers to the **lower**, **bottom** portion of a brain structure, which is the opposite of +dorsal.  As a very broad generalization (which is thus sometimes wrong), ventral (and +medial) areas are associated with more emotional-level processing, e.g., in the ventral striatum of the +basal-ganglia and ventral +medial +frontal cortex (and ventral +hippocampus in rats).  However, ventral areas of +posterior +neocortex are associated with recognizing objects, so that is different.
 
 ## W
 

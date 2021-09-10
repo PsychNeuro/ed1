@@ -1,7 +1,7 @@
 Midterm questions: control, contrast questions with specific examples seemed hard.
 
 
-* [ ] Ch2: cortical neurons only send excitation or inhibition, not both
+* [X] Ch2: cortical neurons only send excitation or inhibition, not both
 
 * [ ] Ch3: hypnosis
 
