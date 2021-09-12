@@ -1,5 +1,6 @@
 Midterm questions: control, contrast questions with specific examples seemed hard.
 
+* [ ] decide on a consistent strategy for bolding key terms, vs. glossary lookup, and redo all bolding etc to match.  basically, should bold when primarily discussing in chapter, and glossary otherwise.  just do it.
 
 * [X] Ch2: cortical neurons only send excitation or inhibition, not both
 

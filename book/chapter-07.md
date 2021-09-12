@@ -38,7 +38,7 @@ To understand what kind of neural machinery it would take to support CPU-like fu
 
 1. A way of reading and writing information from a **memory system** (conceptualized as a *tape* by Turing)
 
-2. A **program** that determines how this information is transformed in between being read and written
+2. A +program that determines how this information is transformed in between being read and written
 
 3. Some **active memory** where things can be temporarily cached, for the program to refer to.
 
@@ -46,7 +46,7 @@ These elements were elaborated by Von Neumann, in one of the most important unpu
 
 ![**Figure 7.2:** Computers solve problems by breaking them down into many small *sequential* steps, each one involving a specific, well-defined operation such as adding numbers, writing them down somewhere, and reading them back in for use later.  Just like you do when performing multi-digit arithmetic.  Alan Turing showed that these basic processes can be used to solve *any* problem.](../figures/fig_mental_multiplication.jpg){ width=50% }
 
-You can get a good feel for how a computer works, and why it can do anything, by considering the traditional strategies for performing multi-digit arithmetic (Figure 7.2).  Instead of just staring at those big numbers and hoping a number pops to mind, you break the problem down into a sequence of simple, discrete steps.  That sequence of steps is the *program* or **algorithm**, and each individual *operation* involves one of a small set of different processes, such as adding or multiplying single-digit numbers, writing down some numbers for later use (i.e., storing onto the tape in a Turing machine), and reading those numbers back in at the appropriate time (as you move to the next column of digits).
+You can get a good feel for how a computer works, and why it can do anything, by considering the traditional strategies for performing multi-digit arithmetic (Figure 7.2).  Instead of just staring at those big numbers and hoping a number pops to mind, you break the problem down into a sequence of simple, discrete steps.  That sequence of steps is the *program* or +algorithm, and each individual *operation* involves one of a small set of different processes, such as adding or multiplying single-digit numbers, writing down some numbers for later use (i.e., storing onto the tape in a Turing machine), and reading those numbers back in at the appropriate time (as you move to the next column of digits).
 
 This kind of sequential, discrete, step-wise processing is entirely different from how our neurons work.  Neurons also break down a problem in to simpler components, but a critical difference is that they all work together in *parallel* instead of the fundamentally sequential, *serial* processing required for a universal computer.  The major advantage of serial processing is that it is much more flexible --- any arbitrary collection of operations can be sequenced one after the other over time, but the same is *not* true for parallel computation.  Some operations are mutually incompatible with each other, or depend one on the other, and simply cannot be performed simultaneously in parallel.
 

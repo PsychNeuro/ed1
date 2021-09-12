@@ -32,6 +32,9 @@ are chemicals that facilitate or activate a given +neurotransmitter pathway, as 
 #### AI
 is *artificial intelligence* --- capturing some level of human intelligence in an artificial system.  This is a long-held goal of many, but current examples exhibit very *narrow* forms of intelligence, such as the ability to play one, and only one, type of game.  There are no existing artificial systems that come close to matching the generality and flexibility of human intelligence: the goal of *artificial general intelligence* (AGI) is to do so.
 
+#### algorithm
+is a specific procedure for solving a problem, usually used in the context of computer programs that implement such procedures.  For example, there are many different ways to sort a list of items in alphabetical order --- each of these is a different algorithm (bubble sort, heap sort, etc), with different characteristic properties that can be analyzed independent of any particular +program that implements the algorithm.
+
 #### amnesia
 is the inability to form new memories (technically known as *anterograde* amnesia), or retrieve existing ones (*retrograde* amnesia), specifically used to refer to +episodic memories encoded by the +hippocampus.
 
@@ -39,7 +42,7 @@ is the inability to form new memories (technically known as *anterograde* amnesi
 is the main type of +excitatory +channels on a +neuron, activated by +glutamate, and allowing sodium (Na+) +ions to enter the receiving neuron and thus increasing the positive charge.
 
 #### amphetamine
-on the +dopamine and +norepinephrine pathways, and 
+is an +agonist on the +dopamine and +norepinephrine pathways, producing +stimulant effects on behavior and mood.
 
 #### amygdala
 is the "almond shaped" +subcortical brain area most important for processing emotionally-relevant signals, including fear and reward.  It is the primary locus of the learning involved in +classical-conditioning, where initially neutral +CSs are associated with emotionally-significant +USs.
@@ -63,7 +66,7 @@ is a state of fear.  Anxiety disorders are the most prevalent, at nearly 7% of t
 refers to the overall level of activation of the brain, as along the continuum between sleep and wakefulness, and different levels of alertness and engagement.
 
 #### attention
-is the focusing of cognitive processing on a subset of information, to the exclusion of other things.  In the brain, it emerges through the +inhibitory +interneuron driven competition to become active and enter into the very limited capacity of attention, and a combination of bottom-up (from the sensory inputs) and top-down (from internal states and goals) signals that help shape what is attended to.
+is the focusing of cognitive processing on a subset of information, to the exclusion of other things.  In the brain, it emerges through the +inhibitory +interneuron driven competition to become active and enter into the very limited capacity of attention, and a combination of +bottom-up (from the sensory inputs) and +top-down (from internal states and goals) signals that help shape what is attended to.
 
 #### autonomic
 refers to the automatic, subconscious nervous system, comprised of the +sympathetic-nervous-system and the +parasympathetic-nervous-system, which work in opposition to support rapid mobilization of behavior in the case of threat vs. slower offline activities such as digestion and breeding.  The enteric nervous system associated with the digestive pathways is often considered a third element of the autonomic nervious system.  The +hypothalamus plays a major role in controlling this system.
@@ -72,6 +75,9 @@ refers to the automatic, subconscious nervous system, comprised of the +sympathe
 is the output side of the +neuron that propagates the +action-potential.  Longer-range axons have +myelin sheaths that act like the insulation on a wire to speed the propagation of these signals.
 
 ## B
+
+#### backpropagation
+is a method (+algorithm) for training +neural-networks to perform specific tasks, by directly adapting the +synapses (known as +weights)
 
 #### basal ganglia
 (BG) are a collection of +subcortical brain areas that are densely interconnected with the [frontal cortex](#frontal-cortex) and are important for selecting the next action (+motor or purely cognitive).  The BG are strongly modulated by +dopamine, which drives +instrumental-conditioning in this area.  The primary input area is the *striatum* (*caudate* and *putamen*), which then goes to the *globus pallidus* and ultimately to the +thalamus which connects back to cortex and out to other subcortical motor areas.
@@ -111,6 +117,9 @@ refers to cognition or "thinking", and more specifically to the nature of the me
 #### cognitivism
 is the +paradigm of psychology that followed +behaviorism, overcoming the objection to studying internal mental states in part by adopting information processing models based on the computer technologies emerging in the 1960's.  Thus, this field focused on the +cognitive processes such as memory, problem solving, and language comprehension that have counterparts in the computer world.
 
+#### cognitive dissonance
+reflects attempts to maintain a consistent +self-model, in the face of discrepancies between actual behavior and this internal model of the self.  For example, people will overestimate their interest in a boring task when paid little to perform it, compared to when they are well-compensated.  See Chapter 9 for more discussion.
+
 #### compression
 is one of the three C's principles, reflecting the strong tendency of the brain to simplify or compress information, to the point that we can actually make sense of it.  This process starts in the individual +neuron, which receives thousands of inputs and only communicates one output signal.
 
@@ -131,6 +140,9 @@ is a measure of the relationship ("co-relation") between two +variables.  The st
 
 #### corticosteroids
 are +hormones released in response to stress, that help mobilize the body's responses to prepare for bad things such as injury or sickness.  Chronic elevation of these corticosteroids (due to chronic stress) can exhaust the body and leave it more susceptible to infection, and can impair the function of brain systems including the +hippocampus.  This is a major way in which different environmental conditions between poor and wealthy people can have significant affects on brain and body.
+
+#### CPU
+is the *central processing unit* in a standard digital computer architecture, which supports basic arithmetic, logic, memory, and control operations via an *instruction set*.  By enabling arbitrary sequences of such basic operations to be performed on arbitrary data, a CPU can accomplish *any* type of information processing function: it is a *universal* computational device.
 
 #### CSs
 are *conditioned stimuli* --- initially neutral stimuli that become associated with +USs through +classical-conditioning.
@@ -197,6 +209,9 @@ is something that causes positive effects, especially in a +neuron where some in
 are those employing random assignment of +participants to conditions to attempt to avoid the +third-variable-problem.
 
 ## F
+
+#### feedforward
+is a pattern of neural connectivity or flow of information going in the "forward" direction, +bottom-up direction in the +hierarchy of brain areas.  Compare with +bidirectional, where information can flow both bottom-up and +top-down, as happens in the +neocortex.
 
 #### fixation
 refers to maintaining the eyes in one place while processing the information at that location.  It lasts about 200 +milliseconds before the next [saccade](#saccades).
@@ -281,6 +296,9 @@ is an anatomical term referring to the **inner** or **middle** portion of a brai
 #### membrane potential
 is the electrical charge difference across the membrane (cell wall) of a +neuron --- this potential reflects the tug-of-war balance between excitatory and inhibitory inputs, and when it exceeds the +threshold, an +action-potential is triggered.
 
+#### meta-analysis
+is an important statistical technique for combining results across multiple published studies, providing a much larger effective sample size, and thus much better statistical power to determine which results are reliable (+replicable) and which are not.
+
 #### metacognitive 
 is a level of self-awareness about our own internal cognitive states.  Specific examples include awareness about our level of confidence or feeling of remembering something specific.
 
@@ -300,6 +318,9 @@ refers to *muscles* and physical behavior produced by actually acting through mu
 is an insulating sheath around the +axon, produced by special +glia cells called *oligodendrocytes*, that speeds the propagation of the electrical +action-potential to communicate with other neurons.  Myelination occurs progressively over the course of development, and is degenerated in multiple sclerosis.  
 
 ## N
+
+#### neural network
+refers to an artificial, simplified version of the actual networks of neurons in the brain, used in current +AI models to enable devices to understand human speech, and recognize objects in real images, among many other accomplishments.
 
 #### neuroimaging
 consists if a range of different techniques for measuring the state of the brain, including +fMRI, +EEG, and +PET.
@@ -374,6 +395,9 @@ is an important way in which the brain learns, based on the difference between a
 #### presynaptic
 is the sending side of +synapses, where +neurotransmitter is released at the +terminal-button.
 
+#### program
+refers to a computer program, which defines a sequence of basic operations that, when performed, accomplish some form of information processing.  For example, a simple program might sort a list in alphabetical order, while more complex programs enable you to write papers on your computer.  There are many different programming languages, but they all end up specifying a sequence of basic operations (instructions) supported by the +CPU chip in the computer, including basic arithmetic, logic, and memory reading and writing.
+
 #### prosocial
 is an attitude favoring social engagement and generally helping others --- the opposite of +antisocial
 
@@ -427,6 +451,9 @@ is a relatively rare mental disorder characterized by *positive symptoms* such a
 
 #### scientific method
 is a procedure for establishing +replicable results from experiments that can build up a body of understanding that transcends the individual's +subjective experience and works toward establishing an +objective understanding of the world.  Critical elements include formulating a hypothesis, testing it by collecting data using a well-specified procedure that can be reliably replicated by others, and analyzing the data to determine if it confirmed or disconfirmed the hypothesis.
+
+#### self-model
+is an internal model of the self, potentially constructed via +predictive-learning where you learn by trying to predict your own actions in response to different situations.  Various phenomena reflect the attempt to maintain a consistent model of the self, such as +cognitive-dissonance.
 
 #### sensation
 refers to the raw signals produced by the primary +receptors, as contrasted with +perception which refers to the deeper, interpretive processing of sensory information.  We are not aware of raw sensation.
