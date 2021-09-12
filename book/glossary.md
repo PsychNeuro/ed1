@@ -77,7 +77,7 @@ is the output side of the +neuron that propagates the +action-potential.  Longer
 ## B
 
 #### backpropagation
-is a method (+algorithm) for training +neural-networks to perform specific tasks, by directly adapting the +synapses (known as +weights)
+is a method (+algorithm) for training a +neural-network to perform specific tasks, by directly adapting the +synapses (known as +weights)
 
 #### basal ganglia
 (BG) are a collection of +subcortical brain areas that are densely interconnected with the [frontal cortex](#frontal-cortex) and are important for selecting the next action (+motor or purely cognitive).  The BG are strongly modulated by +dopamine, which drives +instrumental-conditioning in this area.  The primary input area is the *striatum* (*caudate* and *putamen*), which then goes to the *globus pallidus* and ultimately to the +thalamus which connects back to cortex and out to other subcortical motor areas.

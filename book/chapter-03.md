@@ -4,8 +4,6 @@ bibfile: ccnlab.bib
 
 # Chapter 3: Consciousness, Drugs, Sleep, and Dreams
 
-[//]: # (todo: add hypnosis: suggestibility, dissociation, use in pain control, psychotherapy)
-
 Our entire subjective mental life is essentially synonymous with *consciousness* --- hence our enduring fascination with this subject.  As discussed in Chapter 1, psychology has wrestled with the challenge of subjective experience since its inception, and the stigma carried over from the behaviorist dogma against subjective experience still casts a shadow even to this day.  When you start talking about dreams and the mysterious workings of the subconscious (especially the legacy of Sigmund Freud), modern-day psychological scientists get even more uncomfortable!  Thus, we as a field know less than we probably should about some of the topics covered in this chapter, but the stigmas are slowly receding, and more and more research is being done.
 
 As concluded in Chapter 1, we can view the +subjective and +objective worlds as two different perspectives onto the material world, not two different magical substances.  While each individual has exclusive access to their own subjective perspective, we can all work together to build a consistent objective understanding through the scientific method.  In this chapter, we build on the neuroscience foundation from Chapter 2, to understand more about the **neural correlates of consciousness** *(NCC)* and how we might somehow reconcile the subjective features of conscious experience with some objective facts about the brain.
