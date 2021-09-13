@@ -420,6 +420,9 @@ is a nucleus in the +brainstem that releases +serotonin, with multiple different
 #### rationalism
 is the philosophical approach to +epistemology that argues that much of human knowledge comes from logical reasoning.
 
+#### receptive field
+is the region over which stimulation will activate a neuron (or otherwise affect its response), e.g., in the visual pathway, this can be defined in terms of the region of an image (centered over the +fovea).
+
 #### receptors
 are cells that serve to +transduce sensory signals into neural firing signals that can then be processed by the rest of the brain.
 
