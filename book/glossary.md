@@ -68,6 +68,9 @@ refers to the overall level of activation of the brain, as along the continuum b
 #### attention
 is the focusing of cognitive processing on a subset of information, to the exclusion of other things.  In the brain, it emerges through the +inhibitory +interneuron driven competition to become active and enter into the very limited capacity of attention, and a combination of +bottom-up (from the sensory inputs) and +top-down (from internal states and goals) signals that help shape what is attended to.
 
+#### autism
+is a developmental disorder that is extremely diverse, and characterized along a *spectrum* of severity, with many people suffering from incapacitating symptoms, while relatively fewer highly functional and even super-functional *savant* cases tend to be popularized in the media.  Typically, the ability to relate socially with others is impaired (including language issues), and often there are repetitive behaviors and thoughts, along with focused, narrow interests in particularly domains of knowledge.
+
 #### autonomic
 refers to the automatic, subconscious nervous system, comprised of the +sympathetic-nervous-system and the +parasympathetic-nervous-system, which work in opposition to support rapid mobilization of behavior in the case of threat vs. slower offline activities such as digestion and breeding.  The enteric nervous system associated with the digestive pathways is often considered a third element of the autonomic nervious system.  The +hypothalamus plays a major role in controlling this system.
 
@@ -101,6 +104,9 @@ refers to connections in the brain that go from sensory to higher levels in a +h
 refers to the bottom-most portion of the brain, adjacent to the spinal cord, which supports the most basic, essential regulation of the body.
 
 ## C
+
+#### CAPTCHA
+is an annoying test used on various websites to try to determine whether the user is a human or a "bot" --- it literally stands for "Completely Automated Public Turing test to tell Computers and Humans Apart".  It is a kind of +AI test and also a way to generate data sets to train AI models.
 
 #### cerebellum
 is the "mini brain" +subcortical brain area containing roughly half of the neurons in the brain, which learns through error signals to improve +motor actions, making them smoother and more efficient.
@@ -319,6 +325,9 @@ is an insulating sheath around the +axon, produced by special +glia cells called
 
 ## N
 
+#### nativism
+is the idea that a significant amount of our knowledge is built into our brains from birth, presumably through the genetic code.  It is the opposite of +empiricism.
+
 #### neural network
 refers to an artificial, simplified version of the actual networks of neurons in the brain, used in current +AI models to enable devices to understand human speech, and recognize objects in real images, among many other accomplishments.
 
@@ -457,6 +466,9 @@ is a procedure for establishing +replicable results from experiments that can bu
 
 #### self-model
 is an internal model of the self, potentially constructed via +predictive-learning where you learn by trying to predict your own actions in response to different situations.  Various phenomena reflect the attempt to maintain a consistent model of the self, such as +cognitive-dissonance.
+
+#### self-organizing
+means that the system organizes itself, as opposed to requiring some kind of external configuration process.  In the case of the brain, this is typically used to describe the way that learning mechanisms shape the +synapses in response to experience to produce a more capable organism, without requiring extensive external instructions or training signals.
 
 #### sensation
 refers to the raw signals produced by the primary +receptors, as contrasted with +perception which refers to the deeper, interpretive processing of sensory information.  We are not aware of raw sensation.
