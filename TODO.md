@@ -4,7 +4,7 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [X] Ch2: cortical neurons only send excitation or inhibition, not both
 
-* [ ] Ch3: hypnosis
+* [X] Ch3: hypnosis
 
 * [ ] Ch3: is twitter conscious?
 
