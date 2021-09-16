@@ -92,7 +92,7 @@ is a school of psychology that was dominant during the period of 1900 -- 1950, w
 are a class of drugs that act as +GABA +agonists, increasing the level of +inhibition in the brain, resulting in sedation, calming, and ultimately, unconsciousness.
 
 #### bidirectional
-means going in two directions, typically referring to connectivity in the brain, where there are connections from area A to area B, and also *reciprocal* connections back from B to A.  Often, these connections are organized in a +hierarchy in terms of +bottom-up connections going from the sensory inputs to higher areas, and +top-down connections going from the higher level internal areas back down to lower, more sensory areas.
+means going in two directions, typically referring to connectivity in the brain, where there are connections from area A to area B, and also *reciprocal* connections back from B to A.  Often, these connections are organized in a +hierarchy in terms of +bottom-up or +feedforward connections going from the sensory inputs to higher areas, and +top-down or +feedback connections going from the higher level internal areas back down to lower, more sensory areas.
 
 #### BIOS
 is the *basic input output system* of a computer, which controls the physical hardware for interacting with the system.  By analogy, the +brainstem and +autonomic system are kind of like the "BIOS" of the body.
@@ -216,8 +216,11 @@ are those employing random assignment of +participants to conditions to attempt 
 
 ## F
 
+#### feedback
+is a pattern of neural connectivty or flow of information going in the "backward" or +top-down direction in the +hierarchy of brain areas.  See also +recurrent.
+
 #### feedforward
-is a pattern of neural connectivity or flow of information going in the "forward" direction, +bottom-up direction in the +hierarchy of brain areas.  Compare with +bidirectional, where information can flow both bottom-up and +top-down, as happens in the +neocortex.
+is a pattern of neural connectivity or flow of information going in the "forward" or +bottom-up direction in the +hierarchy of brain areas.  Compare with +bidirectional, where information can flow both bottom-up and +top-down, as happens in the +neocortex.
 
 #### fixation
 refers to maintaining the eyes in one place while processing the information at that location.  It lasts about 200 +milliseconds before the next [saccade](#saccades).
@@ -434,6 +437,9 @@ is the region over which stimulation will activate a neuron (or otherwise affect
 
 #### receptors
 are cells that serve to +transduce sensory signals into neural firing signals that can then be processed by the rest of the brain.
+
+#### recurrent
+is an anatomical term describing a pathway that goes in the opposite direction of the "standard" way, and in the brain it refers to +feedback or +top-down connectivity.  It also implies the recirculation-like effects of having +bidirectional connectivity, where information can circle around the bidirectional loops, thereby "recurring" --- also known as *reentrant*.
 
 #### relativity
 is another name for the +contrast principle, where there is sensitivity only to the relative differences between things, rather than their +absolute levels.

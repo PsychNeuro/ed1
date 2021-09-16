@@ -6,7 +6,7 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [X] Ch3: hypnosis
 
-* [ ] Ch3: is twitter conscious?
+* [X] Ch3: is twitter conscious?
 
 * [ ] Ch4: on / off: add tiny circles for cones, make point about RF of ganglion recv from many cones
 
@@ -22,7 +22,7 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch5: Secondary vs. primary reinforcers
 
-* [ ] Ch5: better example of reinstatement 
+* [X] Ch5: better example of reinstatement 
 
 * [ ] Ch5: better Go / NoGo figure
 
@@ -31,8 +31,6 @@ Midterm questions: control, contrast questions with specific examples seemed har
 * [ ] Ch5: Limits of conditioning: food -> nausea, lights / tones -> shock, not other way
 
 * [ ] Ch5: Work motivation, grad student example, approach avoid, social media perfect storm -- look at slides!
-
-* [ ] Ch5: Happiness goes here!  satisfaction vs. momentary, adaptation, contrast effects, parapalegic vs. lottery, etc
 
 * [ ] Ch6: get figs from slides!
 
@@ -61,6 +59,8 @@ Midterm questions: control, contrast questions with specific examples seemed har
 * [ ] Ch9: sales techniques: door-in-face, foot-in-door, etc
 
 * [ ] Ch9: add point about relative comparison of $$ made to happiness -- also parapalegic point.
+
+* [ ] Ch9: make sure has: satisfaction vs. momentary, adaptation, contrast effects, parapalegic vs. lottery, etc
 
 * [ ] Ch10: figure numbers are off by 1.
 
