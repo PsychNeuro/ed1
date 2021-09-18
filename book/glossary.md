@@ -83,7 +83,7 @@ is the output side of the +neuron that propagates the +action-potential.  Longer
 is a method (+algorithm) for training a +neural-network to perform specific tasks, by directly adapting the +synapses (known as +weights)
 
 #### basal ganglia
-(BG) are a collection of +subcortical brain areas that are densely interconnected with the [frontal cortex](#frontal-cortex) and are important for selecting the next action (+motor or purely cognitive).  The BG are strongly modulated by +dopamine, which drives +instrumental-conditioning in this area.  The primary input area is the *striatum* (*caudate* and *putamen*), which then goes to the *globus pallidus* and ultimately to the +thalamus which connects back to cortex and out to other subcortical motor areas.
+(BG) are a collection of +subcortical brain areas that are densely interconnected with the [frontal cortex](#frontal-cortex) and are important for selecting the next action (+motor or purely cognitive).  The BG are strongly modulated by +dopamine, which drives +instrumental-conditioning in this area.  The primary input area is the +striatum (*caudate*, *putamen*, and *nucleus accumbens*), which then goes to the *globus pallidus* and ultimately to the +thalamus which connects back to cortex and out to other subcortical motor areas.
 
 #### behaviorism
 is a school of psychology that was dominant during the period of 1900 -- 1950, which restricted study strictly to the +objective measurement of behavior, in contrast to the +subjective +introspection that was dominant previously.
@@ -493,6 +493,9 @@ is a simplified mental categorization of a group of people according to a set of
 
 #### stimulants
 are a broad class of drugs that stimulate activity, including +amphetamine and cocaine.
+
+#### striatum
+is the input part of the +basal-ganglia circuitry, comprised of the anatomically-defined *caudate* and *putamen*, and the *nucleus accumbens* in the +ventral part of the striatum.
 
 #### subconscious
 refers to processes operating below the level of +consciousness, as famously emphasized by Sigmund Freud.  See also +implicit.

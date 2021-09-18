@@ -20,15 +20,15 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch4: auditory subcortical pathways turning time patterns -> spatial patterns
 
-* [ ] Ch5: Secondary vs. primary reinforcers
+* [X] Ch5: Secondary vs. primary reinforcers
 
 * [X] Ch5: better example of reinstatement 
 
-* [ ] Ch5: better Go / NoGo figure
+* [X] Ch5: better Go / NoGo figure
 
-* [ ] Ch5: better classical vs. operant: key role of behavior -- also shaping better
+* [X] Ch5: better classical vs. operant: key role of behavior -- also shaping better
 
-* [ ] Ch5: Limits of conditioning: food -> nausea, lights / tones -> shock, not other way
+* [X] Ch5: Limits of conditioning: food -> nausea, lights / tones -> shock, not other way
 
 * [ ] Ch5: Work motivation, grad student example, approach avoid, social media perfect storm -- look at slides!
 
