@@ -191,7 +191,7 @@ is when there are two fundamentally incompatible things that cannot be directly 
 is *electroencephalography* --- the use of electrical signals typically recorded at the scalp to measure and infer patterns of underlying neural activity.  It has the advantage of very fast temporal precision in the millisecond scale, but relatively poor spatial resolution compared to +fMRI and other +neuroimaging techniques.
 
 #### emergence
-is the phenomenon where something fundamentally new arises from interacting elements, as illustrated in Figure 2.1 in [@sec:ch-neuro] (the gears interacting).  Because an interaction depends on each element that is interacting, it cannot be reduced to either in isolation.  The billions of neurons interacting in the brain create the potential for huge amounts of emergence, enabling the mind to +transcend its biological substrate in the brain.
+is the phenomenon where something fundamentally new arises from interacting elements, as illustrated in [@fig:fig-gears] in [@sec:ch-neuro] (the gears interacting).  Because an interaction depends on each element that is interacting, it cannot be reduced to either in isolation.  The billions of neurons interacting in the brain create the potential for huge amounts of emergence, enabling the mind to +transcend its biological substrate in the brain.
 
 #### empiricism
 is the philosophical approach to +epistemology that argues that much of human knowledge comes from experience-based learning.
