@@ -21,8 +21,8 @@ $endif$
 \footskip .75in
 \textheight 9in
 \usepackage[font=small]{caption}
-\DeclareCaptionLabelFormat{nolabel}{}
-\captionsetup{labelformat=nolabel}
+% \DeclareCaptionLabelFormat{nolabel}{}
+% \captionsetup{labelformat=nolabel}
 \usepackage{amssymb,amsmath}
 \usepackage{ifxetex,ifluatex}
 \usepackage{fixltx2e} % provides \textsubscript

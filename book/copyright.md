@@ -1,4 +1,6 @@
-#
+\newpage
+
+**Copyright**
 
 {<} Published by %publisher%
 

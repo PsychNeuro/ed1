@@ -2,6 +2,11 @@ copyright:
   owner: "Randall C. O'Reilly"
   year: 2020
 
+documentclass: book
+top-level-division: chapter
+chapters: true
+number-sections: true
+
 title: "Principles of Psychology and Neuroscience, First Edition"
 
 publisher: "Open Textbook, freely available"
@@ -50,7 +55,19 @@ glossary: false
 
 subparagraph: true
 
+# crossref options
+
+linkReferences: true
+# note: set in html-metadata
+# numberSections: false
+sectionDepth: 0
+
 figPrefix:
-- ""
-- ""
+- "Figure"
+- "Figures"
+
+secPrefix:
+- "Chapter"
+- "Chapters"
+
 

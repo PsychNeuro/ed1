@@ -18,7 +18,7 @@ is a property of a +neuron where it tends to respond less vigorously over time t
 is an informal term referring to a cluster of effects characterizing +dependence on a drug, typically measured in terms of +tolerance and the presence of +withdrawal-symptoms.
 
 #### ADHD
-stands for *attention deficit hyperactivity disorder*, which is a developmental disorder characterized by two distinct dominant symptoms: difficulty sustaining attention, and hyperactivity (inability to sit still).  It is often treated using +stimulants such as +amphetamine or +methylphenidate.  See Chapter 11 for more details.
+stands for *attention deficit hyperactivity disorder*, which is a developmental disorder characterized by two distinct dominant symptoms: difficulty sustaining attention, and hyperactivity (inability to sit still).  It is often treated using +stimulants such as +amphetamine or +methylphenidate.  See [@sec:ch-disorders] for more details.
 
 #### adrenaline
 is a +hormone that is released by the +sympathetic-nervous-system in response to acute stressors, to prepare for "fight or flight" responses.
@@ -124,7 +124,7 @@ refers to cognition or "thinking", and more specifically to the nature of the me
 is the +paradigm of psychology that followed +behaviorism, overcoming the objection to studying internal mental states in part by adopting information processing models based on the computer technologies emerging in the 1960's.  Thus, this field focused on the +cognitive processes such as memory, problem solving, and language comprehension that have counterparts in the computer world.
 
 #### cognitive dissonance
-reflects attempts to maintain a consistent +self-model, in the face of discrepancies between actual behavior and this internal model of the self.  For example, people will overestimate their interest in a boring task when paid little to perform it, compared to when they are well-compensated.  See Chapter 9 for more discussion.
+reflects attempts to maintain a consistent +self-model, in the face of discrepancies between actual behavior and this internal model of the self.  For example, people will overestimate their interest in a boring task when paid little to perform it, compared to when they are well-compensated.  See [@sec:ch-soc] for more discussion.
 
 #### compression
 is one of the three C's principles, reflecting the strong tendency of the brain to simplify or compress information, to the point that we can actually make sense of it.  This process starts in the individual +neuron, which receives thousands of inputs and only communicates one output signal.
@@ -191,7 +191,7 @@ is when there are two fundamentally incompatible things that cannot be directly 
 is *electroencephalography* --- the use of electrical signals typically recorded at the scalp to measure and infer patterns of underlying neural activity.  It has the advantage of very fast temporal precision in the millisecond scale, but relatively poor spatial resolution compared to +fMRI and other +neuroimaging techniques.
 
 #### emergence
-is the phenomenon where something fundamentally new arises from interacting elements, as illustrated in Figure 2.1 in Chapter 2 (the gears interacting).  Because an interaction depends on each element that is interacting, it cannot be reduced to either in isolation.  The billions of neurons interacting in the brain create the potential for huge amounts of emergence, enabling the mind to +transcend its biological substrate in the brain.
+is the phenomenon where something fundamentally new arises from interacting elements, as illustrated in Figure 2.1 in [@sec:ch-neuro] (the gears interacting).  Because an interaction depends on each element that is interacting, it cannot be reduced to either in isolation.  The billions of neurons interacting in the brain create the potential for huge amounts of emergence, enabling the mind to +transcend its biological substrate in the brain.
 
 #### empiricism
 is the philosophical approach to +epistemology that argues that much of human knowledge comes from experience-based learning.
@@ -206,7 +206,7 @@ is a brain disorder affecting about 4% of people at some point in their lives, c
 refers to something that happened within a single *episode* or *event* --- most often used to describe the type of memories encoded by the +hippocampus.
 
 #### epistemology
-is the study and philosophy of the nature and origins of knowledge.  Historically, some thought that knowledge came from logical reasoning (+rationalism) while others thought that it came from experience in the world (+empiricism).  Both are very likely to be important contributors, but the nature of the underlying learning processes are not fully resolved (see Chapter 5).
+is the study and philosophy of the nature and origins of knowledge.  Historically, some thought that knowledge came from logical reasoning (+rationalism) while others thought that it came from experience in the world (+empiricism).  Both are very likely to be important contributors, but the nature of the underlying learning processes are not fully resolved (see [@sec:ch-learn]).
 
 #### excitatory
 is something that causes positive effects, especially in a +neuron where some inputs are excitatory and cause the neuron to be more likely to fire a +spike --- the opposite of +inhibitory.
@@ -445,7 +445,7 @@ is an anatomical term describing a pathway that goes in the opposite direction o
 is another name for the +contrast principle, where there is sensitivity only to the relative differences between things, rather than their +absolute levels.
 
 #### replicable
-refers to whether an experiment can be repeated by following a well-specified procedure, and reliably produces the same pattern of data.  There is a *replication crisis* in a number of scientific fields including psychology, neuroscience and medicine due to a large number of published studies failing to replicate (see Chapter 1 for more discussion).
+refers to whether an experiment can be repeated by following a well-specified procedure, and reliably produces the same pattern of data.  There is a *replication crisis* in a number of scientific fields including psychology, neuroscience and medicine due to a large number of published studies failing to replicate (see [@sec:ch-sci] for more discussion).
 
 #### representation
 is an internal pattern of neural activity that encodes information.  Representations are thus the basic elements of neural processing in the brain, and understanding the nature of these representations is a major ongoing focus of scientific research.
