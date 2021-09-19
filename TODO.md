@@ -2,11 +2,17 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] decide on a consistent strategy for bolding key terms, vs. glossary lookup, and redo all bolding etc to match.  basically, should bold when primarily discussing in chapter, and glossary otherwise.  just do it.
 
+Neuro
+
 * [X] Ch2: cortical neurons only send excitation or inhibition, not both
+
+Consciousness
 
 * [X] Ch3: hypnosis
 
 * [X] Ch3: is twitter conscious?
+
+Perception
 
 * [ ] Ch4: on / off: add tiny circles for cones, make point about RF of ganglion recv from many cones
 
@@ -20,6 +26,8 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch4: auditory subcortical pathways turning time patterns -> spatial patterns
 
+Learning
+
 * [X] Ch5: Secondary vs. primary reinforcers
 
 * [X] Ch5: better example of reinstatement 
@@ -32,11 +40,15 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch5: Work motivation, grad student example, approach avoid, social media perfect storm -- look at slides!
 
+Memory
+
 * [ ] Ch6: get figs from slides!
 
-* [ ] Ch6: diagram of pattern completion in terms of partial cues -- make a better version of existing one.
+* [X] Ch6: diagram of pattern completion in terms of partial cues -- make a better version of existing one.
 
 * [ ] Ch6: key terms: issues with consciousneses
+
+Thinking
 
 * [ ] Ch7: gambler's fallacy
 
@@ -50,7 +62,11 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch7: social dominance, niche finding, geeks etc: everyone is constantly trying to establish their own domain of "specialness", including "smart" people, who gain self efficacy by reifying their own special status...
 
+Language
+
 * [ ] Ch8: entire chapter on language!
+
+Social
 
 * [ ] Ch9: person - situation controversy term for Mischel68
 
@@ -62,7 +78,9 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * [ ] Ch9: make sure has: satisfaction vs. momentary, adaptation, contrast effects, parapalegic vs. lottery, etc
 
-* [ ] Ch10: figure numbers are off by 1.
+Origins
+
+* [X] Ch10: figure numbers are off by 1.
 
 * [ ] Ch10: nature / nurture etc -- strangely missing summary!
 
@@ -79,6 +97,8 @@ Midterm questions: control, contrast questions with specific examples seemed har
 * [ ] Ch10: aging, dopamine curve, crystialized vs. fluid, suicide curve
 
 * [ ] Ch10: MAOA gene
+
+Disorders
 
 * [ ] Ch11: legal insanity, free will..
 
