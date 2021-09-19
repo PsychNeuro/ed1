@@ -83,7 +83,7 @@ is the output side of the +neuron that propagates the +action-potential.  Longer
 is a method (+algorithm) for training a +neural-network to perform specific tasks, by directly adapting the +synapses (known as +weights)
 
 #### basal ganglia
-(BG) are a collection of +subcortical brain areas that are densely interconnected with the [frontal cortex](#frontal-cortex) and are important for selecting the next action (+motor or purely cognitive).  The BG are strongly modulated by +dopamine, which drives +instrumental-conditioning in this area.  The primary input area is the +striatum (*caudate*, *putamen*, and *nucleus accumbens*), which then goes to the *globus pallidus* and ultimately to the +thalamus which connects back to cortex and out to other subcortical motor areas.
+(BG) are a collection of +subcortical brain areas that are densely interconnected with the +frontal cortex and are important for selecting the next action (+motor or purely cognitive).  The BG are strongly modulated by +dopamine, which drives +instrumental-conditioning in this area.  The primary input area is the +striatum (*caudate*, *putamen*, and *nucleus accumbens*), which then goes to the *globus pallidus* and ultimately to the +thalamus which connects back to cortex and out to other subcortical motor areas.
 
 #### behaviorism
 is a school of psychology that was dominant during the period of 1900 -- 1950, which restricted study strictly to the +objective measurement of behavior, in contrast to the +subjective +introspection that was dominant previously.
@@ -231,8 +231,8 @@ is *functional magnetic resonance imaging*, which uses an MRI machine to measure
 #### fovea
 is the central region of the +retina containing predominantly +cones that supports high-resolution color vision.  We are constantly moving our eyes through +saccades to focus the fovea on regions of interest.
 
-#### frontal cortex
-is the front part of the +neocortex, responsible for +motor actions and higher-level +control over all aspects of behavior and cognition.  It functions in extensive interconnection with the +basal-ganglia.
+#### frontal
+is the front part of the +neocortex, responsible for +motor actions and higher-level +control over all aspects of behavior and cognition.  It functions in extensive interconnection with the +basal-ganglia.  See also +prefrontal cortex.
 
 ## G
 
@@ -404,6 +404,9 @@ is the process of generating an expectation or guess as to what will happen next
 #### predictive learning
 is an important way in which the brain learns, based on the difference between a +prediction and what actually happens, which is known to be important for producing a stable perception of the world even though our eyes are constantly moving through +saccades.
 
+#### prefrontal
+is the area at the front of +frontal cortex (i.e., the +anterior portion of the frontal lobe), which is important for higher-level +control, including integrating goals and emotional states with action plans that can achieve those goals.  It is often described as important for *executive function* --- the highest level of control.
+
 #### presynaptic
 is the sending side of +synapses, where +neurotransmitter is released at the +terminal-button.
 
@@ -521,7 +524,7 @@ are the connections between neurons where the +action-potential arriving from th
 is the end of an +axon that forms the sending, +presynaptic side of +synapses, where +neurotransmitter is released in response to an +action-potential.
 
 #### thalamus
-is a +subcortical brain area located internal to the +neocortex, with which it is extensively interconnected, providing widespread control over +arousal, and +control via its interconnectivity with the +basal-ganglia and +frontal-cortex.  All sensory modalities except +olfaction route their signals through the thalamus on the way to the +neocortex.  It may also be important for +predictive-learning.
+is a +subcortical brain area located internal to the +neocortex, with which it is extensively interconnected, providing widespread control over +arousal, and +control via its interconnectivity with the +basal-ganglia and +frontal cortex.  All sensory modalities except +olfaction route their signals through the thalamus on the way to the +neocortex.  It may also be important for +predictive-learning.
 
 #### third variable problem
 is a major problem for +correlation based studies: it is always possible that a third (or more) unmeasured +variables could be responsible for the observed.
