@@ -68,15 +68,15 @@ Language
 
 Social
 
-* [ ] Ch9: person - situation controversy term for Mischel68
+* [X] Ch9: person - situation controversy term for Mischel68
 
 * [ ] ch9: power of situation for zimbardo / milgram
 
 * [ ] Ch9: sales techniques: door-in-face, foot-in-door, etc
 
-* [ ] Ch9: add point about relative comparison of $$ made to happiness -- also parapalegic point.
+* [X] Ch9: add point about relative comparison of $$ made to happiness -- also parapalegic point.
 
-* [ ] Ch9: make sure has: satisfaction vs. momentary, adaptation, contrast effects, parapalegic vs. lottery, etc
+* [X] Ch9: make sure has: satisfaction vs. momentary, adaptation, contrast effects, parapalegic vs. lottery, etc
 
 Origins
 

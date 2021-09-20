@@ -132,6 +132,9 @@ is one of the three C's principles, reflecting the strong tendency of the brain 
 #### cones
 are the color-sensitive +receptors in the +retina predominantly located in the central +fovea and surrounding visual field.  There are three different color sensitivities: low frequency (red), medium frequency (green), and high frequency (blue), and all of the colors of the rainbow are encoded as different mixtures of these three primary colors.
 
+#### confederate
+is a person who appears to be a random participant in an experiment, but is actually part of the research team, and performs specified behaviors needed to accomplish the study objectives.
+
 #### consciousness
 is the +subjective feeling of awareness of internal thoughts and perceptions.  The "hard" problem of consciousness is associated with its inherent subjectivity, meaning that it is beyond the reach of any +objective +scientific-method and only truly accessible to individual human beings, ultimately only to *you*.  In the brain, conscious states are those associated with widespread patterns of activity across multiple brain areas. 
 
@@ -146,6 +149,9 @@ is a measure of the relationship ("co-relation") between two +variables.  The st
 
 #### corticosteroids
 are +hormones released in response to stress, that help mobilize the body's responses to prepare for bad things such as injury or sickness.  Chronic elevation of these corticosteroids (due to chronic stress) can exhaust the body and leave it more susceptible to infection, and can impair the function of brain systems including the +hippocampus.  This is a major way in which different environmental conditions between poor and wealthy people can have significant affects on brain and body.
+
+#### counterfactual
+means "against the facts" --- typically used to describe scenarios that test reasoning and belief systems, but can be problematic because they are by definition not realistic.
 
 #### CPU
 is the *central processing unit* in a standard digital computer architecture, which supports basic arithmetic, logic, memory, and control operations via an *instruction set*.  By enabling arbitrary sequences of such basic operations to be performed on arbitrary data, a CPU can accomplish *any* type of information processing function: it is a *universal* computational device.
