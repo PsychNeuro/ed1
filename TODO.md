@@ -60,7 +60,7 @@ Thinking
 
 * [ ] Ch7: Flynn effect: growth mindset writ large in the population!
 
-* [ ] Ch7: social dominance, niche finding, geeks etc: everyone is constantly trying to establish their own domain of "specialness", including "smart" people, who gain self efficacy by reifying their own special status...
+* [ ] Ch7: social dominance, niche finding, geeks etc: everyone is constantly trying to establish their own domain of "specialness", including "smart" people, who gain self efficacy by reifying their own special status... -- this is in Origins..
 
 Language
 

@@ -126,6 +126,9 @@ is the +paradigm of psychology that followed +behaviorism, overcoming the object
 #### cognitive dissonance
 reflects attempts to maintain a consistent +self-model, in the face of discrepancies between actual behavior and this internal model of the self.  For example, people will overestimate their interest in a boring task when paid little to perform it, compared to when they are well-compensated.  See [@sec:ch-soc] for more discussion.
 
+#### comorbid
+refers to multiple distinct diseases co-occurring at the same time.  The "morbid" part does not mean that people die --- in medical terminology, it just refers to the occurrence of a disease.
+
 #### compression
 is one of the three C's principles, reflecting the strong tendency of the brain to simplify or compress information, to the point that we can actually make sense of it.  This process starts in the individual +neuron, which receives thousands of inputs and only communicates one output signal.
 
@@ -490,6 +493,9 @@ refers to the raw signals produced by the primary +receptors, as contrasted with
 
 #### serotonin
 is a +neuromodulator that modulates +arousal (wake vs. sleep) and mood, and is affected by +hallucinogenic drugs.  Compared to +dopamine which can have rapid +phasic effects, serotonin is relatively longer and slower acting.
+
+#### socioeconomic status
+(SES) is a summary of the relative wealth, education, and occupational status associated with an individual.  It has many effects on a wide range of psychological, neural and health variables, and must often be treated accordingly in a given study (e.g., by controlling for individual differences in SES).
 
 #### spike
 is a short-hand name for an +action-potential --- this is the electrical process that occurs when a +neuron gets sufficient +excitatory input to get over its firing +threshold to send a signal to other neurons.
