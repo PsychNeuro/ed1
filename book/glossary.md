@@ -340,6 +340,9 @@ is an insulating sheath around the +axon, produced by special +glia cells called
 #### nativism
 is the idea that a significant amount of our knowledge is built into our brains from birth, presumably through the genetic code.  It is the opposite of +empiricism.
 
+#### neoteny
+is a trend toward delaying maturation and preservation of childlike features, evident in the extremely protracted period of human development compared to most other animals.  Notably, Baby Yoda (Grogu) in the Mandalorian Star Wars show has an even more protracted period of development, associated with his even greater overall intelligence.
+
 #### neural network
 refers to an artificial, simplified version of the actual networks of neurons in the brain, used in current +AI models to enable devices to understand human speech, and recognize objects in real images, among many other accomplishments.
 
