@@ -16,11 +16,11 @@ Perception
 
 * [ ] Ch4: on / off: add tiny circles for cones, make point about RF of ganglion recv from many cones
 
-* [ ] Ch4: context effects and top down: THE CAT figure
+* [X] Ch4: context effects and top down: THE CAT figure
 
-* [ ] Ch4: add McGurk effect
+* [X] Ch4: add McGurk effect
 
-* [ ] Ch4: JND = Contrast effect
+* [X] Ch4: JND = Contrast effect
 
 * [ ] Ch4: signal detection theory
 
@@ -64,11 +64,11 @@ Thinking
 
 Language
 
-* [ ] Ch8: entire chapter on language!
+* [X] Ch8: entire chapter on language!
 
-* [ ] Ch10: critical periods.. sheesh. -- language
+* [X] Ch10: critical periods.. sheesh. -- language
 
-* [ ] Ch10: statistical learning  -- language
+* [X] Ch10: statistical learning  -- language
 
 Social
 

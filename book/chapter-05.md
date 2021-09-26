@@ -174,6 +174,10 @@ And speaking of soft, fluid images, the artwork of Salvador Dali provides an exc
 
 ![The art of Salvador Dali demonstrates the power of object (especially face) biases in perception.](../figures/fig_vis_dali_paintings.png){#fig:fig-dali width=100% }
 
+![Constraint satisfaction and context effects in perception.  Do you notice anything unusual about the middle letter of each word?  Probably not.  Take a closer look!  Yep, they are identical, and yet you immediately, preconsciously perceive them in a way that is consistent with their surrounding letters.  This reflects the bidirectional interaction between word-level and letter-level processing, as captured by a model by McClelland & Rumelhart, 1981.](../figures/fig_the_cat.png){#fig:fig-the-cat width=30% }
+
+[@fig:fig-the-cat] shows a simple but powerful demonstration of the +bidirectional interactions among different levels of the compression hierarchy, in this case between letter-level and word-level processing.  Consistent with an early neural network model by James McClelland and David Rumelhart, we automatically interpret letters in a way that is consistent with their surrounding letters, in terms of the words they spell [@McClellandRumelhart81].  Thus, higher word-level information is feeding back to support consistent letter processing at the lower level, and incremental updates at both levels act to mutually inform and constrain the overall interpretation.  This is known as **multiple constraint satisfaction** in interactive, bidirectionally-connected networks, developed further in models by physicist John Hopfield [@Hopfield84].
+
 ### Time Contrast: The Novelty Filter
 
 Another very important form of *contrast* that drives perception is **contrast over time** --- i.e., "the news" --- the visual system prefers new stimuli and new ways of seeing things.  In other words, it functions as a **novelty filter** --- filtering out the old and focusing on the new.  Like compression, this happens at all levels in the system, from the retina on up, based in part on the **adaptation** / **accommodation** / **fatigue** property of all neurons, as discussed in [@sec:ch-neuro].  If the same level of excitatory / inhibitory input is maintained over time, a neuron will progressively fire fewer spikes over time, in effect getting "bored" with that same-old signal.  If a different neuron that has not recently been excited then gets new inputs that excite it to the point of spiking, it will tend to spike more frequently, thereby drawing more attention to these new inputs.
@@ -201,6 +205,8 @@ Because the same principles just explored for the visual system apply to all of 
 * Mathematically, this place coding of frequency is effectively the same as performing a *fourier transform* of the original sound waves, resulting in a **spectrogram**, typically plotted with time on the X axis and frequency on the Y axis ([@fig:fig-spectrogram]).  By splitting out different frequencies across different neurons, it becomes easier to recognize patterns across these frequencies --- e.g., the distinctive patterns of human speech, called *formants* that are characteristic patterns of frequency changes over time, as shown in the figure.  This pattern recognition process in speech is very similar to the process of pattern recognition in images, which is why the same kinds of higher-level cortical pathways and principles apply to both.
 
 In short, after the subcortical auditory pathways transduce and transform the sound signal into something like a spectrogram, the auditory cortex does the same kind of compression and contrast processing of the auditory signals, extracting simpler ways of summarizing all of the sound information through a series of hierarchical layers.  At the upper levels, which we are consciously aware of, we have things like "Max wants a banana", summarizing a long complex auditory stimulus with a relatively few bits of information.
+
+An important finding in auditory speech perception, known as the **McGurk effect**, demonstrates that our different sensory modalities are constantly interacting, much in the same way as the multiple constraint satisfaction demonstration from [@fig:fig-the-cat].  In the McGurk effect, a video of a person saying one word is combined with the audio of that person saying a different word, and often the participant perceives a third word that represents an attempt to combine the auditory and visual signals [@McGurkMacDonald76].  This shows that we are all implicitly lip readers, and indeed other studies show that we gain significant robustness in speech perception by simultaneously doing lip reading.  This is also a demonstration of the benefits of pervasive +bidirectional connectivity throughout the cortex, so that all relevant information can be brought to bear on interpreting sensory inputs.
 
 ## Other Senses
 
@@ -232,7 +238,7 @@ Patients with hemispatial neglect show a disproportionate increase in reaction t
 
 One of the oldest areas of research in psychology is known as **psychophysics**, which goes back to the 1860's and the work of Gustav Fechner, and concerns the relationship between perception and the detailed physical properties of a stimulus.  One of the main questions of interest here is the *threshold* level of stimulus intensity that can just barely be detected, which tells us how sensitive our sensory systems are, as summarized in [@fig:fig-modalities] in terms of the **absolute threshold**.  A key issue in determining this threshold is in coming up with an appropriate definition of what it means that a stimulus can be detected --- what if you can't quite detect it all the time, but still most of the time --- does that count?  The widely adopted convention has been to use a *50% probability of detection* for the threshold, such that half the time you detect it and half the time you don't.
 
-We can also determine the **discrimination threshold** or **just-noticeable difference** (*JND*), which is how big of a *difference* between two different stimuli that can be reliably detected (again typically at the 50% probability level).  One of the most exciting results in psychophysics is that this JND is a function of the intensity of the stimuli, and the famous **Weber's Law** (named for Ernst Weber who discovered it back in the 1830's) says that it is a constant proportion of the intensity.  For example, if people can detect differences in fairly dim lights of say 5 percent relative to the brightest of the two lights, then to detect differences in much brighter lights, the raw differences must also be much larger, exactly in proportion to the increased intensity of the lights.  This proportion (e.g., 5% in this example) is known as the **Weber fraction**.
+We can also determine the **discrimination threshold** or **just-noticeable difference** (*JND*), which is how big of a *difference* between two different stimuli that can be reliably detected (again typically at the 50% probability level).  One of the most exciting results in psychophysics is that this JND is a function of the intensity of the stimuli, and the famous **Weber's Law** (named for Ernst Weber who discovered it back in the 1830's) says that it is a constant proportion of the intensity.  For example, if people can detect differences in fairly dim lights of say 5 percent relative to the brightest of the two lights, then to detect differences in much brighter lights, the raw differences must also be much larger, exactly in proportion to the increased intensity of the lights.  This proportion (e.g., 5% in this example) is known as the **Weber fraction**.  Weber's Law is exactly what the *contrast* coding of neurons would predict --- neurons respond to the *relative* balance of inputs coming in, and when you scale those inputs up or down in strength, then it is really just the percent difference that matters for a neuron's firing.
 
 ## Summary
 
@@ -267,7 +273,7 @@ This is a checklist of key terms / concepts that you should know about from this
     + Red-green, blue-yellow opponent color coding
     + Binocular depth cues: retinal disparity, convergence
     + Monocular depth cues: occlusion, relative size, texture, linear perspective
-    + Object, top-down biases, hallucinations, Kanisza triangle
+    + Object, top-down biases, hallucinations, Kanisza triangle, multiple constraint satisfaction
     + Gestalt principles
     + Time contrast: novelty filter
 
@@ -275,6 +281,7 @@ This is a checklist of key terms / concepts that you should know about from this
     + Amplitude, frequency, wavelength
     + Ear drum, cochlea, hair cells
     + Place coding, spectrogram
+    + McGurk effect
     
 * Attention
     + Spotlight
