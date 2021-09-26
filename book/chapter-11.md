@@ -80,7 +80,7 @@ It is also interesting to speculate that there might be a *benefit* to the reces
 
 Now we can actually talk about how behavioral genetics works.  Basically, it amounts to comparing the genetic similarity of people against their *phenotypic* similarity, where the **phenotype** is just a complex word for the thing you are actually interested in, such as IQ, height, eye color, etc.  For a very small set of phenotypes, your genes essentially determine 100% of how you'll end up.  For example, there are specific recessive genes that cause Huntington's disease, and cystic fibrosis.  But for almost everything else, the relationship between genetic differences and phenotypic differences is much more complex, and actually determining how much can be attributed to genes is surprisingly challenging.
 
-Let's take the case of IQ.  As we discussed in [sec:ch-think], there is ample evidence that your IQ is a function of learning, motivation, and the wealth and general +socioeconomic status **(SES)** of your parents.  Thus, any dependence on genes is likely to be at least somewhat indirect.  But how can we measure it?  The only way until very recently is to compare the IQs of identical (monozygotic) versus fraternal (dizygotic) twins, and somehow use their known genetic similarity differences to compute how much of their measured IQ differences can be accounted for by those known genetic factors.  This is known as the **twin method**.
+Let's take the case of IQ.  As we discussed in [@sec:ch-think], there is ample evidence that your IQ is a function of learning, motivation, and the wealth and general +socioeconomic status **(SES)** of your parents.  Thus, any dependence on genes is likely to be at least somewhat indirect.  But how can we measure it?  The only way until very recently is to compare the IQs of identical (monozygotic) versus fraternal (dizygotic) twins, and somehow use their known genetic similarity differences to compute how much of their measured IQ differences can be accounted for by those known genetic factors.  This is known as the **twin method**.
 
 ![The *twin method* for computing heritability from identical (MZ = monozygotic) and fraternal (DZ = dizygotic) twins.  P = phenotype variance; A = additive genetic variance; C = common (shared) environment; E = unique (non-shared) environment (and everything else).](../figures/fig_heritability_ace.jpg){#fig:fig-heritability width=60% }
 
@@ -252,7 +252,7 @@ Our brains have such an amazing ability for creative imagination --- we have the
 
 ## Summary of Key Terms
 
-This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
+This is a checklist of key terms / concepts that you should know about from this chapter.  As we learned in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
 
 * Evolution:
     + Adaptation, survival and reproduction of the fittest
@@ -290,7 +290,7 @@ This is a checklist of key terms / concepts that you should know about from this
     + Prefrontal cortex development
     + A-not-B, card sorting tasks
     + Crystallized vs. fluid intelligence development
-    + Face processing: CONSPEC, CONLEARN
+    + Face processing: CONSPEC, CONLERN
     + Motor learning: visual cliff and ramps
     + Erikson's stages of psychosocial development: control, autonomy, and identity crisis in adolescence
     + Attachment theory, Harry Harlow's motherless monkeys

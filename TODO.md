@@ -1,6 +1,28 @@
+# Todo:
+
 Midterm questions: control, contrast questions with specific examples seemed hard.
 
-* [ ] decide on a consistent strategy for bolding key terms, vs. glossary lookup, and redo all bolding etc to match.  basically, should bold when primarily discussing in chapter, and glossary otherwise.  just do it.
+Perception
+
+* [ ] Ch4: on / off: add tiny circles for cones, make point about RF of ganglion recv from many cones
+
+* [ ] Ch4: signal detection theory
+
+* [ ] Ch4: auditory subcortical pathways turning time patterns -> spatial patterns
+
+Social
+
+* [ ] Ch9: sales techniques: door-in-face, foot-in-door, etc
+
+Disorders
+
+* [ ] Ch11: legal insanity, free will..
+
+
+# DONE:
+
+* [X] decide on a consistent strategy for bolding key terms, vs. glossary lookup, and redo all bolding etc to match.  basically, should bold when primarily discussing in chapter, and glossary otherwise.  just do it.
+
 
 Neuro
 
@@ -12,19 +34,12 @@ Consciousness
 
 * [X] Ch3: is twitter conscious?
 
-Perception
-
-* [ ] Ch4: on / off: add tiny circles for cones, make point about RF of ganglion recv from many cones
 
 * [X] Ch4: context effects and top down: THE CAT figure
 
 * [X] Ch4: add McGurk effect
 
 * [X] Ch4: JND = Contrast effect
-
-* [ ] Ch4: signal detection theory
-
-* [ ] Ch4: auditory subcortical pathways turning time patterns -> spatial patterns
 
 Learning
 
@@ -76,8 +91,6 @@ Social
 
 * [X] ch9: power of situation for zimbardo / milgram
 
-* [ ] Ch9: sales techniques: door-in-face, foot-in-door, etc
-
 * [X] Ch9: add point about relative comparison of $$ made to happiness -- also parapalegic point.
 
 * [X] Ch9: make sure has: satisfaction vs. momentary, adaptation, contrast effects, parapalegic vs. lottery, etc
@@ -97,10 +110,6 @@ Origins
 * [X] Ch10: aging, dopamine curve, crystialized vs. fluid
 
 * [ ] Ch10: MAOA gene
-
-Disorders
-
-* [ ] Ch11: legal insanity, free will..
 
 * [X] Ch11: randomized control studies for therapy
 

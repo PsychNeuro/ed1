@@ -1,4 +1,4 @@
-**Dedication**
+{<} \huge Dedication
 
 \
 \

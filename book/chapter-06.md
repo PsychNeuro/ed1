@@ -128,13 +128,11 @@ Why are we willing to work for money?  Money is just an abstract concept, and ha
 
 One the CS side of the learning process, it is possible, though somewhat difficult, to train an animal to associate CS1 with CS2 (e.g., a light and a tone) and CS2 with the US, so that, indirectly, CS1 becomes associated with reward.  To isolate the learning strictly to the CS side, these experiments are typically run as follows:  First, CS2 is conditioned in the usual way, to predict the US.  Then, CS1 -> CS2 is presented *without* the US at all, and then finally CS1 is tested and, if the procedure was successful, it elicits the CR.  Interestingly, presenting just the CSs without the US means that this is effectively an *extinction* learning experiment, and thus some of the complexity there comes into play, and overall these higher-order conditioning results are rather weak and unreliable.  
 
-
 ### Biological Limits on Conditioning
 
-In the heyday of behaviorism, some scientists thought that conditioning was a fully general principle of learning that would eventually explain all forms of knowledge acquisition.  However, subsequent research established that there are strong limits and biases on the nature of the learning process, which make sense ecologically, but nevertheless undermine the full generality of this type of learning [@GarciaMcGowanGreen72].  For example, John Garcia demonstrated that rats who became nauseous as a result of radiation would learn in a single trial, after an interval of several hours, to avoid anything they had eaten prior to the radiation treatment.  This extremely fast and robust learning across a very long delay was unheard of in any other form of conditioning.  Furthermore, they would not learn to associate signals such as tones or lights with the nausea, while these signals are readily learned as predictors of shock USs, while rats do not learn to associate food with shock.  This pattern of results suggests that there are strong biological constraints on the conditioning process.
+In the heyday of behaviorism, some scientists thought that conditioning was a fully general principle of learning that would eventually explain all forms of knowledge acquisition.  However, subsequent research established that there are strong limits and biases on the nature of the learning process, which make sense ecologically, but nevertheless undermine the full generality of this type of learning [@GarciaMcGowanGreen72].  For example, John Garcia demonstrated that rats who became nauseous as a result of radiation would learn in a single trial, after an interval of several hours, to avoid anything they had eaten prior to the radiation treatment.  This extremely fast and robust **conditioned taste aversion** learning across a very long delay was unheard of in any other form of conditioning.  Furthermore, the rats would not learn to associate signals such as tones or lights with the nausea, but these same signals are readily learned as predictors of shock USs.  Likewise, rats do not learn to associate food with shock.  This pattern of results suggests that there are strong biological constraints on the conditioning process.
 
-We can understand the nature of some of these constraints in terms of the pathways through the +amygdala where the CS and US associations are forged.  The neurons have fairly strong built-in US-specific responses, and these different US cells can receive different types of sensory inputs.  Presumably, evolutionary pressures in this and other brain systems have established preferential patterns of connectivity, which makes good sense in terms of the kinds of things that actually matter in the animals life.  Nevertheless, it does suggest that human-level abstract learning of advanced novel concepts is not likely to be supported by these kinds of more limited learning systems, consistent with the critical involvement of the neocortex and more the general-purpose learning mechanisms at work there.
-
+We can understand the nature of some of these constraints in terms of the pathways through the **amygdala** where the CS and US associations are forged.  The neurons have fairly strong **built-in US-specific responses**, and these different US cells can receive different types of sensory inputs.  Presumably, evolutionary pressures in this and other brain systems have established preferential patterns of connectivity, which makes good sense in terms of the kinds of things that actually matter in the animals life.  Nevertheless, it does suggest that human-level abstract learning of advanced novel concepts is not likely to be supported by these kinds of more limited learning systems, consistent with the critical involvement of the neocortex and more the general-purpose learning mechanisms at work there.
 
 ## Operant / Instrumental Conditioning
 
@@ -142,7 +140,7 @@ Classical conditioning is the sensory front-end to the other major form of learn
 
 ![The Go (direct) vs. NoGo (indirect) pathways through the basal ganglia.  When the Go neurons in the striatum are activated by excitatory inputs coming from the cortex (timecourse of activity shown in the small graph above Go --- striatum neurons are usually not firing), they inhibit the GPi (globus pallidus internal segment) neurons, which are typically active (as shown in graph).  This inhibition of GPi releases the Thalamus neurons from the inhibition they were otherwise receiving from the GPi: this is called *disinhibition* --- the release of inhibition, and it is a common if difficult to understand motif found in many areas of the brain.  The disinhibition of the Thalamus allows bidirectional excitatory connections with the frontal cortex to generate mutual excitation, which then enables the frontal activity to drive motor responses (or internal cognitive actions).  The NoGo pathway adds yet another inhibitory link into this pathway, through the GPe (GP external segment), which has the opposite effect as the Go pathway, removing inhibition of the GPi and thus causing it to be more active, inhibiting the Thalamus, and preventing action initiation.](../figures/fig_bg_gating_circuit.png){#fig:fig-bg width=30% }
 
-The first step in understanding this somewhat complex (but potentially satisfying to understand) system, we first need to understand how the basal ganglia circuit works, in terms of two opposing pathways that start in the +striatum.  These pathways are known as the *Go* (*direct*) and *NoGo* (*indirect*) pathways, where the Go pathway ends up driving action initiation, while the NoGo pathway has the opposite effect [@Mink96].  As explained in [@fig:fig-bg], the Go pathway has a net *disinhibitory* effect on the thalamus and +frontal cortex, while NoGo opposes that effect, but it is not essential to understand these admittedly complex details.  Dopamine has opposite effects on these two pathways, through two different dopamine receptors: *D1* receptors on the Go pathway neurons have a net excitatory effect, and also cause strengthening (LTP) on the inputs to these neurons, while *D2* receptors on the NoGo pathway neurons have the opposite pattern of effects.
+The first step in understanding this somewhat complex (but potentially satisfying to understand) system, we first need to understand how the basal ganglia circuit works, in terms of two opposing pathways that start in the +striatum.  These pathways are known as the **Go** (*direct*) and **NoGo** (*indirect*) pathways, where the Go pathway ends up driving action initiation, while the NoGo pathway has the opposite effect [@Mink96].  As explained in [@fig:fig-bg], the Go pathway has a net *disinhibitory* effect on the thalamus and +frontal cortex, while NoGo opposes that effect, but it is not essential to understand these admittedly complex details.  **Dopamine** has opposite effects on these two pathways, through two different dopamine receptors: *D1* receptors on the Go pathway neurons have a net excitatory effect, and also cause strengthening (LTP) on the inputs to these neurons, while *D2* receptors on the NoGo pathway neurons have the opposite pattern of effects.
 
 ![How increases in dopamine (bursts) and decreases in dopamine (dips) drive learning in opposing Go vs. NoGo pathways in the basal ganglia.  When an action leads to an unexpected positive outcome, the resulting dopamine burst activates a special type of dopamine receptor (the D1 receptor), which is excitatory on the Go neurons and drives LTP learning in the input synapes to these neurons.  This makes those neurons more likely to fire again under similar circumstances, achieving Thorndike's law of effect.  The opposite happens when dopamine dips occur for unexpectedly bad outcomes, which interesingly has a net LTP effect on the NoGo neurons via D2 receptors, while also being inhibitory on these neurons overall, and also has an LTD effect on the Go neurons.](../figures/fig_bg_frontal_da_burst_dip.png){#fig:fig-bg-da width=70% }
 
@@ -174,7 +172,7 @@ To complete the circuit, the granule cells send out *parallel fiber* axons, that
 
 The final piece of the cerebellar puzzle is the *climbing fiber* input from the *inferior olivary nucleus* --- there is exactly one such climbing fiber per Purkinje cell, and it has a very powerful effect on the neuron, producing a series of *complex spikes*. It is thought that climbing fiber inputs convey a training or error signal to the Purkinje cells, which then drives synaptic plasticity in its associated granule cell inputs.  Specifically, it produces LTD (weight decrease) for synaptic inputs where the granule cells are active, which then makes these neurons *less* likely to fire the Purkinje cell in the future. This would make sense given that the Purkinje cells are inhibitory on the *deep cerebellar nuclei* neurons, so to produce an output from them, the Purkinje cell needs to be turned off.  This is again a disinhibition situation, just like in the basal ganglia.
 
-Putting all these pieces together, David Marr [@Marr69] and James Albus [@Albus71] argued that the cerebellum is a system for error-driven learning, with the error signal coming from the climbing fibers.  Critically, the learning is done in a very high-dimensional space over the huge population of granule cells --- this allows learning to effectively "memorize" a different motor command even for very similar situations --- it acts as a kind of giant "lookup table" for which motor command to perform in a given very specific situation.  The drawback is that it does not generalize to novel input patterns very well, and this may explain why gymnasts and other elite athletes require so much practice to perfect complex motor skills over time.  Basically, the cerebellum has to memorize the right thing to do for each tiny difference in posture and motion!
+Putting all these pieces together, David Marr [@Marr69] and James Albus [@Albus71] argued that the cerebellum is a system for **error-driven learning**, with the error signal coming from the climbing fibers.  Critically, the learning is done in a very high-dimensional space over the huge population of granule cells --- this allows learning to effectively "memorize" a different motor command even for very similar situations --- it acts as a kind of giant **lookup table** for which motor command to perform in a given very specific situation.  The drawback is that it does not generalize to novel input patterns very well, and this may explain why gymnasts and other elite athletes require so much practice to perfect complex motor skills over time.  Basically, the cerebellum has to memorize the right thing to do for each tiny difference in posture and motion!
 
 ## Motivation
 
@@ -270,13 +268,21 @@ One final issue concerns the optimal level of arousal, often discussed in terms 
 
 This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
 
+* Learning
+    + Empiricism vs. rationalism / nativism
+    + Self-organizing
+
 * Synaptic Plasticity
     + Hebbian Learning
     + Long Term Potentiation (LTP)
     + Long Term Depression (LTD)
     + 5 Steps of NMDA / Ca++ synaptic plasticity
     + What determines LTP vs. LTD direction of synaptic plasticity?
+    
+* Neocortical Learning
     + Error backpropagation
+    + Predictive learning
+    + Imitation, observational learning, mirror neurons
 
 * Classical Conditioning
     + Conditioned stimulus (CS)
@@ -285,17 +291,22 @@ This is a checklist of key terms / concepts that you should know about from this
     + Dopamine responses to CS, R, no-R in conditioning expt
     + Rescorla-Wagner learning rule / reward prediction error model of dopamine
     + Extinction, and its context sensitivity: spontaneous recovery, reinstatement, renewal
+    + Primary and secondary reinforcer, higher-order conditioning
+    + Biological limits, conditioned taste aversion, amygdala US-specific neurons
 
 * Operant / Instrumental Conditioning
     + Thorndike's law of effect
-    + Implementation thereof in terms of dopamine effects on BG Go / NoGo
+    + BG Go / NoGo pathways, dopamine learning effects
     + Actor / Critic model
     + Partial reinforcement and gambling
     + Shaping to build up complex behaviors
-    + Primary and secondary reinforcers
+    
+* Cerebellum
+    + Error driven learning
+    + Lookup table memorization
 
 * Motivation
-    + External (extrinsic) vs. internal (intrinsic) motivation
+    + External (extrinsic) vs. internal (intrinsic)
     + Drive reduction
     + Maslow's hierarchy of needs (levels of hierarchy)
     + Goal-driven: progress, satisfaction, frustration, anger, disappointment; satiety & devaluation paradigms
@@ -305,8 +316,9 @@ This is a checklist of key terms / concepts that you should know about from this
 * Emotion and Arousal
     + Circumplex model
     + Six basic emotions according to Ekman's original faces
-    + Relationship between emotion and motivation
-    + Importance of both physiological and higher-level interpretations for emotion
+    + Relationship between emotion and motivation / goal states (Maslow hierarchy)
+    + Biological grounding: James-Lange vs. Cannon-Bard vs. two-factor
+    + Interoception, vagus nerve
     + Yerkes-Dodson law: inverted U
 
 

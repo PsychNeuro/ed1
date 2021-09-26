@@ -1,6 +1,7 @@
 copyright:
   owner: "Randall C. O'Reilly"
-  year: 2020
+  year: 2021
+  version: "v1.1.1"
 
 documentclass: book
 top-level-division: chapter
@@ -9,7 +10,7 @@ number-sections: true
 
 title: "Principles of Psychology and Neuroscience, First Edition"
 
-publisher: "Open Textbook, freely available"
+publisher: "Open Textbook, freely available: https://github.com/PsychNeuro/ed1"
 
 # Whether or not to enable PlantUML. You must install PlantUML, and the
 # "plantuml" command must be in your path, if you enable this feature.

@@ -18,7 +18,7 @@ The trick to getting these AI systems to finally work was to adopt the strategy 
 
 The essential strategy learned by these deep neural networks, and the brain, is shown in [@fig:fig-hierarchy-detect2] (we already saw this figure in [@sec:ch-neuro]), where each layer **compresses** the complexity of the patterns on the layer before: *getting rid of irrelevant differences, while extracting the important ones that the system actually cares about.*  This is the essential function of perceptual systems, served by the 10,000-to-1 compression property of individual neurons that are detecting relevant patterns and ignoring irrelevant ones.
 
-To use another metaphor, you can think of perception as a *filter*, filtering out irrelevant "junk" from the perceptual input signal, and purifying the relevant, important stuff.  It takes multiple layers of such filters because one step of filtration can only do so much purification, and each such layer builds on the partially-purified outputs of the layer before.  This is why it takes so many neurons in the brain, and in the AI models, to do a good job at perception --- each individual neuron can only do a small part of the overall job.
+To use another metaphor, you can think of perception as a **filter**, filtering out irrelevant "junk" from the perceptual input signal, and purifying the relevant, important stuff.  It takes multiple layers of such filters because one step of filtration can only do so much purification, and each such layer builds on the partially-purified outputs of the layer before.  This is why it takes so many neurons in the brain, and in the AI models, to do a good job at perception --- each individual neuron can only do a small part of the overall job.
 
 ## We See the "Real" World, not Raw Sensation
 
@@ -218,7 +218,7 @@ For the time being, please refer to [@fig:fig-modalities] for the relevant basic
 
 In addition to all the compression described so far, there is another critical driver of compression effects in perception, known as **attention**.  Subjectively, attention is often described as a **spotlight**, shining a bright mental light on one, or at most a few, items in the current *attentional focus*, which also has the effect of pushing everything else off into the shadows.  Like compression, attention operates everywhere in the cortex, and can be understood in terms of basic features of the circuits and neurons there.
 
-[@fig:fig-attention] shows how attention emerges from the interactions between +bidirectional +excitation and +inhibition among neurons [@CohenRomeroFarahEtAl94].  Top-down and bottom-up excitation provide the basic drivers of attention, either or both of which can tip the balance in favor of what gets the current focus, while inhibition creates a competition among various things that could be in focus, strongly limiting the total scope of what can be in focus (most typically just a single focal item).  This inhibition also automatically pushes everything else out into the shadows.  Not coincidently, this bidirectional excitation is the same central ingredient in consciousness that we discussed in [@sec:ch-consc] (aka *recurrent* processing) --- the focus of attention typically corresponds to what we are consciously aware of.
+[@fig:fig-attention] shows how attention emerges from the interactions between **bidirectional excitation** and **inhibition** among neurons [@CohenRomeroFarahEtAl94].  Top-down and bottom-up excitation provide the basic drivers of attention, either or both of which can tip the balance in favor of what gets the current focus, while inhibition creates a competition among various things that could be in focus, strongly limiting the total scope of what can be in focus (most typically just a single focal item).  This inhibition also automatically pushes everything else out into the shadows.  Not coincidently, this bidirectional excitation is the same central ingredient in consciousness that we discussed in [@sec:ch-consc] (aka *recurrent* processing) --- the focus of attention typically corresponds to what we are consciously aware of.
 
 There is a special part of the brain, in the *parietal lobe*, that seems to be particularly important for **spatial attention** (i.e., paying attention to different parts of space), which has been extensively studied.  Although attention itself is ubiquitous, spatial attention is particularly important in perception because discrete objects tend to occupy different regions of space, and thus we tend to use this spatial attentional focus as a way of directing attention at different objects of interest.  This special role for spatial attention is also directly tied to the fact that the very same neural circuits in the parietal lobe are used for deciding where to move our eyes.  Thus, attention is typically synonymous with *looking*, and the motor action of looking (moving the eyes) requires working with the spatial coordinates of where to look.
 
@@ -275,7 +275,7 @@ This is a checklist of key terms / concepts that you should know about from this
     + Monocular depth cues: occlusion, relative size, texture, linear perspective
     + Object, top-down biases, hallucinations, Kanisza triangle, multiple constraint satisfaction
     + Gestalt principles
-    + Time contrast: novelty filter
+    + Time contrast: novelty filter, adaptation etc
 
 * Audition
     + Amplitude, frequency, wavelength
@@ -284,9 +284,8 @@ This is a checklist of key terms / concepts that you should know about from this
     + McGurk effect
     
 * Attention
-    + Spotlight
-    + Spatial attention in parietal lobe
-    + Hemispatial neglect
+    + Spotlight, bidirectional excitation and inhibition
+    + Spatial attention in parietal lobe: Hemispatial neglect
     + Posner spatial cuing task
 
 * Psychophysics

@@ -1,6 +1,4 @@
-\newpage
-
-**Glossary**
+# Glossary
 
 ## A
 

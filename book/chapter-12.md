@@ -258,7 +258,7 @@ As this is the final chapter of the book, you should now go back and re-read the
 
 ## Summary of Key Terms
 
-This is a checklist of key terms / concepts that you should know about from this chapter.  As we'll learn in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
+This is a checklist of key terms / concepts that you should know about from this chapter.  As we learned in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
 
 * Disease model vs. Disorder
     + Neurodiversity vs. Neurotypical
@@ -326,5 +326,6 @@ This is a checklist of key terms / concepts that you should know about from this
     + Behavioral activation
     + Mindfulness
     
-* Pharmacology
+* Pharmacology & Other Treatments
     + SSRI, Prozac
+    + ECT vs. others

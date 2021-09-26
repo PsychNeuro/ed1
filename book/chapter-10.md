@@ -44,7 +44,7 @@ Thus, the self is just like any other stable factor that we perceive in the worl
 
 ![The rubber hand illusion, which induces a compelling sense of self, due to multisensory integration of the sight and feeling of brushing against the arm.  This may reflect the presence of an internal predictive self-model that compresses the multitude of sensory inputs, motor actions, affective signals, etc.](../figures/fig_rubber_hand_illusion.jpg){#fig:fig-rubber-hand width=40% }
 
-A compelling demonstration for how our subjective sense of self could emerge from an internal model that is driven by predicting diverse multi-modal sensory inputs is provided by the **rubber hand illusion** [@BotvinickCohen98] ([@fig:fig-rubber-hand]). In this experiment, people (myself included --- I was a participant!) experienced a striking subjective sensation that a rubber hand was their own hand, due to the convergence of visual and somatosensory sensations associated with synchronous brushing of the real hand and the rubber hand.  In other words, you see the rubber hand being brushed, and feel at precisely the same moment your own hand being brushed, and the simplest explanation for your brain is that you are looking at your own hand being brushed.  Like the illusions you experienced in [sec:ch-perc], the power of this demonstration is in the immediate subjective experience of self-ness attributed to the obviously rubber hand --- it is truly freaky, and unfortunate that we cannot easily reproduce it in this book.
+A compelling demonstration for how our subjective sense of self could emerge from an internal model that is driven by predicting diverse multi-modal sensory inputs is provided by the **rubber hand illusion** [@BotvinickCohen98] ([@fig:fig-rubber-hand]). In this experiment, people (myself included --- I was a participant!) experienced a striking subjective sensation that a rubber hand was their own hand, due to the convergence of visual and somatosensory sensations associated with synchronous brushing of the real hand and the rubber hand.  In other words, you see the rubber hand being brushed, and feel at precisely the same moment your own hand being brushed, and the simplest explanation for your brain is that you are looking at your own hand being brushed.  Like the illusions you experienced in [@sec:ch-perc], the power of this demonstration is in the immediate subjective experience of self-ness attributed to the obviously rubber hand --- it is truly freaky, and unfortunate that we cannot easily reproduce it in this book.
 
 ![Mirror neurons in monkey premotor cortex respond to actions by others in the same way that they respond to their own actions.](../figures/fig_mirror_neurons.jpg){#fig:fig-mirror2 width=50% }
 
@@ -339,6 +339,9 @@ With the unprecedented nature of the existential threat from climate change beco
 ## Summary of Key Terms
 
 This is a checklist of key terms / concepts that you should know about from this chapter.  As we learned in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
+
+* Power of social forces
+    + Social brain hypothesis
 
 * Self, self-report vs. objective data
 
