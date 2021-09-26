@@ -217,10 +217,49 @@ More recently, there have been a number of studies exploring a weaker form of th
 
 ## Culture and Language Evolution
 
-* language "bling" and contrast effects -- cool words, etc
+![History of cool across different cultures.](../figures/fig_history_of_cool.png){#fig:fig-history-of-cool width=80% }
 
-* children of deaf parents create their own language
+![Popular synonyms for the term "cool" according to the urbanthesaurus.org](../figures/fig_cool_slang.png){#fig:fig-cool-slang width=50% }
 
-* pidgin
+Language is not some kind of stuffy, static edifice, but rather a dynamic growing thing, which we can see by tracking the forefront of language: *slang*.  Language is ultimately just another tool for people to satisfy their needs and desires, and as we'll see in the next chapter, one of the strongest of which is establishing a relative standing of *dominance* within a relevant peer group.  A long-lasting term for describing someone with high relative social standing is "cool", and one interpretation of the broader sense of what is "cool" across time and different cultures is shown in [@fig:fig-history-of-cool].  If we try to get an updated picture of the latest slang for "cool", the handy [urban thesaurus](https://urbanthesaurus.org) gives you something like [@fig:fig-cool-slang].  Of these, I'm familiar with a few, such as "sick", "bitchin", "bomb", "rad", "groovy", "sweet", and "dope", which inevitably means that they are not likely to actually be "cool" words right now (honestly, I'm surprised about "bitchin" being so high on the list ---- that was cool when I was in high school).  Unless there has been a full 360 rotation, words like "snazzy", "hot dog", and "fresh" connote, even to me, the exact opposite of cool, and I only ever used "groovy" with a healthy dose of irony.  So really, language is like fashion --- few things are truly timeless, and most of it is, by definition, out of date as soon as anyone who is decidedly "uncool" like me has even heard of it.  
 
+Many aspects of our current standard English language were once "cool" twists that eventually became mainstream.  There are many other forces that shape the evolution of language, including making frequent things simpler to say, adapting to major changes in technology (e.g., the verb "to google"), and incorporation of words from other languages due to social mixing and other forces.  For example, English words are considered "cool" in Japan, but there is also a conflicting desire to preserve and venerate existing Japanese words.  Also, Japanese has an entirely separate alphabet dedicated to writing foreign words (Katakana), so it explicitly marks these differences.  The French are trying hard to preserve their language and resist incorporation of too many English words, including modern technology words (e.g., the use of "ordinateur" instead of "computer").
 
+There are some special and dramatic cases of language development that have been widely studied.  For example, when circumstances cause a major mixing of people speaking different languages, there is a well-documented transition between a **pidgin** to a **creole**, where the creole is a full-fledged synthetic language learned as a first language by children, while the pidgin is an initial synthesis created by adult speakers and, as with most second language learning, it lacks a fully systematic grammar.  The children born into the environment of a pidgin language tend to systematically regularize the grammar and that process is one essential step in the development of the creole.  This provides an important window into the nature of language development and evolution, and further establishes the important qualitative differences between first and second language acquisition.  One recent example documented in great detail is with the development of Nicaraguan Sign language [@SenghasKitaOzyurek04].
+
+## Summary of Key Terms
+
+This is a checklist of key terms / concepts that you should know about from this chapter.  As we learned in the memory chapter, it is a great idea to test yourself on what was said about each of these terms, and then go back and double-check --- that provides both beneficial repetition and also the *testing effect*.
+
+* Communication
+    + encoding, channel, decoding
+    + protocol levels
+    + physical symbols
+* Speech
+    + vocal-tract, phonemes, phonology, vowel, consonant, vocal cords, syllables
+    + spectrogram, place coding, categorical perception
+* Writing
+    + history
+    + pictograms, logographic, alphabetic, syllabic
+    + spelling-to-sound correspondence: regular, irregular
+* Syntax and Semantics
+    + lexicon, vocabulary, morpheme, morphology
+    + grammar, part of speech
+* Language acquisition
+    + universal grammar, poverty of the stimulus
+    + predictive learning, statistical learning
+    + word learning, vocabulary explosion
+    + mutual exclusivity, fast mapping, social cues, shape bias, whole object bias
+    + critical period, second language acquisition, bilingualism
+* Language in Animals
+    + differences from human language
+    + motivation to share
+* Language in the Brain
+    + Broca's area
+    + Wernicke's area
+* Language of Thought
+    + Sapir-Whorf hypothesis
+* Culture and Language Evolution
+    + "cool"
+    + pidgin, creole
+    
