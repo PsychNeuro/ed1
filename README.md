@@ -8,17 +8,17 @@ Web page: [PrinciplesOfPsych.org](https://PrinciplesOfPsych.org)
 
 # Formats
 
-Please use the following links to download the formatted version of the book:
+Please use the following links to download the formatted version of the book (v1.1.0, updated Sep 26, 2021):
 
-* [PDF](https://github.com/PsychNeuro/ed1/releases/download/v1.0.0/psychneuro_ed1.pdf) --- best for printing
+* [PDF](https://github.com/PsychNeuro/ed1/releases/download/v1.1.0/psychneuro_ed1.pdf) --- best for printing
 
-* [ePub](https://github.com/PsychNeuro/ed1/releases/download/v1.0.0/psychneuro_ed1.epub) --- opens in e.g., Mac iBooks
+* [ePub](https://github.com/PsychNeuro/ed1/releases/download/v1.1.0/psychneuro_ed1.epub) --- opens in e.g., Mac iBooks
 
-* [Kindle / MOBI](https://github.com/PsychNeuro/ed1/releases/download/v1.0.0/psychneuro_ed1.mobi) --- you can email this to yourself at your amazon kindle account to get it on your device: https://www.amazon.com/gp/sendtokindle/email
+* [Kindle / MOBI](https://github.com/PsychNeuro/ed1/releases/download/v1.1.0/psychneuro_ed1.mobi) --- you can email this to yourself at your amazon kindle account to get it on your device: https://www.amazon.com/gp/sendtokindle/email
 
 * [Amazon.com](https://www.amazon.com/dp/B08KQ6C6G1) --- you can pay $2.99 (lowest price possible) to have Amazon upload the book to your kindle, or roughly $39 for them to send you an on-demand paperback print version (in color)
 
-* [HTML](https://github.com/PsychNeuro/ed1/releases/download/v1.0.0/psychneuro_ed1.html) --- single big HTML file, readable in your browser.
+* [HTML](https://github.com/PsychNeuro/ed1/releases/download/v1.1.0/psychneuro_ed1.html) --- single big HTML file, readable in your browser.
 
 Note: if you click on `book` and the individual `.md` files in there (which is the raw source for the text), you can read the text but the figure captions will not show up, and there will be a `{ width }` styling tag after figures.
 
