@@ -1,6 +1,6 @@
 # makefile for building book
 
-VERS=v1.0.0
+VERS=v1.1.0
 
 all:
 	./citeproc.sh
