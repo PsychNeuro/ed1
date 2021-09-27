@@ -10,13 +10,13 @@ Web page: [PrinciplesOfPsych.org](https://PrinciplesOfPsych.org)
 
 Please use the following links to download the formatted version of the book (v1.1.1, updated Sep 26, 2021):
 
-* [PDF](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.pdf) --- best for printing
+* [PDF](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.pdf) --- best for printing.
 
-* [ePub](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.epub) --- opens in e.g., Mac iBooks
+* [ePub](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.epub) --- opens in e.g., Mac iBooks (also usable on Kindle now).
 
-* [Kindle / MOBI](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.mobi) --- you can email this to yourself at your amazon kindle account to get it on your device: https://www.amazon.com/gp/sendtokindle/email
+* [Kindle / KPF](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.kpf) --- you can email this to yourself at your amazon kindle account to get it on your device: [Kindle help page](https://www.amazon.com/gp/help/customer/display.html?nodeId=G7NECT4B4ZWHQ8WV)
 
-* [Amazon.com](https://www.amazon.com/dp/B08KQ6C6G1) --- you can pay $2.99 (lowest price possible) to have Amazon upload the book to your kindle, or roughly $39 for them to send you an on-demand paperback print version (in color)
+* [Amazon.com](https://www.amazon.com/dp/B08KQ6C6G1) --- you can pay $2.99 (lowest price possible) to have Amazon upload the book to your kindle, or roughly $53 for them to send you an on-demand paperback print version (in color).
 
 * [HTML](https://github.com/PsychNeuro/ed1/releases/download/v1.1.1/psychneuro_ed1.html) --- single big HTML file, readable in your browser.
 
