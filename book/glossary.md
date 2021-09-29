@@ -399,7 +399,7 @@ are drugs that activate the +endogenous opioid system, which is involved in regu
 ## P
 
 ##### paradigm
-refers to an influential set of interconnected theories and data that many individual scientists believe in at a given point in time.  In psychology, examples include the paradigms of +behaviorism and +cognitivism.  Thomas Khun established the paradigm as a way of understanding the nature of scientific progress, which can get stuck in a paradigm, until enough evidence accumulates to overthrow it.
+refers to an influential set of interconnected theories and data that many individual scientists believe in at a given point in time.  In psychology, examples include the paradigms of +behaviorism and +cognitivism.  Thomas Kuhn established the paradigm as a way of understanding the nature of scientific progress, which can get stuck in a paradigm, until enough evidence accumulates to overthrow it.
 
 ##### parasympathetic nervous system
 is an +autonomic system involved in slower offline activities such as digestion and sexual reproduction ("feed and breed").
