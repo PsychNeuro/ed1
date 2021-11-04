@@ -287,7 +287,7 @@ This is a checklist of key terms / concepts that you should know about from this
 * Problem solving:
     + Strategies: trial-and-error, hill-climbing / gradient ascent, means-ends
     + Insight problems
-    + Functional fixedness
+    + Functional fixedness, mental set
     
 * Intelligence tests:
     + Stanford-Binet
