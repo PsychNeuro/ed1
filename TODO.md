@@ -10,6 +10,8 @@ Midterm questions: control, contrast questions with specific examples seemed har
 
 * neuro methods figures from _science slides
 
+* [ ] Neuromodulator = broadcast signal like radio, other non-neuromdodulators like glutamate are individual conversations between neurons..  also emphasize neuromodulator is a subset of neurotransmitter.
+
 
 * threshold, spiking: show figure, talk more about that
 
@@ -338,7 +340,11 @@ Example:
 
 * [ ] Ch4: auditory subcortical pathways turning time patterns -> spatial patterns
 
-Social
+## Ch 8: Thinking
+
+* [ ] Concrete example of working memory capacity of 4 -- show visual working memory task.
+
+## Ch Social
 
 * [ ] Ch9: sales techniques: door-in-face, foot-in-door, etc
 
