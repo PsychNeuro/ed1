@@ -1,4 +1,4 @@
-## Copyright
+\huge Copyright
 
 Published by %publisher%
 
@@ -14,7 +14,7 @@ quotations embodied in critical reviews and certain other noncommercial uses
 permitted by copyright law. For permission requests, write to the author,
 addressed “Attention: Book Permissions,” at the address available from link above.
 
-## Dedication
+\huge Dedication
 
 \
 \
@@ -30,7 +30,7 @@ _To my family._
 \
 \
 
-## Preface
+\huge Preface
 
 This is an in-progress experiment --- feedback is more than welcome.  
 

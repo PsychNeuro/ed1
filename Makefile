@@ -3,14 +3,7 @@
 VERS=v1.1.1
 
 all:
-	./citeproc.sh
-	./build
-
-install:
-	cp book.docx psychneuro_ed1.docx
-	cp book.epub psychneuro_ed1.epub
-	cp book.html psychneuro_ed1.html
-	cp book.pdf psychneuro_ed1.pdf
+	cd book; author book -o psychneuro_ed2
 
 release:
 	git commit -am "$(VERS) release"
