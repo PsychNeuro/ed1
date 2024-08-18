@@ -18,15 +18,6 @@ publisher: "Open Textbook, freely available: https://github.com/PsychNeuro/ed1"
 # Default, if not specified: false
 use_plantuml: false
 
-# Whether PDF generation uses Weasy Print (true) or LaTeX (false). Defaults to
-# false (LaTeX).
-use_weasyprint: false
-
-# Set to the language in which the book is written. This is especially
-# useful when generating PDF with weasyprint, because it affects how
-# hyphenation is handled. (When using weasyprint, automatic hyphenation is
-# supported for any language that Pyphen supports.)
-
 # Multiple authors are permitted.
 author:
 - "Randall C. O'Reilly"
@@ -51,8 +42,10 @@ urlcolor: "blue"
 
 link-citations: true
 
+csl: apa-6th-edition.csl
+
 # latex-only -- not useful
-glossary: false
+glossary: true
 
 subparagraph: true
 
