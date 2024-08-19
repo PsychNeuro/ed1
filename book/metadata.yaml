@@ -1,6 +1,6 @@
 copyright:
   owner: "Randall C. O'Reilly"
-  year: 2021
+  year: "2021"
   version: "v1.1.1"
 
 documentclass: book
@@ -12,29 +12,19 @@ title: "Principles of Psychology and Neuroscience, First Edition"
 
 publisher: "Open Textbook, freely available: https://github.com/PsychNeuro/ed1"
 
-# Whether or not to enable PlantUML. You must install PlantUML, and the
-# "plantuml" command must be in your path, if you enable this feature.
-#
-# Default, if not specified: false
-use_plantuml: false
-
 # Multiple authors are permitted.
 author:
 - "Randall C. O'Reilly"
 
 # Book identifier is optional.
-#identifier:
-#  scheme: ISBN # or DOI
-#  text: 123456789X
+identifier_scheme: ISBN
+identifier: ""
 
 # The language and variant in which the book is written.
 language: en-US
 
 # See https://wiki.mobileread.com/wiki/Genre
 genre: reference
-
-# Set this option if you need to change the paper size. Default is "letter".
-# "A4" is also valid.
 
 papersize: letter
 
@@ -43,9 +33,6 @@ urlcolor: "blue"
 link-citations: true
 
 csl: apa-6th-edition.csl
-
-# latex-only -- not useful
-glossary: true
 
 subparagraph: true
 

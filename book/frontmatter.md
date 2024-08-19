@@ -1,8 +1,8 @@
-\huge Copyright
+## Copyright
 
-Published by %publisher%
+Open Textbook, freely available: https://github.com/PsychNeuro/ed1
 
-Copyright © %copyright-year% %copyright-owner%
+Copyright © 2021 Randall C. O'Reilly
 
 Version: v1.1.1
 
@@ -14,7 +14,7 @@ quotations embodied in critical reviews and certain other noncommercial uses
 permitted by copyright law. For permission requests, write to the author,
 addressed “Attention: Book Permissions,” at the address available from link above.
 
-\huge Dedication
+## Dedication
 
 \
 \
@@ -30,7 +30,7 @@ _To my family._
 \
 \
 
-\huge Preface
+## Preface
 
 This is an in-progress experiment --- feedback is more than welcome.  
 
